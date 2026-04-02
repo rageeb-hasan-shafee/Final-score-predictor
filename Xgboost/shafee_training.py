@@ -7,6 +7,7 @@ import pandas as pd
 import numpy as np
 import xgboost as xgb
 import matplotlib.pyplot as plt
+import seaborn as sns
 from pathlib import Path
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import mean_absolute_error
@@ -108,3 +109,40 @@ print(f"\nFinal Tuned Test MAE: {res_df['mae'].mean():.2f}")
 # Save the model to a file
 best_model.save_model(str(MODEL_PATH))
 print(f"Model saved successfully as {MODEL_PATH}")
+
+# 7. VISUALIZATION
+# Convert results list to DataFrame
+res_df = pd.DataFrame(all_results)
+
+# i. MAE vs Overs (at 5, 10, 15, and 20 overs)
+# We expect the error to decrease as the match nears the end
+mae_per_over = res_df.groupby('over')['mae'].mean().reset_index()
+
+plt.figure(figsize=(10, 6))
+sns.barplot(data=mae_per_over, x='over', y='mae', palette='viridis')
+plt.title('Prediction Error (MAE) vs. Match Progress')
+plt.xlabel('Overs Completed')
+plt.ylabel('Mean Absolute Error (Runs)')
+plt.grid(axis='y', linestyle='--', alpha=0.7)
+plt.savefig('mae_vs_overs.png')
+
+# ii. MAE vs Matches (Error Distribution Bins)
+# We calculate the average MAE per match to see how many matches fall in each error range
+match_errors = res_df.groupby('match_id')['mae'].mean()
+
+# Define bins and labels (0-5, 6-10, 11-15, etc.)
+bins = [0, 5, 10, 15, 20, 25, 30, 40, 50, 100]
+labels = ['0-5', '6-10', '11-15', '16-20', '21-25', '26-30', '31-40', '41-50', '50+']
+match_errors_binned = pd.cut(match_errors, bins=bins, labels=labels, right=False).value_counts().sort_index()
+
+plt.figure(figsize=(12, 6))
+match_errors_binned.plot(kind='bar', color='skyblue', edgecolor='black')
+plt.title('Distribution of Prediction Errors across Matches')
+plt.xlabel('MAE Range (Runs)')
+plt.ylabel('Number of Matches')
+plt.xticks(rotation=45)
+plt.grid(axis='y', linestyle='--', alpha=0.7)
+plt.tight_layout()
+plt.savefig('mae_distribution.png')
+
+print("Plots generated: mae_vs_overs.png and mae_distribution.png")
