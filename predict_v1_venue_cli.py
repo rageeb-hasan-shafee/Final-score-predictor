@@ -17,10 +17,14 @@ except ImportError:
 
 console = Console()
 MODEL_MAE = 15.23  # Based on your high-performance training result
+BASE_DIR = Path(__file__).resolve().parent
+DATASET_DIR = BASE_DIR / "dataset"
+MODEL_DIR = BASE_DIR / "Xgboost"
+INPUT_PATH = BASE_DIR / "input" / "innings_input.txt"
 
 def load_data_and_encoders():
     """Recreates the LabelEncoders to match the training logic exactly."""
-    df = pd.read_csv("final_ball_by_ball_first_innings.csv")
+    df = pd.read_csv(DATASET_DIR / "final_ball_by_ball_first_innings.csv")
     encoders = {}
     for col in ["venue", "batter", "bowler", "non_striker"]:
         le = LabelEncoder()
@@ -59,14 +63,14 @@ def run_cli():
     # 1. Load Data
     try:
         encoders = load_data_and_encoders()
-        venue_info = pd.read_csv("venue_nature.csv")
+        venue_info = pd.read_csv(DATASET_DIR / "venue_nature.csv")
     except Exception as e:
         console.print(f"[red]Error loading data files:[/red] {e}")
         return
 
     # 2. Parse Match Status from TXT
     try:
-        match_stats, over = build_snapshot_from_txt(Path("innings_input.txt"))
+        match_stats, over = build_snapshot_from_txt(INPUT_PATH)
     except Exception as e:
         console.print(f"[red]Error parsing innings_input.txt:[/red] {e}")
         return
@@ -102,10 +106,10 @@ def run_cli():
     X_input = pd.DataFrame([feature_dict])[cols]
 
     # 5. Predict
-    model_path = "cricket_score_model.json"
-    if Path(model_path).exists():
+    model_path = MODEL_DIR / "cricket_score_model.json"
+    if model_path.exists():
         model = xgb.XGBRegressor()
-        model.load_model(model_path)
+        model.load_model(str(model_path))
         pred = round(model.predict(X_input)[0])
 
         # Status Table

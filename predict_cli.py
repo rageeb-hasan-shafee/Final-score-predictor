@@ -15,6 +15,7 @@ except ImportError:
     raise
 
 console = Console()
+BASE_DIR = Path(__file__).resolve().parent
 
 
 def build_snapshot_from_txt(input_path: Path, max_overs: int = 20, num_features: int = 6) -> tuple[np.ndarray, int]:
@@ -136,7 +137,7 @@ def main() -> None:
     max_overs = 20
     num_features = 6
 
-    example_path = Path.cwd() / "innings_input.txt"
+    example_path = BASE_DIR / "input" / "innings_input.txt"
     console.print(
         "[cyan]Input format (txt): line1=runs over1, line2=wickets over1, line3=runs over2, line4=wickets over2...[/cyan]"
     )

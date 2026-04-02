@@ -7,12 +7,15 @@ import pandas as pd
 import numpy as np
 import xgboost as xgb
 import matplotlib.pyplot as plt
+from pathlib import Path
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import mean_absolute_error
 from sklearn.model_selection import GridSearchCV
 
 # 1. SETUP & CONSTANTS
-FILE_PATH = "final_ball_by_ball_first_innings.csv"
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+FILE_PATH = PROJECT_ROOT / "dataset" / "final_ball_by_ball_first_innings.csv"
+MODEL_PATH = Path(__file__).resolve().parent / "cricket_score_model.json"
 OVERS_TO_PREDICT = [5, 10, 15, 20]
 
 # 2. DATA LOADING & FEATURE ENGINEERING
@@ -103,5 +106,5 @@ res_df = pd.DataFrame(all_results)
 print(f"\nFinal Tuned Test MAE: {res_df['mae'].mean():.2f}")   
 
 # Save the model to a file
-best_model.save_model("cricket_score_model.json")
-print("Model saved successfully as cricket_score_model.json")
+best_model.save_model(str(MODEL_PATH))
+print(f"Model saved successfully as {MODEL_PATH}")

@@ -1,0 +1,4046 @@
+bowler,runs_conceded,balls_bowled,wickets_taken,economy,team
+A Adekunle,87,133,7.0,3.924812030075188,Nigeria
+A Aitken,13,12,0.0,6.5,Scotland
+A Aitken-Drummond,57,77,5.0,4.441558441558442,Scotland
+A Akhigbe,107,136,6.0,4.720588235294118,Nigeria
+A Alexander,73,78,6.0,5.615384615384615,Indonesia
+A Amado,8,10,1.0,4.800000000000001,Israel
+A Andrews,64,62,5.0,6.193548387096774,Switzerland
+A Andriani,54,94,8.0,3.446808510638298,Indonesia
+A Ashokan,274,238,10.0,6.907563025210084,Czech Republic
+A Athanaze,16,7,0.0,13.714285714285714,West Indies
+A Augastin,62,50,3.0,7.439999999999999,Tanzania
+A Awasthi,75,27,1.0,16.666666666666664,Croatia
+A Beresford-Peirse,142,95,4.0,8.968421052631578,Croatia
+A Bester,51,41,3.0,7.463414634146341,France
+A Bhargava,15,13,1.0,6.9230769230769225,Singapore
+A Bierwisch,37,49,4.0,4.530612244897959,Germany
+A Bishnoi,202,153,8.0,7.921568627450981,Malta
+A Bohara,957,776,55.0,7.399484536082475,Nepal
+A Bosch,123,97,5.0,7.608247422680412,South Africa
+A Brindle,81,94,7.0,5.170212765957446,England
+A Brown-Carrera,115,150,6.0,4.6000000000000005,Spain
+A Busing-Volschenk,43,25,2.0,10.32,Namibia
+A Canning,356,355,10.0,6.016901408450704,Ireland
+A Capsey,89,58,2.0,9.20689655172414,England
+A Chandel,276,329,19.0,5.033434650455927,Japan
+A Chaubey,88,55,0.0,9.6,Croatia
+A Chaudhary,86,69,3.0,7.478260869565217,Singapore
+A Chenthamara,54,58,6.0,5.586206896551724,Kuwait
+A Chilia,36,43,1.0,5.023255813953488,Vanuatu
+A Conteh,51,49,1.0,6.244897959183674,Gambia
+A Cossa,40,27,1.0,8.88888888888889,Mozambique
+A Dalzell,84,80,4.0,6.300000000000001,Ireland
+A Dananjaya,407,312,10.0,7.826923076923077,Sri Lanka
+A Das,74,79,7.0,5.620253164556962,India
+A Davidson-Soler,118,160,3.0,4.425000000000001,Spain
+A Dcosta,227,232,12.0,5.870689655172414,Oman
+A Dercksen,122,96,4.0,7.625,South Africa
+A Desai,57,47,4.0,7.276595744680852,United States of America
+A Dhabe,69,48,3.0,8.625,Sweden
+A Dhar,19,6,0.0,19.0,Cayman Islands
+A Dhingra,111,73,7.0,9.123287671232877,Luxembourg
+A Dirannehelage,51,126,9.0,2.428571428571429,Cyprus
+A Djorovic,110,59,1.0,11.1864406779661,Serbia
+A Doddaballapur,141,227,17.0,3.7268722466960353,Germany
+A Donovan,122,85,1.0,8.611764705882353,Philippines
+A Dutt,225,206,11.0,6.5533980582524265,Netherlands
+A Emch,13,9,0.0,8.666666666666666,Argentina
+A Fillie,155,194,13.0,4.793814432989692,Sierra Leone
+A Flintoff,104,94,4.0,6.638297872340425,England
+A Fujikawa,202,215,10.0,5.637209302325581,Japan
+A Galan,142,180,8.0,4.733333333333333,Argentina
+A Gardner,880,839,50.0,6.293206197854589,Australia
+A Gbla,343,299,28.0,6.882943143812708,Sierra Leone
+A Gulati,42,24,2.0,10.5,Bahamas
+A Gunasekar,57,47,1.0,7.276595744680852,Oman
+A Gupta,51,32,0.0,9.5625,Norway
+A Gurung,198,295,19.0,4.027118644067796,Bhutan
+A Hartley,26,32,1.0,4.875,Spain
+A Hlubi,64,57,4.0,6.7368421052631575,South Africa
+A Husain,134,128,6.0,6.28125,Argentina
+A Ikuzwe,369,460,26.0,4.8130434782608695,Rwanda
+A Ilahi,25,28,0.0,5.357142857142858,Belgium
+A Iopu,17,13,1.0,7.846153846153847,Samoa
+A Joshi,43,27,0.0,9.555555555555555,Czech Republic
+A Kalasi,87,101,6.0,5.1683168316831685,Thailand
+A Kanada,8,13,3.0,3.692307692307693,Japan
+A Kanukuntla,107,83,2.0,7.734939759036145,Germany
+A Kanwal,16,14,1.0,6.857142857142857,Hong Kong
+A Karmacharya,110,142,10.0,4.647887323943662,Nepal
+A Karn,31,24,1.0,7.75,Nepal
+A Kato-Stafford,18,12,0.0,9.0,Japan
+A Kaul,11,11,1.0,6.0,Singapore
+A Khaka,719,617,24.0,6.991896272285252,South Africa
+A Khan,56,52,2.0,6.461538461538462,Denmark
+A Kheterpal,256,215,8.0,7.144186046511628,Hungary
+A Khullar,64,64,0.0,6.0,Finland
+A King,237,253,16.0,5.620553359683795,Australia
+A Kirschbaum,311,274,14.0,6.81021897810219,Argentina
+A Kohli,318,282,13.0,6.76595744680851,Germany
+A Konhu,40,41,1.0,5.853658536585366,France
+A Kontopirakis,36,35,1.0,6.171428571428571,Italy
+A Krishna,137,102,7.0,8.058823529411764,Singapore
+A Kshirsagar,82,70,3.0,7.0285714285714285,Czech Republic
+A Kuthalingham,6,12,0.0,3.0,Turks and Caicos Island
+A Lazic,13,6,0.0,13.0,Serbia
+A Le Ray,20,28,1.0,4.285714285714286,Other
+A Levaci,95,96,7.0,5.9375,Fiji
+A Limdawala,129,87,2.0,8.896551724137932,Malawi
+A Lupascu,37,29,1.0,7.655172413793104,Romania
+A Magdalenic,25,8,0.0,18.75,Croatia
+A Maheshwari,112,64,2.0,10.5,Croatia
+A Makri,243,247,11.0,5.902834008097166,Greece
+A Manousis,51,44,2.0,6.954545454545455,Greece
+A Mansale,65,43,3.0,9.069767441860463,Vanuatu
+A Mare,242,262,13.0,5.541984732824427,Qatar
+A Martel,200,175,6.0,6.857142857142857,Guernsey
+A Mazvishaya,217,199,10.0,6.542713567839195,Zimbabwe
+A Mehmood,59,37,1.0,9.567567567567568,Hong Kong
+A Mene-Ejegi,155,146,11.0,6.36986301369863,Serbia
+A Merritt,276,291,13.0,5.690721649484535,Jersey
+A Mesarovic,71,86,5.0,4.953488372093023,Serbia
+A Meyenborg,152,146,4.0,6.2465753424657535,Germany
+A Mishra,152,141,12.0,6.468085106382979,India
+A Mohamed,62,69,3.0,5.391304347826087,Tanzania
+A Mohammed,692,735,35.0,5.648979591836735,West Indies
+A Mokgotlhe,282,278,8.0,6.086330935251798,Botswana
+A Mongar,18,6,0.0,18.0,Bhutan
+A Morris,320,254,10.0,7.559055118110236,Cayman Islands
+A Munisar,148,155,4.0,5.729032258064516,West Indies
+A Nagarajan,66,38,1.0,10.421052631578949,Qatar
+A Nanda,452,346,17.0,7.8381502890173405,Luxembourg
+A Nao,206,224,17.0,5.517857142857142,Papua New Guinea
+A Nathwani,147,98,6.0,9.0,Austria
+A Natubhai Ahir,128,138,7.0,5.565217391304348,Panama
+A Ndiraya,24,36,3.0,4.0,Zimbabwe
+A Ndlovu,104,78,1.0,8.0,Zimbabwe
+A Nehra,355,263,17.0,8.098859315589355,India
+A Neill,92,77,6.0,7.1688311688311686,Scotland
+A Nel,24,24,0.0,6.0,South Africa
+A Nortje,610,490,35.0,7.469387755102041,South Africa
+A Obulor,99,96,6.0,6.1875,Nigeria
+A Orfila,75,51,1.0,8.823529411764707,Gibraltar
+A Ostergaard,76,89,2.0,5.123595505617978,Denmark
+A Parima,61,42,2.0,8.714285714285714,Cook Islands
+A Paul,245,160,10.0,9.1875,Estonia
+A Perera,53,49,2.0,6.489795918367348,Canada
+A Prashar,51,61,4.0,5.016393442622951,Hungary
+A Prince,40,46,1.0,5.217391304347826,Argentina
+A Pusthay,96,75,5.0,7.68,Finland
+A Rameshan,66,81,9.0,4.888888888888888,Malta
+A Rangaswamy,87,88,8.0,5.931818181818182,Botswana
+A Razmilic,143,68,2.0,12.617647058823527,Croatia
+A Reddy,558,452,19.0,7.407079646017699,India
+A Reyes,157,150,13.0,6.279999999999999,Gibraltar
+A Salomao,130,133,2.0,5.864661654135338,Mozambique
+A Savvani,132,164,8.0,4.829268292682928,Greece
+A Sawyer,22,14,0.0,9.428571428571429,Gibraltar
+A Shahi,201,149,9.0,8.093959731543624,Cyprus
+A Shahzad,59,43,1.0,8.232558139534884,England
+A Sharafu,3,1,0.0,18.0,United Arab Emirates
+A Sharma,77,67,5.0,6.895522388059701,United Arab Emirates
+A Shrubsole,639,708,53.0,5.415254237288136,England
+A Shukla,614,503,29.0,7.324055666003977,Croatia
+A Simelane,173,93,3.0,11.161290322580644,South Africa
+A Sokovagone,25,13,0.0,11.538461538461538,Fiji
+A Stocks,171,205,12.0,5.004878048780488,Argentina
+A Stoilova,24,9,0.0,16.0,Bulgaria
+A Sutherland,334,343,15.0,5.842565597667639,Australia
+A Suwanchonrathi,26,44,3.0,3.545454545454546,Thailand
+A Symonds,91,64,3.0,8.53125,Australia
+A Tagilala,21,21,0.0,6.0,Fiji
+A Taylor,30,47,2.0,3.8297872340425534,Cyprus
+A Thorpe,171,218,15.0,4.706422018348624,Isle of Man
+A Trivedi,15,6,0.0,15.0,Luxembourg
+A Turay,75,71,9.0,6.338028169014084,Sierra Leone
+A Turkmen,211,205,12.0,6.175609756097561,Turkey
+A Vaidya,103,128,8.0,4.828125,Sweden
+A Vailoa,53,48,2.0,6.625,Cook Islands
+A Vala,311,266,20.0,7.015037593984962,Papua New Guinea
+A Venkatesh,173,138,16.0,7.521739130434783,Sweden
+A Vessik,123,211,14.0,3.4976303317535544,Estonia
+A Wanjira,117,141,7.0,4.97872340425532,Kenya
+A Wellington,58,68,7.0,5.117647058823529,Australia
+A Wright,207,189,8.0,6.571428571428572,Cayman Islands
+A Yon,88,77,5.0,6.857142857142857,St Helena
+A Zampa,1787,1439,70.0,7.451007644197359,Australia
+A Zimunu,39,32,0.0,7.3125,Zimbabwe
+AA Alleyne,617,468,16.0,7.910256410256411,West Indies
+AA Banner,17,12,0.0,8.5,Belize
+AA Gajic,286,220,16.0,7.800000000000001,Serbia
+AA Hussein,55,40,2.0,8.25,Tanzania
+AA Jimoh,36,37,3.0,5.837837837837839,Nigeria
+AA Navicha,123,99,8.0,7.454545454545455,Mozambique
+AA Noffke,23,24,1.0,5.75,Australia
+AA Paradkar,19,13,0.0,8.769230769230768,United States of America
+AA Patil,439,435,24.0,6.055172413793104,India
+AA Rahayu,218,276,21.0,4.739130434782608,Indonesia
+AAH Bhikari,12,7,1.0,10.285714285714285,Suriname
+AAM Eliane,78,63,1.0,7.428571428571429,Cameroon
+AAP Atkinson,65,38,3.0,10.263157894736842,England
+AAP Rivero,199,237,17.0,5.037974683544304,Argentina
+AAhan Achar,28,24,1.0,7.0,Singapore
+AB Agarkar,50,39,2.0,7.692307692307693,India
+AB Dinda,95,81,7.0,7.037037037037038,India
+AB Kamara,170,144,8.0,7.083333333333334,Sierra Leone
+AB Kaur,175,157,5.0,6.687898089171974,India
+AB Mengoumou,57,25,1.0,13.68,Cameroon
+AB Slebsager,66,69,3.0,5.739130434782609,Denmark
+ABY Smith,172,184,6.0,5.608695652173913,Philippines
+AC Agar,873,743,27.0,7.049798115746972,Australia
+AC Botha,57,62,7.0,5.516129032258064,Ireland
+AC Brodin,24,24,1.0,6.0,France
+AC Douglas,81,100,12.0,4.86,Bermuda
+AC Evans,596,445,32.0,8.035955056179775,Scotland
+AC Jayangani,790,696,42.0,6.810344827586206,Sri Lanka
+AC Kerr,1015,968,49.0,6.291322314049587,New Zealand
+AC Mushangwe,23,56,8.0,2.4642857142857144,Zimbabwe
+AC Septien,40,73,4.0,3.287671232876712,Other
+AC Voges,5,12,2.0,2.5,Australia
+ACF Stokes,154,173,10.0,5.341040462427745,Guernsey
+AD Diwan Ali,21,19,0.0,6.631578947368421,Belgium
+AD Mascarenhas,165,104,4.0,9.519230769230768,England
+AD Mathews,644,576,23.0,6.708333333333334,Sri Lanka
+AD Russell,1005,667,33.0,9.04047976011994,West Indies
+ADL Stokoe,67,74,3.0,5.4324324324324325,Isle of Man
+AE Isesele,16,17,2.0,5.647058823529411,Nigeria
+AE Paraam,208,134,5.0,9.313432835820896,Singapore
+AE Satterthwaite,194,150,5.0,7.76,New Zealand
+AF Aoina,122,161,8.0,4.546583850931677,Samoa
+AF Ifill,261,222,10.0,7.054054054054054,Cayman Islands
+AF Mapu,67,84,1.0,4.785714285714287,Samoa
+AF Milne,817,585,34.0,8.379487179487178,New Zealand
+AG Cremer,262,230,12.0,6.834782608695653,Zimbabwe
+AG Rao,80,88,3.0,5.454545454545454,United States of America
+AG Weligamage,228,139,6.0,9.841726618705035,Hungary
+AH Maqsood,555,577,31.0,5.7712305025996535,Scotland
+AI Chudasama,222,257,13.0,5.182879377431907,United States of America
+AIV Benatar,60,71,5.0,5.070422535211268,Gibraltar
+AJ Finch,18,6,0.0,18.0,Australia
+AJ Hall,39,24,0.0,9.75,South Africa
+AJ Hosein,1107,954,37.0,6.962264150943397,West Indies
+AJ Kenealy,154,138,2.0,6.695652173913044,Ireland
+AJ Parmar,192,202,18.0,5.702970297029703,Norway
+AJ Redmond,24,18,2.0,8.0,New Zealand
+AJ Turner,40,46,1.0,5.217391304347826,Australia
+AJ Tye,606,461,39.0,7.887201735357918,Australia
+AJA Samuels,139,108,3.0,7.722222222222221,Cook Islands
+AK Bangura,138,121,7.0,6.84297520661157,Sierra Leone
+AK Gokoel,110,111,10.0,5.945945945945946,Suriname
+AK Gonerara,114,114,6.0,6.0,Fiji
+AK Kitchen,3,6,1.0,3.0,New Zealand
+AK Maguire,168,128,10.0,7.875,Ireland
+AK Markram,347,249,9.0,8.361445783132531,South Africa
+AK Muslar,36,25,1.0,8.64,Belize
+AK Peters,35,30,1.0,7.0,West Indies
+AL Kerai,10,6,0.0,10.0,Sierra Leone
+AL Kerrison,40,30,0.0,8.0,Ireland
+AL Mangue,73,42,1.0,10.428571428571429,Mozambique
+AL Mundundo,39,53,1.0,4.415094339622641,Mozambique
+AL Phehlukwayo,568,371,20.0,9.185983827493262,South Africa
+AL Seddon,71,51,0.0,8.352941176470587,France
+AL Stephen,189,175,14.0,6.48,Vanuatu
+AL Tiwari,21,15,0.0,8.399999999999999,Oman
+AL Watkins,18,25,0.0,4.32,New Zealand
+AM Ellis,91,50,2.0,10.92,New Zealand
+AM Fernando,141,74,3.0,11.432432432432432,Sri Lanka
+AM Guruge,22,25,2.0,5.28,United Arab Emirates
+AM Hardie,310,222,13.0,8.378378378378379,Australia
+AM Healey,108,148,7.0,4.378378378378378,Germany
+AM Kamara,415,455,15.0,5.472527472527473,Sierra Leone
+AM Kimote,756,618,45.0,7.339805825242718,Tanzania
+AM Kupito,12,8,0.0,9.0,Samoa
+AM Patel,30,29,1.0,6.206896551724139,Panama
+AM Peterson,165,133,6.0,7.443609022556391,New Zealand
+AM Phangiso,142,104,7.0,8.192307692307693,South Africa
+AM Rajpurohit,82,43,2.0,11.44186046511628,Gambia
+AM Zepeda,156,179,4.0,5.229050279329609,Austria
+AN Davidson-Richards,22,19,3.0,6.947368421052632,England
+AN Hyobeom,46,33,1.0,8.363636363636363,South Korea
+AN Kelly,524,530,50.0,5.932075471698113,Ireland
+AN Lascu,150,106,8.0,8.49056603773585,Romania
+AN Toube,68,55,2.0,7.418181818181818,Cameroon
+AO Suji,27,19,1.0,8.526315789473685,Kenya
+APC Kilowan,20,21,3.0,5.7142857142857135,South Africa
+AR Adams,90,73,4.0,7.397260273972603,New Zealand
+AR Bisht,9,6,0.0,9.0,Oman
+AR Cusack,370,325,24.0,6.830769230769231,Ireland
+AR Leo,79,64,7.0,7.40625,St Helena
+AR McBrine,239,206,9.0,6.961165048543689,Ireland
+AR Menon,12,6,0.0,12.0,Singapore
+AR Naidoo,52,18,0.0,17.333333333333332,Cayman Islands
+AR Nurse,220,164,6.0,8.048780487804878,West Indies
+AR Patel,710,584,30.0,7.294520547945206,India
+AR Perez Rivero,20,19,2.0,6.315789473684211,Argentina
+AR Puri,501,406,20.0,7.403940886699508,Singapore
+AR Ramjani,466,552,47.0,5.065217391304348,Uganda
+AR Shetty,32,31,0.0,6.193548387096774,Oman
+AR Valdez,149,128,3.0,6.984375,Philippines
+AS Abioye,56,43,3.0,7.813953488372094,Nigeria
+AS Dean,14,12,0.0,7.0,Canada
+AS Hansra,79,73,6.0,6.493150684931507,Canada
+AS Joseph,828,539,30.0,9.217068645640074,West Indies
+AS Mehmi,132,111,5.0,7.135135135135135,Greece
+AS Qwele,104,167,13.0,3.736526946107785,Tanzania
+AS Taai,9,24,2.0,2.25,South Africa
+AS Wikman,43,34,1.0,7.588235294117647,Italy
+AS Withanage,69,45,1.0,9.2,Italy
+AS van Beuge,168,145,7.0,6.951724137931035,Netherlands
+ASF Sirah,306,254,16.0,7.228346456692914,Philippines
+ASS Fletcher,1153,1050,53.0,6.588571428571428,West Indies
+ATS Silva,101,87,2.0,6.965517241379311,United Arab Emirates
+AU Rashid,1935,1562,81.0,7.432778489116517,England
+AUKDS Kalugala,41,26,2.0,9.461538461538462,Cyprus
+AV Lalcheta,101,90,3.0,6.733333333333333,Oman
+AV Lazarus,18,13,1.0,8.307692307692307,Thailand
+AW Hawkins-Kay,26,19,0.0,8.210526315789474,Jersey
+AY Patel,48,49,2.0,5.877551020408163,New Zealand
+AZ Shah,20,12,0.0,10.0,Fiji
+Aakash Chand,69,45,6.0,9.2,Nepal
+Aamer Jamal,99,52,2.0,11.423076923076923,Pakistan
+Aamer Yamin,13,12,1.0,6.5,Pakistan
+Aamir Kaleem,576,482,37.0,7.1701244813278,Oman
+Aamir Lal,135,124,6.0,6.532258064516128,South Korea
+Aarif Sheikh,116,85,5.0,8.188235294117646,Nepal
+Aarnav Patel,54,44,3.0,7.363636363636363,Kenya
+Aaron Jones,111,91,5.0,7.318681318681319,United States of America
+Aarti Priya,120,128,5.0,5.625,Luxembourg
+Aayan Afzal Khan,308,355,24.0,5.205633802816902,United Arab Emirates
+Abbas Afridi,396,293,29.0,8.109215017064846,Pakistan
+Abbas Ghani,188,133,12.0,8.481203007518797,Hungary
+Abdul Bashir,90,62,1.0,8.70967741935484,Germany
+Abdul Majid,87,95,5.0,5.494736842105263,Bahrain
+Abdul Majid Abbasi,639,674,37.0,5.688427299703264,Bahrain
+Abdul Naser Baluch,142,130,6.0,6.553846153846154,Sweden
+Abdul Razzaq,131,118,10.0,6.6610169491525415,Pakistan
+Abdul Salman Khan,13,13,0.0,6.0,Saudi Arabia
+Abdul Samad,31,50,4.0,3.72,Pakistan
+Abdul Waheed,70,60,5.0,7.0,Saudi Arabia
+Abdul Wahid,204,150,11.0,8.16,Saudi Arabia
+Abdul-Shakoor Rahimzei,53,74,4.0,4.297297297297297,Germany
+Abdullah Akbarjan,236,210,19.0,6.742857142857143,Austria
+Abdullah Jasat,138,103,5.0,8.03883495145631,Panama
+Abdullah Mahmood,91,73,3.0,7.479452054794521,Denmark
+Abdullah Rana,120,95,9.0,7.578947368421052,Switzerland
+Abdullah Sheikh,40,26,0.0,9.230769230769232,Norway
+Abdur Razzak,492,407,23.0,7.253071253071253,Bangladesh
+Abdur Rehman,48,63,7.0,4.571428571428571,Pakistan
+Abeera Waris,55,34,1.0,9.705882352941178,Bahrain
+Abhijeet Ahuja,8,12,2.0,4.0,Hungary
+Abhishek Sharma,71,54,2.0,7.888888888888889,India
+Abrar Ahmed,388,319,22.0,7.297805642633229,Pakistan
+Absar Khan,8,6,1.0,8.0,Denmark
+Abu Hider,157,90,3.0,10.466666666666669,Bangladesh
+Abu Jayed,46,27,1.0,10.22222222222222,Bangladesh
+Abubacarr Kuyateh,139,101,5.0,8.257425742574256,Gambia
+Abul Farhad,233,160,13.0,8.7375,Czech Republic
+Ada Bhasin,192,232,12.0,4.965517241379311,Singapore
+Adam Senn,103,116,3.0,5.327586206896552,Cyprus
+Adama Kamara,29,30,1.0,5.8,Sierra Leone
+Adil Butt,224,189,14.0,7.111111111111111,Eswatini
+Adil Khan,72,67,5.0,6.447761194029851,Germany
+Aditya Panwar,101,69,6.0,8.782608695652174,Estonia
+Adnan Idrees,409,319,19.0,7.692789968652037,Kuwait
+Adnan Mirza,120,86,3.0,8.372093023255815,Qatar
+Adnan Razzaq,75,53,3.0,8.49056603773585,Belgium
+Afida Afthab,33,64,5.0,3.09375,Oman
+Afif Hossain,121,91,4.0,7.978021978021978,Bangladesh
+Afif Khattak,25,19,1.0,7.894736842105264,Switzerland
+Aftab Hussain,205,205,14.0,6.0,Hong Kong
+Aftab Kayani,39,32,2.0,7.3125,Romania
+Agha Salman,63,44,1.0,8.590909090909092,Pakistan
+Ahmad Khalid Ahmadzai,58,52,3.0,6.6923076923076925,Belgium
+Ahmad Raza,73,66,2.0,6.636363636363636,Saudi Arabia
+Ahmadschah Ahmadzai,24,12,2.0,12.0,Germany
+Ahmadullah Shinwari,232,214,16.0,6.5046728971962615,Norway
+Ahmed Aqeel,117,102,4.0,6.88235294117647,Malaysia
+Ahmed Baladraf,34,36,4.0,5.666666666666666,Saudi Arabia
+Ahmed Daniyal,24,25,2.0,5.76,Pakistan
+Ahmed Faiz,16,27,1.0,3.555555555555556,Malaysia
+Ahmed Hassan,49,52,4.0,5.653846153846153,Switzerland
+Ahmed Raza,429,404,10.0,6.371287128712872,United Arab Emirates
+Ahmed Shehzad,10,6,0.0,10.0,Pakistan
+Ahmed Wardak,108,95,8.0,6.821052631578947,Germany
+Ahmer Bin Nisar,6,6,1.0,6.0,Bahrain
+Ahsan Khan,170,104,5.0,9.807692307692308,Bulgaria
+Ahsan Malik,284,225,18.0,7.573333333333332,Netherlands
+Aiman Anwer,530,408,13.0,7.794117647058824,Pakistan
+Ainna Hamizah Hashim,606,641,27.0,5.672386895475819,Malaysia
+Aishath Meesa Rameez,118,80,3.0,8.850000000000001,Maldives
+Aisya Eleesa,353,367,17.0,5.771117166212534,Malaysia
+Aizaz Cheema,89,74,6.0,7.216216216216216,Pakistan
+Aizaz Khan,992,846,53.0,7.035460992907801,Hong Kong
+Ajhar Alam,81,44,1.0,11.045454545454543,Czech Republic
+Akhil Anil,204,187,11.0,6.545454545454545,Tanzania
+Akhil Arjunan,168,140,5.0,7.199999999999999,Finland
+Akhil Kumar,76,65,4.0,7.015384615384615,Canada
+Akif Raja,263,235,14.0,6.714893617021277,United Arab Emirates
+Akramullah Malikzada,22,12,1.0,11.0,Hungary
+Al Maseera Jahangir,13,19,2.0,4.105263157894737,United Arab Emirates
+Al-Amin Hossain,408,336,28.0,7.285714285714285,Bangladesh
+Alam Nakash,117,93,2.0,7.548387096774194,South Korea
+Aleena Khan,141,101,3.0,8.376237623762375,Qatar
+Alexandros Karvelas,90,74,2.0,7.297297297297297,Greece
+Ali Abdulla Popalzae,22,18,3.0,7.333333333333334,Greece
+Ali Dawood,725,704,47.0,6.1789772727272725,Bahrain
+Ali Hasan,15,18,0.0,5.0,Italy
+Ali Hussain,143,90,2.0,9.533333333333331,Romania
+Ali Khan,413,272,11.0,9.110294117647058,United States of America
+Ali Masood,208,134,10.0,9.313432835820896,Estonia
+Ali Muaaz,1,1,0.0,6.0,Greece
+Ali Naqi,32,27,0.0,7.111111111111111,Portugal
+Ali Naseer,401,329,23.0,7.31306990881459,United Arab Emirates
+Ali Nawaz,135,79,5.0,10.253164556962023,Hungary
+Ali Nayyer,526,437,26.0,7.221967963386727,Switzerland
+Ali Rasool,88,38,0.0,13.894736842105264,Bulgaria
+Ali Saleem,4,6,1.0,4.0,Norway
+Ali Sheikh,125,108,9.0,6.944444444444445,United States of America
+Ali Waqar,83,72,3.0,6.916666666666666,Czech Republic
+Ali Yalmaz,125,77,3.0,9.74025974025974,Hungary
+Alice Davis,17,14,1.0,7.285714285714285,Other
+Alifiya Sayed,160,179,7.0,5.363128491620111,Oman
+Alina Aslam,175,207,8.0,5.0724637681159415,Norway
+Aliya Riaz,314,232,12.0,8.120689655172413,Pakistan
+Alok Kapali,12,19,2.0,3.789473684210526,Bangladesh
+Altaf Gill,59,43,2.0,8.232558139534884,South Korea
+Amal Jacob,167,142,5.0,7.056338028169014,Hungary
+Amalin Sorfina,42,32,0.0,7.875,Malaysia
+Amandeep Singh,101,75,6.0,8.08,Portugal
+Amar Sharma,484,401,15.0,7.241895261845388,Malta
+Amarpal Kaur,180,200,11.0,5.4,Canada
+Amaya Rajapaksha,16,20,0.0,4.800000000000001,Italy
+Ameel Mauroof,148,111,7.0,8.0,Maldives
+Ameer Saiyed,45,30,1.0,9.0,Botswana
+Amina Kashif,47,52,2.0,5.423076923076923,Qatar
+Aminata Kamara,349,360,15.0,5.816666666666666,Sierra Leone
+Aminul Islam,51,36,2.0,8.5,Bangladesh
+Amir Ali,37,31,0.0,7.161290322580646,Oman
+Amir Butt,11,14,2.0,4.714285714285714,Mexico
+Amir Farooq,369,271,14.0,8.169741697416974,Qatar
+Amir Hamza,17,14,1.0,7.285714285714285,Spain
+Amir Hayat,16,12,3.0,8.0,United Arab Emirates
+Amir Zaib,30,12,1.0,15.0,Portugal
+Amjad Javed,180,173,15.0,6.242774566473988,United Arab Emirates
+Amjad Mahboob,354,242,17.0,8.776859504132231,Singapore
+Amjad Sher,371,336,20.0,6.625,Finland
+Amma Kashif,34,37,0.0,5.513513513513514,Qatar
+Ammar Khalid,72,74,6.0,5.837837837837839,Canada
+Amna Khan,122,76,1.0,9.63157894736842,Saudi Arabia
+Amna Tariq,538,613,31.0,5.265905383360522,Kuwait
+Amoluk Singh,104,88,5.0,7.090909090909092,Ghana
+Anam Amin,671,636,30.0,6.330188679245284,Pakistan
+Anas Khan,159,194,17.0,4.917525773195877,Hong Kong
+Anasim Khan,95,73,3.0,7.808219178082192,Bahrain
+Andre Jarju,134,77,5.0,10.441558441558442,Gambia
+Angela Busa,79,60,2.0,7.9,Philippines
+Anique Uddin,53,39,3.0,8.153846153846153,Denmark
+Anjali Chand,1,38,10.0,0.1578947368421052,Nepal
+Anjar Tadarus,243,214,14.0,6.813084112149533,Indonesia
+Anjuli Ghalley,42,42,0.0,6.0,Bhutan
+Ankit Dubey,13,12,0.0,6.5,Sweden
+Anoop Orsu,26,20,1.0,7.800000000000001,Luxembourg
+Ansar Iqbal,17,13,0.0,7.846153846153847,Norway
+Ansh Patel,10,37,5.0,1.6216216216216215,Canada
+Anshuman Rath,165,118,2.0,8.389830508474576,Hong Kong
+Anskumar Ahir,27,20,0.0,8.100000000000001,Panama
+Anwar Ali,254,192,7.0,7.9375,Pakistan
+Anwar Rahman,196,164,12.0,7.170731707317072,Malaysia
+Aphsal Ashraf,35,24,2.0,8.75,Kuwait
+Aqib Ilyas,397,404,26.0,5.896039603960396,Oman
+Aqib Iqbal,832,690,38.0,7.234782608695653,Austria
+Aqif Farooq,17,18,1.0,5.666666666666666,Kuwait
+Arafat Sunny,187,141,10.0,7.957446808510639,Bangladesh
+Archara Supriya,24,27,1.0,5.333333333333333,United Arab Emirates
+Arif Nasir Uddin,19,14,0.0,8.142857142857142,Qatar
+Arif Ullah,105,94,9.0,6.702127659574467,Malaysia
+Arjun Vinod,200,145,3.0,8.275862068965518,Switzerland
+Arsalan Ahmed,38,30,2.0,7.6,Greece
+Arshad Iqbal,16,24,1.0,4.0,Pakistan
+Arshdeep Singh,707,557,46.0,7.615798922800719,India
+Arslan Amjad,197,114,8.0,10.36842105263158,Estonia
+Arun Yadav,62,36,1.0,10.333333333333334,Tanzania
+Aryan Lakra,46,42,2.0,6.571428571428572,United Arab Emirates
+Asad Ali Rehemtulla,370,237,14.0,9.367088607594935,Bulgaria
+Asad Mohammad,92,80,2.0,6.9,Germany
+Ashfaq Ahmed,34,37,2.0,5.513513513513514,United Arab Emirates
+Ashi Chopla,33,47,1.0,4.212765957446809,Austria
+Ashiqullah Said,34,39,2.0,5.230769230769231,Belgium
+Ashmal Hashmi,92,71,1.0,7.774647887323944,Saudi Arabia
+Ashwin Vinod,332,312,17.0,6.384615384615385,Switzerland
+Ashwini Balaji,183,138,3.0,7.956521739130434,Germany
+Asif Ali,162,183,9.0,5.311475409836065,Bahrain
+Asif Bevinje,49,44,3.0,6.681818181818182,Romania
+Asif Iqbal,42,30,4.0,8.399999999999999,South Korea
+Asif Javed,55,83,5.0,3.975903614457832,Bahrain
+Asif Shaikh,92,87,4.0,6.344827586206897,Bahrain
+Asim Ashraf,93,44,0.0,12.681818181818183,Gambia
+Aslam Bera,89,60,3.0,8.9,Zambia
+Aslam Mohammad,113,110,6.0,6.163636363636364,Greece
+Aslan Jafri,91,72,7.0,7.583333333333333,Singapore
+Asmavia Iqbal,462,478,35.0,5.799163179916318,Pakistan
+Asrar Ahmed,49,38,1.0,7.736842105263157,Greece
+Assad Mehmood,29,43,1.0,4.046511627906977,Portugal
+Ateeq Iqbal,156,218,14.0,4.293577981651376,Hong Kong
+Atif Kamal,102,85,7.0,7.199999999999999,Luxembourg
+Atif Mehmood,340,365,20.0,5.58904109589041,Spain
+Atif Rasheed,11,12,0.0,5.5,Finland
+Atif-Ur-Rehman,181,213,15.0,5.098591549295775,Saudi Arabia
+Attia Diwan Ali,30,32,0.0,5.625,Belgium
+Aung Ko Ko,55,44,3.0,7.5,Myanmar
+Avesh Khan,190,121,7.0,9.421487603305785,India
+Avi Dixit,15,7,0.0,12.857142857142858,Singapore
+Avishka Iroshan,44,25,2.0,10.56,Romania
+Awais Ikram,88,57,4.0,9.263157894736842,Slovenia
+Ayan Khan,224,164,4.0,8.195121951219512,Oman
+Ayaz Dadabhai,94,86,7.0,6.55813953488372,Zambia
+Ayesha Hasan,20,17,0.0,7.0588235294117645,Norway
+Aysha,463,474,27.0,5.860759493670885,Qatar
+Ayyaz Qureshi,65,47,4.0,8.297872340425533,Slovenia
+Azam Khalil,149,141,6.0,6.340425531914894,Sweden
+Aziz Mohammad,201,152,7.0,7.934210526315789,Belgium
+Aziz Sualley,49,48,2.0,6.125,Ghana
+Azri Azhar,26,27,0.0,5.777777777777778,Malaysia
+Azyan Farhath,142,134,6.0,6.35820895522388,Maldives
+B Akhilesh Reddy,54,49,0.0,6.612244897959183,United States of America
+B Arora,426,361,14.0,7.0803324099723,Malta
+B Balala,125,83,1.0,9.036144578313252,Malawi
+B Bhadriraju,40,36,2.0,6.666666666666667,United States of America
+B Biza,104,111,7.0,5.621621621621621,Zimbabwe
+B Dugic,130,81,5.0,9.62962962962963,Serbia
+B Etim,170,202,11.0,5.0495049504950495,Nigeria
+B Evans,251,179,16.0,8.41340782122905,Zimbabwe
+B Fernando,297,238,13.0,7.487394957983193,Sri Lanka
+B Freeman,16,13,0.0,7.384615384615385,Botswana
+B Gaanamong,65,68,5.0,5.735294117647059,Botswana
+B George,66,51,1.0,7.764705882352942,Malta
+B Isaac,61,45,0.0,8.133333333333333,St Helena
+B Ito-Davis,53,63,5.0,5.047619047619048,Japan
+B Jerkovic,61,24,1.0,15.25,Croatia
+B Kalki Kumar,13,7,0.0,11.142857142857142,Malta
+B Karki,11,24,1.0,2.75,Nepal
+B Keganne,59,36,2.0,9.833333333333332,Botswana
+B Kgosiemang,310,233,13.0,7.982832618025752,Botswana
+B Khumalo,342,256,13.0,8.015625,Botswana
+B Kumar,1012,803,39.0,7.561643835616438,India
+B Laughlin,77,49,2.0,9.428571428571429,Australia
+B Lee,308,259,18.0,7.135135135135135,Australia
+B Lekau,134,114,2.0,7.052631578947369,Lesotho
+B Leo,79,58,3.0,8.172413793103448,St Helena
+B Lewis,75,79,6.0,5.69620253164557,Belize
+B Maes Loch,54,96,6.0,3.375,Germany
+B Mahesh,46,47,2.0,5.872340425531915,Cyprus
+B Masaba,244,269,12.0,5.442379182156135,Uganda
+B Mavuta,86,69,2.0,7.478260869565217,Zimbabwe
+B Maximo,37,33,2.0,6.727272727272727,Portugal
+B Mejaro,31,24,1.0,7.75,Lesotho
+B Mpedi,66,57,1.0,6.947368421052632,Botswana
+B Murekatete,313,413,21.0,4.547215496368039,Rwanda
+B Murtagh,52,71,3.0,4.394366197183099,Isle of Man
+B Muzarabani,834,679,39.0,7.3696612665684835,Zimbabwe
+B Namuunzul,147,126,1.0,7.0,Mongolia
+B Ndipo,27,50,2.0,3.24,Malawi
+B Niaz,69,72,7.0,5.75,Belgium
+B Phelenyane,252,239,8.0,6.326359832635983,Lesotho
+B Pondani,115,105,5.0,6.571428571428572,Malawi
+B Regmi,225,170,12.0,7.9411764705882355,Nepal
+B Shanti,20,15,0.0,8.0,Kuwait
+B Shetty,142,124,3.0,6.870967741935484,Oman
+B Shikongo,283,274,19.0,6.197080291970803,Namibia
+B Shotorova,94,76,2.0,7.421052631578948,Bulgaria
+B Stanlake,421,356,27.0,7.095505617977528,Australia
+B Taylan,48,53,1.0,5.433962264150944,Turkey
+B Terbish,36,13,0.0,16.615384615384613,Mongolia
+B Tlali,37,49,3.0,4.530612244897959,Lesotho
+B Wani,64,73,2.0,5.260273972602739,Estonia
+B Ward,352,382,31.0,5.528795811518324,Jersey
+B White,476,349,16.0,8.183381088825215,Ireland
+B Williams,13,6,0.0,13.0,Sierra Leone
+B Yadav,62,41,0.0,9.073170731707318,Nepal
+BA Carse,196,137,11.0,8.583941605839417,England
+BA Pai,329,303,15.0,6.514851485148514,Gibraltar
+BA Stokes,512,378,17.0,8.126984126984127,England
+BAD Manenti,133,92,2.0,8.673913043478262,Italy
+BAW Mendis,435,401,27.0,6.508728179551122,Sri Lanka
+BB Sran,14,25,4.0,3.3600000000000003,India
+BC Fortuin,287,230,12.0,7.486956521739129,South Africa
+BCJ Cutting,160,88,4.0,10.909090909090908,Australia
+BD Glover,163,169,15.0,5.78698224852071,Netherlands
+BDH Stevens,80,63,3.0,7.619047619047619,Jersey
+BE Hendricks,101,92,6.0,6.586956521739131,South Africa
+BE Johnson,36,12,0.0,18.0,Guernsey
+BF Mailata,107,76,4.0,8.447368421052632,Samoa
+BF Smith,49,56,2.0,5.25,England
+BFW de Leede,580,434,28.0,8.018433179723502,Netherlands
+BG Illing,18,27,2.0,4.0,New Zealand
+BG Lister,222,150,7.0,8.879999999999999,New Zealand
+BJ Bennett,79,63,4.0,7.523809523809524,Zimbabwe
+BJ Currie,119,98,7.0,7.285714285714285,Scotland
+BJ Diamanti,20,12,0.0,10.0,New Zealand
+BJ Dwarshuis,439,277,19.0,9.509025270758125,Australia
+BJ Hodge,25,19,1.0,7.894736842105264,Australia
+BJ McCarthy,875,610,33.0,8.60655737704918,Ireland
+BJ McMullen,69,50,1.0,8.28,Scotland
+BK Stroud,82,79,3.0,6.227848101265822,St Helena
+BM Anusha,24,29,1.0,4.965517241379311,India
+BM Halliday,90,79,8.0,6.835443037974684,New Zealand
+BM Scholtz,822,770,31.0,6.405194805194805,Namibia
+BM Tickner,258,169,8.0,9.159763313609467,New Zealand
+BM Wheeler,107,77,5.0,8.337662337662337,New Zealand
+BMA Mbida,210,189,5.0,6.666666666666667,Cameroon
+BMAJ Mendis,103,85,5.0,7.270588235294117,Sri Lanka
+BMSM Kumari,817,755,31.0,6.49271523178808,Sri Lanka
+BN Toube,171,134,6.0,7.656716417910448,Cameroon
+BP Adapaka,133,114,3.0,7.0,Hungary
+BRM Taylor,20,24,1.0,5.0,Zimbabwe
+BS Stephenson,150,136,4.0,6.61764705882353,Belize
+BTJ Wheal,233,154,8.0,9.077922077922077,Scotland
+BV Sears,222,162,9.0,8.222222222222223,New Zealand
+BV Vitori,154,124,2.0,7.451612903225806,Zimbabwe
+BW Hilfenhaus,33,26,1.0,7.615384615384615,Australia
+Bakhtiar Tahiri,75,46,0.0,9.782608695652174,Bulgaria
+Baljit Singh,87,75,5.0,6.959999999999999,Italy
+Baseer Khan,37,52,5.0,4.269230769230769,Austria
+Bashar Khan,36,43,4.0,5.023255813953488,Italy
+Basharat Hussain,62,37,0.0,10.054054054054054,South Korea
+Bashir Ahmad,36,12,0.0,18.0,Switzerland
+Bashir Shah,81,86,6.0,5.651162790697675,Denmark
+Basil Hameed,267,252,17.0,6.357142857142858,United Arab Emirates
+Baz Aybui,122,106,7.0,6.90566037735849,Sweden
+Bhargav Narasimha,6,7,1.0,5.142857142857142,Mexico
+Bibina Baby,34,29,0.0,7.034482758620689,Malta
+Bilal Aftab,14,12,1.0,7.0,Denmark
+Bilal Ahmad Mir,132,91,7.0,8.703296703296703,South Korea
+Bilal Hassun,389,344,21.0,6.784883720930233,Uganda
+Bilal Khan,932,849,68.0,6.586572438162545,Oman
+Bilal Masud,123,115,11.0,6.417391304347826,Estonia
+Bilal Muhammad,359,331,23.0,6.507552870090635,Malta
+Bilal Safdar,19,24,3.0,4.75,Norway
+Bilal Tahir,48,55,4.0,5.236363636363636,Kuwait
+Bilal Zalmai,654,551,23.0,7.121597096188747,Austria
+Bilawal Bhatti,159,98,2.0,9.73469387755102,Pakistan
+Bipin Kumar,115,83,2.0,8.313253012048193,Qatar
+Bismah Maroof,340,330,12.0,6.181818181818182,Pakistan
+Bukhar Illikkal,60,48,1.0,7.5,Qatar
+C Abel,108,121,10.0,5.355371900826446,Scotland
+C Agafili,35,46,2.0,4.565217391304348,Samoa
+C Aweko,756,1116,75.0,4.064516129032258,Uganda
+C Bah,312,278,9.0,6.733812949640287,Sierra Leone
+C Beckford,26,14,3.0,11.142857142857142,United States of America
+C Bevin,40,20,0.0,12.0,Croatia
+C Bosch,214,138,6.0,9.304347826086955,South Africa
+C Boyle,97,107,4.0,5.439252336448599,Singapore
+C Breteche,16,26,2.0,3.692307692307693,France
+C Bull,299,358,17.0,5.011173184357542,Sierra Leone
+C Bwanali,63,58,3.0,6.517241379310345,Malawi
+C Campher,573,432,16.0,7.958333333333333,Ireland
+C Cassell,48,24,2.0,12.0,Scotland
+C Chatonzwa,18,18,2.0,6.0,Zimbabwe
+C Chatphaisan,45,57,4.0,4.7368421052631575,Thailand
+C Chukwuonye,49,59,3.0,4.983050847457627,Nigeria
+C Cirlig,37,29,1.0,7.655172413793104,Romania
+C Connolly,59,37,1.0,9.567567567567568,Australia
+C Dickson,298,268,11.0,6.671641791044776,Cook Islands
+C Floyd,73,42,1.0,10.428571428571429,Netherlands
+C Forshaw,209,160,17.0,7.837499999999999,Guernsey
+C Green,164,107,8.0,9.19626168224299,Australia
+C Gwilliam-Lopez,19,19,1.0,6.0,Spain
+C Henery,98,124,8.0,4.741935483870968,Isle of Man
+C Hinze,123,120,6.0,6.15,Japan
+C Jennings,66,76,4.0,5.210526315789474,Other
+C Karunaratne,540,429,16.0,7.552447552447552,Sri Lanka
+C Kyewuta,459,436,29.0,6.31651376146789,Uganda
+C Lokuge,79,129,5.0,3.674418604651162,Estonia
+C Magaia,98,98,9.0,6.0,Mozambique
+C Mahamalage,299,314,12.0,5.713375796178344,Italy
+C Miles,20,15,0.0,8.0,Jersey
+C Milner,41,30,0.0,8.2,Other
+C Moyo,11,13,0.0,5.076923076923077,Zimbabwe
+C Munro,82,40,1.0,12.3,New Zealand
+C Murray,470,433,22.0,6.51270207852194,Ireland
+C Murrombe,99,57,0.0,10.421052631578949,Mozambique
+C Mutasa,75,51,0.0,8.823529411764707,Zimbabwe
+C Namugenyi,30,45,1.0,4.0,Uganda
+C Olphert,47,23,0.0,12.260869565217392,Ireland
+C Ostergaard,87,112,4.0,4.660714285714286,Denmark
+C Outerbridge,21,24,1.0,5.25,Bermuda
+C Pengkumta,292,268,13.0,6.537313432835822,Thailand
+C Perry,202,243,14.0,4.987654320987654,Isle of Man
+C Pervez,12,6,0.0,12.0,Canada
+C Piparo,9,7,1.0,7.714285714285715,Italy
+C Prasad,25,39,4.0,3.846153846153847,United States of America
+C Raack,190,177,8.0,6.440677966101696,Ireland
+C Roberts,27,25,4.0,6.48,France
+C Rububagumya,822,655,40.0,7.529770992366412,Rwanda
+C Rumistrzewicz,272,325,28.0,5.021538461538461,Spain
+C Sewsunker,152,99,1.0,9.212121212121213,Saudi Arabia
+C Shivakumar,52,30,0.0,10.4,Singapore
+C Smith,76,77,3.0,5.922077922077922,Malaysia
+C Sosa,170,208,8.0,4.903846153846153,Argentina
+C Sridev,65,49,2.0,7.959183673469387,Singapore
+C Sutthiruang,587,814,40.0,4.326781326781327,Thailand
+C Tchale,182,115,5.0,9.495652173913044,Malawi
+C Udekwe,185,224,14.0,4.955357142857142,Nigeria
+C Umutonni,7,6,0.0,7.0,Rwanda
+C Viljoen,142,129,10.0,6.604651162790697,Namibia
+C Waiswa,108,84,8.0,7.714285714285715,Uganda
+C Wickramasinghe,17,24,1.0,4.25,Sri Lanka
+C Wijesinghe,69,115,5.0,3.6,Cyprus
+C Wright,480,386,20.0,7.461139896373057,Cayman Islands
+C Wyngaard,8,6,0.0,8.0,South Africa
+C Zavoiu,45,32,3.0,8.4375,Romania
+C de Grandhomme,302,220,10.0,8.236363636363636,New Zealand
+C de Lange,680,773,35.0,5.278137128072444,Netherlands
+C van der Westhuizen,12,25,2.0,2.88,South Africa
+CA Henry,433,378,11.0,6.8730158730158735,West Indies
+CA Keita,20,24,3.0,5.0,Mali
+CA Liyanage,14,6,0.0,14.0,Maldives
+CA Soper,299,224,11.0,8.008928571428571,Papua New Guinea
+CA Young,998,759,53.0,7.889328063241107,Ireland
+CAH Stevenson,61,31,2.0,11.806451612903226,United States of America
+CAJ Meschede,85,100,5.0,5.1,Germany
+CAK Rajitha,374,215,10.0,10.43720930232558,Sri Lanka
+CB Mpofu,612,367,17.0,10.005449591280652,Zimbabwe
+CB Roposo,244,217,15.0,6.746543778801843,Mozambique
+CB Sole,326,200,10.0,9.78,Scotland
+CBRLS Kumara,293,224,16.0,7.848214285714285,Sri Lanka
+CC Blake,18,12,0.0,9.0,Vanuatu
+CC van Slobbe,12,20,1.0,3.6,Netherlands
+CD Barnwell,24,14,1.0,10.285714285714285,West Indies
+CD Mboe,12,21,3.0,3.4285714285714284,Cameroon
+CD de Lange,89,94,7.0,5.680851063829787,Scotland
+CE Dean,459,436,26.0,6.31651376146789,England
+CE McConchie,37,30,1.0,7.4,New Zealand
+CG Osborne,25,18,3.0,8.333333333333332,Croatia
+CG Williams,72,54,4.0,8.0,Namibia
+CH Abeyratne,87,67,1.0,7.791044776119403,Singapore
+CH Gayle,264,217,12.0,7.299539170506913,West Indies
+CH Morris,395,287,16.0,8.257839721254356,South Africa
+CH van Koolwijk,8,13,1.0,3.692307692307693,Netherlands
+CI Manidom,94,78,4.0,7.23076923076923,Cameroon
+CJ Ana,18,32,1.0,3.375,Romania
+CJ Anderson,355,238,10.0,8.949579831932773,New Zealand
+CJ Boyce,93,90,5.0,6.200000000000001,Australia
+CJ Chibhabha,240,193,10.0,7.461139896373057,Zimbabwe
+CJ Dala,163,102,7.0,9.588235294117649,South Africa
+CJ Delany,26,12,0.0,13.0,Gibraltar
+CJ Dias,84,101,4.0,4.99009900990099,Kuwait
+CJ Gannon,21,26,3.0,4.846153846153847,United States of America
+CJ Green,37,24,0.0,9.25,Australia
+CJ Jordan,1795,1257,81.0,8.568019093078759,England
+CJ Langford,163,161,8.0,6.074534161490684,Isle of Man
+CJ McKay,89,67,2.0,7.970149253731344,Australia
+CJ Metcalfe,265,293,18.0,5.426621160409557,Ireland
+CJA Amini,490,449,26.0,6.5478841870824045,Papua New Guinea
+CJPF Kalugamage,162,140,8.0,6.942857142857143,Italy
+CK Jasmat,174,164,7.0,6.365853658536586,Samoa
+CK Langeveldt,129,102,7.0,7.588235294117647,South Africa
+CL Cairns,52,48,2.0,6.5,New Zealand
+CL Tryon,579,538,17.0,6.4572490706319705,South Africa
+CL White,20,19,1.0,6.315789473684211,Australia
+CM Akachukwu,102,80,4.0,7.649999999999999,Nigeria
+CM Edwards,33,19,0.0,10.421052631578949,England
+CM Gough,268,300,15.0,5.359999999999999,Germany
+CM Greechan,208,333,19.0,3.747747747747748,Jersey
+CM Madsen,20,15,1.0,8.0,Denmark
+CM Mbebe,27,25,0.0,6.48,Mozambique
+CM Wright,29,25,3.0,6.959999999999999,Scotland
+CN Ackermann,87,85,2.0,6.141176470588235,Netherlands
+CN Greaves,265,207,7.0,7.6811594202898545,Scotland
+CO Obuya,137,145,10.0,5.66896551724138,Kenya
+CP Schofield,46,31,1.0,8.903225806451612,England
+CPPM Sadun,165,152,2.0,6.5131578947368425,Cyprus
+CR Brathwaite,644,440,19.0,8.781818181818181,West Indies
+CR Seneviratna,169,154,11.0,6.584415584415584,United Arab Emirates
+CR Smith,26,24,0.0,6.5,Australia
+CR Woakes,417,313,11.0,7.993610223642173,England
+CRD Fernando,146,119,7.0,7.3613445378151265,Sri Lanka
+CS Fraser,244,200,12.0,7.32,West Indies
+CS MacLeod,98,86,2.0,6.837209302325581,Scotland
+CS Martin,95,74,5.0,7.702702702702703,New Zealand
+CS Nascimento,166,185,11.0,5.383783783783784,Brazil
+CT Mumba,105,68,4.0,9.264705882352942,Zimbabwe
+CT Mutombodzi,106,85,3.0,7.482352941176471,Zimbabwe
+CT Tremlett,46,27,2.0,10.22222222222222,England
+CV Harrison,46,30,1.0,9.2,Gibraltar
+CV Varun,289,271,24.0,6.398523985239852,India
+CW Perchard,409,388,30.0,6.324742268041238,Jersey
+Cai Yuzhi,156,182,16.0,5.142857142857142,China
+Camila Valdes,106,54,2.0,11.77777777777778,Other
+Chado Om,41,38,3.0,6.473684210526316,Bhutan
+Chan Ka Man,538,748,44.0,4.315508021390374,Hong Kong
+Charanjeet Singh,17,12,0.0,8.5,Italy
+Chare Smith,78,76,5.0,6.157894736842106,Bermuda
+Chaudhary Akram,14,19,2.0,4.421052631578947,Norway
+Chaya Mughal,396,519,20.0,4.578034682080925,United Arab Emirates
+Chayanisa Phengpaen,24,27,0.0,5.333333333333333,Thailand
+Chen Xinyu,21,23,0.0,5.478260869565217,China
+Chen Zhuo Yue,167,125,6.0,8.016,China
+Chinyenum George,12,12,1.0,6.0,Nigeria
+Constanza Oyarce,152,65,0.0,14.03076923076923,Other
+Constanza Vergara,30,12,0.0,15.0,Other
+Cynthia Konadu,31,25,1.0,7.439999999999999,Other
+D Abeyrathna,142,109,7.0,7.81651376146789,Norway
+D Ahir,54,42,1.0,7.714285714285715,Panama
+D Ajekun,40,43,2.0,5.5813953488372094,Nigeria
+D Bhaskara,71,53,1.0,8.037735849056602,Bahrain
+D Birrell,158,149,12.0,6.362416107382551,Jersey
+D Bishoo,59,42,1.0,8.428571428571427,West Indies
+D Bourne,29,29,1.0,6.0,Turks and Caicos Island
+D Brown,385,360,14.0,6.416666666666666,Australia
+D Dawa,91,80,7.0,6.824999999999999,Bhutan
+D Devnarain,8,6,0.0,8.0,South Africa
+D Dewald,126,110,6.0,6.872727272727273,Belgium
+D Dhingra,45,42,0.0,6.428571428571429,United States of America
+D Dlamini,74,62,1.0,7.161290322580646,Eswatini
+D Doyle-Calle,10,6,0.0,10.0,Spain
+D Dzimau,33,44,2.0,4.5,Malawi
+D Ferreira,71,48,1.0,8.875,South Africa
+D Finau,33,18,1.0,11.0,Samoa
+D Foerster,199,276,17.0,4.326086956521739,Namibia
+D Ganesh,127,124,7.0,6.14516129032258,Costa Rica
+D Gim,24,18,1.0,8.0,Nigeria
+D Golechha,55,109,6.0,3.027522935779817,Denmark
+D Hazell,509,560,25.0,5.453571428571428,England
+D Hemalatha,63,55,2.0,6.872727272727273,India
+D Heyliger,452,347,21.0,7.815561959654179,Canada
+D Igihozo,11,25,1.0,2.64,Rwanda
+D Jakiel,293,230,18.0,7.643478260869565,Malawi
+D Jamyansuren,60,27,1.0,13.333333333333334,Mongolia
+D Jansen,61,56,1.0,6.535714285714285,Isle of Man
+D Johnson,311,205,11.0,9.102439024390245,Switzerland
+D Kalvin,102,73,3.0,8.383561643835616,Seychelles
+D Kansonkho,42,47,3.0,5.361702127659575,Malawi
+D Kegasitswe,156,79,3.0,11.848101265822786,Botswana
+D Klein,368,355,15.0,6.219718309859155,Germany
+D Koralalage,63,124,9.0,3.048387096774193,Cyprus
+D Lohia,97,102,5.0,5.705882352941176,Papua New Guinea
+D Madushanka,250,159,10.0,9.433962264150944,Sri Lanka
+D Maisuria,301,296,36.0,6.101351351351351,Botswana
+D Marks,190,133,7.0,8.571428571428571,Malta
+D Medagoda,133,169,7.0,4.721893491124261,Switzerland
+D Mogan,63,25,0.0,15.12,Malaysia
+D Muhumuza,150,129,7.0,6.976744186046512,Uganda
+D Mullen,106,88,6.0,7.227272727272727,Guernsey
+D Murphy,74,107,5.0,4.149532710280374,Isle of Man
+D Myers,43,19,0.0,13.578947368421051,Zimbabwe
+D Nanayakkara,183,148,7.0,7.418918918918918,Italy
+D Nanda,33,62,5.0,3.193548387096774,Indonesia
+D Nikolov,63,38,1.0,9.947368421052632,Bulgaria
+D Njoroge,13,6,0.0,13.0,Kenya
+D Panda,53,48,6.0,6.625,Mexico
+D Parashar,380,319,15.0,7.147335423197492,United Arab Emirates
+D Paterson,154,97,6.0,9.525773195876289,South Africa
+D Polpitiya,82,55,4.0,8.945454545454545,Eswatini
+D Pretorius,307,242,19.0,7.611570247933885,South Africa
+D Ramani,167,120,6.0,8.35,Czech Republic
+D Ravu,350,253,15.0,8.300395256916996,Papua New Guinea
+D Rawat,121,98,7.0,7.408163265306122,Costa Rica
+D Robson,202,201,12.0,6.029850746268657,Estonia
+D Ruynekova,143,132,4.0,6.5,Bulgaria
+D Sabir,162,149,12.0,6.523489932885906,Bermuda
+D Samarawickrama,16,8,1.0,12.0,Italy
+D Saxena,40,32,2.0,7.5,Canada
+D St Ange,20,30,3.0,4.0,Turks and Caicos Island
+D Staddon,2,7,1.0,1.7142857142857142,Brazil
+D Suzuki,192,134,9.0,8.597014925373134,Japan
+D Svilicic,106,43,2.0,14.790697674418604,Croatia
+D Tanase,24,29,0.0,4.965517241379311,Romania
+D Tekyildirim,30,27,4.0,6.666666666666667,Turkey
+D Tucker,111,96,2.0,6.9375,South Africa
+D Unhale,54,77,4.0,4.207792207792208,Finland
+D Uwizeye,6,15,1.0,2.4000000000000004,Rwanda
+D Visser,171,139,11.0,7.381294964028776,Samoa
+D Wabwire,71,63,2.0,6.761904761904762,Uganda
+D Wangmo,124,131,9.0,5.679389312977099,Bhutan
+D Wheatley,34,15,0.0,13.6,Bahamas
+D Wiese,620,552,37.0,6.739130434782609,Namibia
+D Wotu,165,168,11.0,5.892857142857142,Vanuatu
+D Wulandari,47,60,1.0,4.7,Indonesia
+D la Cock,11,6,0.0,11.0,Namibia
+D van Niekerk,515,549,31.0,5.628415300546449,South Africa
+DA Blignaut,267,244,18.0,6.5655737704918025,Germany
+DAJ Bracewell,336,218,12.0,9.24770642201835,New Zealand
+DAL Paramitha,140,203,9.0,4.137931034482759,Indonesia
+DAM Louis,167,137,12.0,7.313868613138686,Qatar
+DAS Gunaratne,184,135,5.0,8.177777777777777,Sri Lanka
+DB Loic,126,143,8.0,5.286713286713287,Cameroon
+DB Sharma,1517,1439,86.0,6.325225851285615,India
+DBL Powell,10,19,1.0,3.1578947368421053,West Indies
+DC Delany,122,90,5.0,8.133333333333333,Ireland
+DC Drakes,225,151,4.0,8.940397350993377,West Indies
+DC Smith,368,279,13.0,7.913978494623656,Philippines
+DC Stovell,167,123,7.0,8.146341463414634,Bermuda
+DE Bernard,19,25,1.0,4.5600000000000005,West Indies
+DE Bollinger,159,147,7.0,6.489795918367348,Australia
+DE Burgess,67,44,1.0,9.136363636363637,Samoa
+DE Martel,50,54,2.0,5.555555555555555,Guernsey
+DE Roache,23,21,3.0,6.571428571428572,Samoa
+DEM Carter,136,109,1.0,7.486238532110092,Scotland
+DF Jacobs,13,24,4.0,3.25,Thailand
+DG Blampied,216,173,6.0,7.491329479768787,Jersey
+DG Weakley,147,87,5.0,10.137931034482758,Bahamas
+DGAPD Wiswi,82,86,7.0,5.72093023255814,Indonesia
+DI Dusabemungu,7,6,0.0,7.0,Rwanda
+DJ Bravo,1297,967,61.0,8.04756980351603,West Indies
+DJ Hawoe,1035,947,52.0,6.557550158394932,Indonesia
+DJ Hooda,35,48,2.0,4.375,India
+DJ Hussey,225,192,9.0,7.03125,Australia
+DJ Mitchell,62,33,3.0,11.272727272727272,New Zealand
+DJ Mokoatsela,23,20,0.0,6.9,Lesotho
+DJ Turkich,33,48,2.0,4.125,Croatia
+DJ Willey,513,404,18.0,7.618811881188119,England
+DJG Sammy,504,412,24.0,7.339805825242718,West Indies
+DJM Short,132,103,4.0,7.689320388349515,Australia
+DJS Dottin,522,462,34.0,6.779220779220779,West Indies
+DK Anefie,195,210,11.0,5.571428571428571,Ghana
+DK Dahyabhai Ahir,34,48,1.0,4.25,Panama
+DK Mathias,67,57,2.0,7.052631578947369,Bahrain
+DK Pallekonda,150,91,5.0,9.89010989010989,Slovenia
+DK Shetty,261,259,16.0,6.046332046332046,Indonesia
+DKD Warnakulasuriya,48,56,5.0,5.142857142857142,Italy
+DL Brangman,192,253,22.0,4.553359683794466,Bermuda
+DL Chahar,419,286,14.0,8.79020979020979,India
+DL Graham,71,65,2.0,6.553846153846154,France
+DL Maddy,27,18,3.0,9.0,England
+DL Vettori,224,265,14.0,5.071698113207548,New Zealand
+DLS van Bunge,14,12,1.0,7.0,Netherlands
+DM Braat,30,50,1.0,3.6,Netherlands
+DM Gondaria,65,62,3.0,6.290322580645161,Kenya
+DM Kavinisseri,21,23,0.0,5.478260869565217,Qatar
+DM Kimmince,508,476,27.0,6.403361344537816,Australia
+DM Nakrani,784,806,56.0,5.836228287841191,Uganda
+DM de Silva,150,145,10.0,6.206896551724139,Sri Lanka
+DMW Rawlins,327,324,17.0,6.055555555555555,Bermuda
+DN Wellalage,91,70,3.0,7.800000000000001,Sri Lanka
+DN Wyatt,187,204,10.0,5.5,England
+DNA Ankrah,63,54,2.0,7.0,Ghana
+DO Leicher,59,43,2.0,8.232558139534884,Namibia
+DP David,19,18,1.0,6.333333333333334,India
+DP Hernandez,13,13,0.0,6.0,Other
+DP Nannes,256,195,12.0,7.876923076923077,Australia
+DP Vaidya,123,98,5.0,7.530612244897959,India
+DPMD Jayawardene,8,6,0.0,8.0,Sri Lanka
+DPS Tyagi,124,96,6.0,7.75,Singapore
+DR Briggs,140,76,2.0,11.052631578947368,England
+DR Brown,45,27,0.0,10.0,Scotland
+DR Gibson,113,110,5.0,6.163636363636364,England
+DR Hooper,183,169,11.0,6.497041420118343,Guernsey
+DR Mousley,47,37,2.0,7.621621621621621,England
+DR Sams,160,106,5.0,9.056603773584907,Australia
+DR Smith,38,18,2.0,12.666666666666668,West Indies
+DR Tuffey,68,49,3.0,8.326530612244898,New Zealand
+DS Airee,611,564,31.0,6.5,Nepal
+DS Bajwa,26,19,1.0,8.210526315789474,Canada
+DS Kulkarni,32,26,1.0,7.384615384615385,India
+DS Vlachopoulou,3,16,2.0,1.125,Greece
+DSK Madushanka,41,20,0.0,12.3,Sri Lanka
+DT Christian,300,219,12.0,8.21917808219178,Australia
+DT Doram,155,126,6.0,7.380952380952381,Netherlands
+DT Johnston,302,289,12.0,6.269896193771626,Ireland
+DT Tiripano,163,113,4.0,8.654867256637168,Zimbabwe
+DV Devjani Mutreja,51,40,3.0,7.649999999999999,Mexico
+DV Macome,93,75,4.0,7.439999999999999,Mozambique
+DV Varghese,249,161,4.0,9.27950310559006,Bulgaria
+DVD Madampage,123,89,5.0,8.292134831460675,South Korea
+DW Steyn,538,462,25.0,6.987012987012987,South Africa
+Damini Ramesh,105,102,6.0,6.1764705882352935,Singapore
+Danish Aziz,29,18,2.0,9.666666666666668,Pakistan
+Danyal Raja,317,212,8.0,8.971698113207546,Bulgaria
+Davion Codner,33,19,1.0,10.421052631578949,Cayman Islands
+Dawood Ahmadzai,256,224,12.0,6.857142857142857,France
+Dayal Joy,56,35,1.0,9.6,Slovenia
+Dayyaan Galiem,21,27,2.0,4.666666666666667,South Africa
+Delawar Khan,113,85,5.0,7.976470588235294,Denmark
+Deng Jinqi,67,51,2.0,7.882352941176471,China
+Dhananjay Rao,49,44,5.0,6.681818181818182,Hong Kong
+Diana Baig,575,564,31.0,6.117021276595745,Pakistan
+Divya Kandpal,7,6,0.0,7.0,Luxembourg
+Dok Da Nit,60,67,4.0,5.373134328358209,Cambodia
+E Anyipo,320,401,20.0,4.788029925187033,Uganda
+E Batkhuyag,25,20,0.0,7.5,Mongolia
+E Beukes,180,149,9.0,7.248322147651007,Cambodia
+E Bisht,119,147,13.0,4.857142857142858,India
+E Bourgaize,16,7,0.0,13.714285714285714,Other
+E Chigumbura,206,140,11.0,8.82857142857143,Zimbabwe
+E Duffy,156,151,11.0,6.198675496688741,Jersey
+E Eduard,10,24,3.0,2.5,Indonesia
+E Ernest,59,68,2.0,5.205882352941177,Sierra Leone
+E Frimpong,16,30,1.0,3.2,Ghana
+E Gouge,137,157,9.0,5.235668789808917,Jersey
+E Guehoada,184,204,6.0,5.411764705882353,Cameroon
+E Isaneez,37,34,1.0,6.529411764705882,Uganda
+E Jabarkhel,153,129,7.0,7.116279069767442,Luxembourg
+E Kabwere,111,143,9.0,4.6573426573426575,Malawi
+E Kahamker,35,22,0.0,9.545454545454543,Israel
+E Kallous,122,101,7.0,7.247524752475247,Greece
+E Kamara,320,364,15.0,5.274725274725275,Sierra Leone
+E Karimi,77,68,6.0,6.794117647058823,Denmark
+E Konasova,42,35,0.0,7.199999999999999,Czech Republic
+E Kubwimana,318,221,21.0,8.633484162895927,Rwanda
+E Kuchey,70,43,0.0,9.767441860465116,Finland
+E Kuncova,220,201,3.0,6.567164179104477,Czech Republic
+E Kusuda-Nairn,87,103,3.0,5.067961165048543,Japan
+E Kuyumcu,31,16,0.0,11.625,Turkey
+E Leie,33,19,1.0,10.421052631578949,South Africa
+E Malinga,62,50,3.0,7.439999999999999,Sri Lanka
+E Marx,85,80,1.0,6.375,South Africa
+E Mathew,176,137,12.0,7.708029197080291,Malta
+E Mbofana,11,29,6.0,2.275862068965517,Zimbabwe
+E Millington,32,19,0.0,10.105263157894736,Other
+E Ndubudem,21,25,2.0,5.04,Nigeria
+E Niyomugabo,153,128,10.0,7.171875,Rwanda
+E Ochieng,126,88,2.0,8.590909090909092,Kenya
+E Otieno,285,206,9.0,8.300970873786408,Kenya
+E Packard,60,44,1.0,8.181818181818182,Gibraltar
+E Prokic,111,105,4.0,6.342857142857143,Serbia
+E Richard,68,74,2.0,5.513513513513514,Malawi
+E Rukiriza,810,708,41.0,6.864406779661017,Rwanda
+E Schiferli,114,93,2.0,7.35483870967742,Australia
+E Sebareme,430,442,25.0,5.83710407239819,Rwanda
+E Toguchi-Quinn,203,228,9.0,5.342105263157895,Japan
+E Ungerman,69,82,4.0,5.048780487804878,Singapore
+E Vukusic,12,24,1.0,3.0,Croatia
+E Wachira,314,380,28.0,4.957894736842105,Kenya
+E Waithaka,65,90,4.0,4.333333333333333,Kenya
+E Walker,20,19,0.0,6.315789473684211,Isle of Man
+EA Burns,18,24,0.0,4.5,Australia
+EA Osborne,257,265,17.0,5.818867924528302,Australia
+EA Perry,757,846,54.0,5.368794326241135,Australia
+EAJ Richardson,516,554,34.0,5.588447653429603,Ireland
+EAS Ferrary,73,79,7.0,5.544303797468355,Gibraltar
+EB Ringera,379,318,17.0,7.150943396226415,Kenya
+EC Bargna,247,231,6.0,6.415584415584416,Germany
+ECB Moore,119,102,8.0,7.0,Italy
+ED Silva,79,71,3.0,6.67605633802817,Kuwait
+EE Corder,21,20,0.0,6.300000000000001,Netherlands
+EH Hutchinson,36,50,2.0,4.32,United States of America
+EJ Carson,400,379,20.0,6.33245382585752,New Zealand
+EJ Tice,231,199,6.0,6.964824120603016,Ireland
+EJB Miles,199,177,13.0,6.745762711864407,Jersey
+EK Hubbard,98,97,2.0,6.061855670103093,Hong Kong
+EL Arlott,168,126,7.0,8.0,England
+EL Bartram,235,223,13.0,6.32286995515695,Italy
+EM Bermingham,113,111,6.0,6.108108108108109,New Zealand
+EMDY Munaweera,71,45,1.0,9.466666666666669,Sri Lanka
+EN Lynch,505,585,36.0,5.17948717948718,Netherlands
+ER Oza,583,636,35.0,5.5,United Arab Emirates
+ET Williams,39,26,1.0,9.0,Cook Islands
+EU Kejarukua,220,326,16.0,4.049079754601227,Namibia
+Eashal Ibrahim,57,34,0.0,10.058823529411764,Maldives
+Ebadat Hossain,42,26,2.0,9.692307692307692,Bangladesh
+Ehsan Khan,923,904,62.0,6.126106194690265,Hong Kong
+Ehsan Nawaz,37,22,1.0,10.090909090909092,Hong Kong
+Elan Talker,69,63,2.0,6.571428571428572,Israel
+Elias Hasan,145,87,2.0,10.0,Estonia
+Elias Sunny,48,30,0.0,9.6,Bangladesh
+Elias Tilman,71,62,4.0,6.870967741935484,Timor-Leste
+Emaan Ejaz,142,77,2.0,11.064935064935064,Saudi Arabia
+Emilia Toro,29,19,0.0,9.157894736842106,Other
+Emily Merrien,65,69,6.0,5.652173913043479,Other
+Emily Sirs,5,12,0.0,2.5,Indonesia
+Emma Patel,59,37,2.0,9.567567567567568,France
+Emmanuella Nyaaba,26,29,1.0,5.379310344827586,Other
+Esam Rahman,20,17,0.0,7.0588235294117645,Japan
+Esperanza Rubio,116,70,3.0,9.942857142857145,Other
+Ethan D'Souza,13,12,0.0,6.5,United Arab Emirates
+Eva Somsel Yangzom,10,6,0.0,10.0,Bhutan
+Ezgi Nur Kilic,109,122,8.0,5.360655737704918,Turkey
+F Akankwasa,197,169,12.0,6.994082840236686,Uganda
+F Bangur,46,32,0.0,8.625,Sierra Leone
+F Banunaek,976,892,53.0,6.565022421524664,Indonesia
+F Behardien,19,24,3.0,4.75,South Africa
+F Chipare,341,283,11.0,7.229681978798586,Zimbabwe
+F Choudary,32,18,1.0,10.666666666666666,Sweden
+F Clarke,27,28,1.0,5.785714285714286,Isle of Man
+F Copley,13,24,2.0,3.25,Jersey
+F Damiao Couana,285,234,8.0,7.307692307692307,Mozambique
+F Eseigbe,162,219,10.0,4.438356164383562,Nigeria
+F Guirrugo,39,29,0.0,8.068965517241379,Mozambique
+F Hand,119,73,1.0,9.78082191780822,Ireland
+F Khaliq,41,48,3.0,5.125,Belgium
+F Martin,24,29,1.0,4.965517241379311,Isle of Man
+F Mutua,251,205,16.0,7.346341463414634,Kenya
+F Najjumba,23,24,1.0,5.75,Uganda
+F Nsubuga,459,610,28.0,4.514754098360656,Uganda
+F Odhiambo,177,211,11.0,5.033175355450237,Kenya
+F Overdijk,388,347,24.0,6.708933717579251,Netherlands
+F Pessima,82,136,9.0,3.617647058823529,Sierra Leone
+F Samanyika,112,98,2.0,6.857142857142857,Botswana
+F Sisifo,55,47,2.0,7.0212765957446805,Samoa
+F Song,25,38,2.0,3.947368421052632,China
+F Stoman,248,249,16.0,5.975903614457831,Portugal
+F Tanguy,165,207,9.0,4.782608695652174,Jersey
+F Zirahangaje,28,21,0.0,8.0,Rwanda
+F du Plessis,3,8,0.0,2.25,South Africa
+FA Allen,466,372,17.0,7.516129032258064,West Indies
+FA Cossa,285,244,14.0,7.008196721311474,Mozambique
+FA Sargent,116,110,5.0,6.327272727272726,Ireland
+FC Jonas,448,419,19.0,6.41527446300716,New Zealand
+FC Leydon-Davis,25,25,1.0,6.0,New Zealand
+FC Muniz,41,48,1.0,5.125,Brazil
+FDM Devonshire,13,13,1.0,6.0,New Zealand
+FG Kemp,227,192,11.0,7.09375,England
+FH Edwards,324,248,14.0,7.838709677419354,West Indies
+FJ Klaassen,527,406,18.0,7.788177339901477,Netherlands
+FJ Mpegna,37,13,0.0,17.076923076923077,Cameroon
+FL Albanjari,4,9,2.0,2.6666666666666665,Indonesia
+FL Mackay,109,102,10.0,6.411764705882353,New Zealand
+FL Patel,76,46,1.0,9.91304347826087,Panama
+FN Walsh,59,24,2.0,14.75,Philippines
+FO Kibasu,86,85,5.0,6.070588235294117,Tanzania
+FR Davies,270,247,14.0,6.558704453441296,England
+Fahad Tariq,18,12,0.0,9.0,United Arab Emirates
+Faheem Ashraf,660,504,28.0,7.857142857142858,Pakistan
+Faheem Nazir,171,139,8.0,7.381294964028776,Switzerland
+Fahima Khatun,842,825,45.0,6.123636363636363,Bangladesh
+Faisal Khan,115,67,2.0,10.298507462686567,Saudi Arabia
+Faizal Salehji,15,14,0.0,6.428571428571429,Panama
+Fakhar Zaman,12,6,0.0,12.0,Pakistan
+Fakhrul Mohon,62,61,3.0,6.0983606557377055,Portugal
+Fanyan Mughal,342,305,16.0,6.727868852459016,Malta
+Farhad Reza,210,126,5.0,10.0,Bangladesh
+Farhan Ahmed,38,30,1.0,7.6,United Arab Emirates
+Farial Zia Safdar,21,29,2.0,4.344827586206897,Norway
+Fariha Trisna,275,212,12.0,7.783018867924529,Bangladesh
+Farzan Afzal,46,74,4.0,3.72972972972973,Spain
+Fathimath Anaal,4,7,0.0,3.4285714285714284,Maldives
+Fathimath Malha,26,13,0.0,12.0,Maldives
+Fatima Amir,10,9,0.0,6.666666666666667,Hong Kong
+Fatima Sana,739,609,34.0,7.280788177339901,Pakistan
+Fawad Ahmed,27,24,3.0,6.75,Australia
+Fawad Alam,57,48,4.0,7.125,Pakistan
+Fayaz Khan,164,175,15.0,5.622857142857143,Germany
+Fayyaz Butt,726,547,33.0,7.963436928702011,Oman
+Fazil Muhammad,67,54,4.0,7.444444444444445,South Korea
+Fazil Rahman,114,99,11.0,6.90909090909091,Malta
+Festus Benn,282,204,10.0,8.294117647058822,Bahamas
+Firas Hussain,55,43,4.0,7.674418604651163,Bulgaria
+Fitri Sham,377,322,18.0,7.024844720496894,Malaysia
+Fiza,12,14,1.0,5.142857142857142,Oman
+Florencia Martinez,71,33,0.0,12.909090909090908,Other
+Franz Bur,16,13,2.0,7.384615384615385,Argentina
+G Ayan,110,119,3.0,5.546218487394958,Turkey
+G Bakiweyem,394,352,16.0,6.715909090909092,Ghana
+G Bruno,43,27,2.0,9.555555555555555,Turks and Caicos Island
+G Candiru,168,168,5.0,6.0,Uganda
+G Cengiz,79,55,1.0,8.618181818181817,Turkey
+G Chohan,255,162,6.0,9.444444444444445,Philippines
+G Coetzee,306,203,10.0,9.044334975369456,South Africa
+G Dempsey,148,156,10.0,5.692307692307692,Ireland
+G Fatouros,67,60,5.0,6.7,Greece
+G Fernando,12,6,0.0,12.0,Bahrain
+G Ford,55,59,1.0,5.59322033898305,Isle of Man
+G Goudie,30,18,1.0,10.0,Scotland
+G Ilarionova,100,61,1.0,9.836065573770492,Bulgaria
+G Ingabire,14,12,1.0,7.0,Rwanda
+G Ishimwe,99,90,4.0,6.6000000000000005,Rwanda
+G Jafta,46,62,4.0,4.451612903225806,South Africa
+G Johnson,24,24,0.0,6.0,St Helena
+G Kansonkho,24,12,1.0,12.0,Malawi
+G Kodali,326,266,13.0,7.353383458646617,United States of America
+G Kuthalingham,18,25,1.0,4.32,Turks and Caicos Island
+G Madanayake,85,111,2.0,4.594594594594595,Estonia
+G Mallett,108,141,15.0,4.595744680851064,Jersey
+G Matome,320,413,19.0,4.648910411622276,Botswana
+G Mckeon,16,24,0.0,4.0,France
+G Morales,44,73,4.0,3.616438356164384,Other
+G Motie,468,341,17.0,8.234604105571847,West Indies
+G Mubiru,12,6,0.0,12.0,Uganda
+G Ngegba,231,240,13.0,5.775,Sierra Leone
+G Oliveira,61,49,2.0,7.469387755102041,Brazil
+G Ribeiro,14,14,1.0,6.0,Brazil
+G Sesay,278,326,29.0,5.116564417177914,Sierra Leone
+G Setshwane,55,86,6.0,3.8372093023255816,Botswana
+G Shukla,131,197,7.0,3.98984771573604,Sweden
+G Singh,102,112,7.0,5.464285714285714,United States of America
+G Stewart,110,124,8.0,5.32258064516129,Italy
+G Sultana,123,103,4.0,7.16504854368932,India
+G Toka,20,18,1.0,6.666666666666667,Papua New Guinea
+G Venkateswaran,179,114,6.0,9.421052631578949,Luxembourg
+G Wareham,586,631,43.0,5.572107765451664,Australia
+G Wetherall,223,265,15.0,5.049056603773585,Jersey
+G Wijekoon,89,50,2.0,10.68,Sri Lanka
+GA Elwiss,16,18,1.0,5.333333333333333,England
+GA Lamb,34,24,2.0,8.5,Zimbabwe
+GA Priandana,237,200,13.0,7.11,Indonesia
+GA Rogers,52,26,0.0,12.0,Scotland
+GA Stuurman,29,14,0.0,12.42857142857143,South Africa
+GB Brent,53,44,3.0,7.227272727272727,Zimbabwe
+GB Hogg,306,215,4.0,8.539534883720929,Australia
+GC Galanis,144,148,9.0,5.837837837837839,Greece
+GC Murtaza,527,486,33.0,6.506172839506172,Cambodia
+GC Smith,17,6,0.0,17.0,South Africa
+GC Tonge,25,24,1.0,6.25,West Indies
+GD Arta,357,394,22.0,5.436548223350254,Indonesia
+GD Drummond,120,93,4.0,7.741935483870968,Scotland
+GD Elliott,87,66,6.0,7.909090909090908,New Zealand
+GD McGrath,31,25,3.0,7.439999999999999,Australia
+GD Phillips,74,45,0.0,9.866666666666667,New Zealand
+GDR Eranga,84,91,5.0,5.538461538461538,Canada
+GEM Brealey,65,81,1.0,4.814814814814815,Luxembourg
+GES Sullivan,49,48,0.0,6.125,Cook Islands
+GF Linde,204,159,11.0,7.69811320754717,South Africa
+GG Alta,205,146,12.0,8.424657534246576,Turkey
+GH Dockrell,754,696,35.0,6.5,Ireland
+GH Lewis,14,14,0.0,6.0,Ireland
+GH O'Brien,135,116,5.0,6.982758620689655,Bermuda
+GHS Garton,57,25,1.0,13.68,England
+GI Gokoel,20,12,0.0,10.0,Suriname
+GI Hume,116,82,6.0,8.487804878048781,Ireland
+GI Maiden,14,12,1.0,7.0,Scotland
+GJ Delany,680,546,28.0,7.472527472527473,Ireland
+GJ Maxwell,950,709,33.0,8.039492242595204,Australia
+GJ Snyman,12,6,0.0,12.0,South Africa
+GJ van Rensburg,25,25,2.0,6.0,Namibia
+GJP Kruger,34,26,0.0,7.846153846153847,South Africa
+GK Berg,203,152,6.0,8.013157894736842,Italy
+GK Diviya,334,457,26.0,4.385120350109409,Singapore
+GK Ghalley,13,9,0.0,8.666666666666666,Bhutan
+GM Harris,36,42,3.0,5.142857142857142,Australia
+GM Muthui,303,261,12.0,6.965517241379311,Kenya
+GM Ntambalika,11,13,1.0,5.076923076923077,Malawi
+GP Meade,61,56,2.0,6.535714285714285,Italy
+GP Swann,508,478,29.0,6.376569037656903,England
+GP Tom,115,116,5.0,5.948275862068966,Papua New Guinea
+GR Russ,52,20,0.0,15.6,Philippines
+GRD Munasinghe,100,75,4.0,8.0,Italy
+GS Sequeira,19,26,2.0,4.384615384615384,Portugal
+GSNFG Jayasuriya,76,60,0.0,7.6,Sri Lanka
+GT Main,132,100,8.0,7.92,Scotland
+GT Taylor,208,133,11.0,9.38345864661654,Bahamas
+Gagandeep Singh,212,142,3.0,8.95774647887324,Bulgaria
+Garret Banner,208,181,9.0,6.895027624309392,Belize
+Gaurav Mishra,84,76,4.0,6.631578947368421,Romania
+Gaurav Tiwari,241,212,7.0,6.820754716981132,Indonesia
+Gayan Munaweera,398,280,18.0,8.528571428571428,Qatar
+Geovanis Uwase,9,29,1.0,1.862068965517241,Rwanda
+Ghayour Ahmad,14,19,0.0,4.421052631578947,Saudi Arabia
+Ghulam Abbas Butt,56,44,0.0,7.636363636363637,Finland
+Ghulam Ahmadi,685,674,38.0,6.097922848664689,Germany
+Ghulam Fatima,67,55,1.0,7.309090909090909,Pakistan
+Gong Yuting,49,72,2.0,4.083333333333334,China
+Guido Angeletti,97,102,7.0,5.705882352941176,Argentina
+Gulsan Jha,316,257,13.0,7.377431906614786,Nepal
+Gurdeep Singh,16,24,2.0,4.0,Kenya
+Gurpratap Singh,73,71,7.0,6.169014084507042,Cyprus
+H Agarwal,238,246,10.0,5.804878048780488,Qatar
+H Beresford-Peirse,62,44,1.0,8.454545454545455,Croatia
+H Bharadwaj,127,161,15.0,4.732919254658386,Singapore
+H Carlyon,172,159,10.0,6.490566037735849,Jersey
+H Celik,69,77,8.0,5.376623376623376,Turkey
+H Chamto,96,122,6.0,4.721311475409836,Sweden
+H Dandapani,49,34,2.0,8.647058823529411,Finland
+H Dassanayake,3,7,0.0,2.571428571428571,Finland
+H Deol,44,31,3.0,8.516129032258064,India
+H Deshan,82,78,6.0,6.307692307692308,Switzerland
+H Dhavina,329,328,11.0,6.018292682926829,Singapore
+H Doriga,33,21,0.0,9.428571428571429,Papua New Guinea
+H Elder,18,23,0.0,4.695652173913044,Switzerland
+H Eulenkamp,70,58,3.0,7.241379310344827,Other
+H Fennell,329,321,22.0,6.149532710280374,Argentina
+H Gori,22,13,1.0,10.153846153846152,Czech Republic
+H Graham,17,13,1.0,7.846153846153847,Australia
+H Hiri,7,12,0.0,3.5,Papua New Guinea
+H Hotchandani,273,297,14.0,5.515151515151516,United Arab Emirates
+H Ishimwe,567,732,49.0,4.647540983606557,Rwanda
+H Karunaratne,15,6,0.0,15.0,Sri Lanka
+H Kaur,235,210,17.0,6.714285714285714,India
+H Kaushik,15,12,1.0,7.5,United Arab Emirates
+H Khogiyani,184,136,4.0,8.117647058823529,Austria
+H Khuttan,52,34,1.0,9.176470588235292,Portugal
+H Klazinge,63,63,6.0,6.0,Namibia
+H Lakov,482,356,16.0,8.123595505617978,Bulgaria
+H Leko,17,27,1.0,3.7777777777777777,Croatia
+H Lin Aung,248,203,14.0,7.330049261083744,Myanmar
+H Lin Oo,112,67,5.0,10.029850746268655,Myanmar
+H Little,15,20,0.0,4.5,Ireland
+H Masakadza,47,32,2.0,8.8125,Zimbabwe
+H Mumford,76,88,2.0,5.181818181818182,Gibraltar
+H Nguyen,21,14,0.0,9.0,Finland
+H Osinde,73,58,3.0,7.551724137931034,Canada
+H Patel,23,24,2.0,5.75,Canada
+H Rashid,112,81,3.0,8.296296296296296,Eswatini
+H Rathod,255,235,16.0,6.51063829787234,Qatar
+H Satheedevi,128,77,4.0,9.974025974025974,Croatia
+H Sawaneh,35,25,0.0,8.399999999999999,Sierra Leone
+H Shreya,16,17,0.0,5.647058823529411,Sweden
+H Ssenyondo,656,765,62.0,5.145098039215686,Uganda
+H Thaker,279,272,16.0,6.154411764705882,Canada
+H Venkataram,155,132,7.0,7.045454545454546,Singapore
+H Virdee,26,12,1.0,13.0,Luxembourg
+HA Chohan,259,262,18.0,5.931297709923665,Tanzania
+HA Daluwatta,25,18,1.0,8.333333333333332,Italy
+HA Varaiya,94,106,4.0,5.320754716981132,Kenya
+HAG Madhushanka,36,18,0.0,12.0,Seychelles
+HAM Samuddika,97,85,3.0,6.847058823529411,Sri Lanka
+HAM Shah,125,135,13.0,5.555555555555555,Denmark
+HASD Siriwardene,448,397,21.0,6.770780856423174,Sri Lanka
+HB Dickson,88,95,5.0,5.557894736842105,Cook Islands
+HB Shipley,144,83,2.0,10.409638554216867,New Zealand
+HC Knight,256,237,9.0,6.481012658227847,England
+HDJ Siegers,235,236,13.0,5.974576271186441,Netherlands
+HER Tyler,357,235,11.0,9.114893617021275,Philippines
+HF Gurney,26,24,3.0,6.5,England
+HH Aung,71,90,5.0,4.733333333333333,Myanmar
+HH Pandya,1111,846,49.0,7.879432624113475,India
+HHC Gunaratne,62,86,5.0,4.325581395348837,Sri Lanka
+HJ Darlington,31,18,0.0,10.333333333333334,Australia
+HJ Manenti,232,208,20.0,6.6923076923076925,Italy
+HJ Thomas,232,268,14.0,5.1940298507462686,Papua New Guinea
+HK Bennett,202,118,7.0,10.271186440677967,New Zealand
+HK Kukreja,51,25,1.0,12.24,Singapore
+HK Matthews,1288,1182,82.0,6.538071065989849,West Indies
+HL Colvin,244,260,13.0,5.63076923076923,England
+HL Ferling,38,49,2.0,4.653061224489796,Australia
+HL Harji,178,137,6.0,7.795620437956204,Seychelles
+HL Tau,96,93,4.0,6.193548387096774,Papua New Guinea
+HM Rowe,323,237,12.0,8.177215189873419,New Zealand
+HMCM Bandara,45,37,1.0,7.297297297297297,Sri Lanka
+HMD Rasangika,287,231,10.0,7.454545454545455,Bahrain
+HMHE Parsons,33,13,1.0,15.23076923076923,South Korea
+HMRKB Herath,129,115,3.0,6.730434782608695,Sri Lanka
+HN Ya France,108,98,4.0,6.612244897959183,Namibia
+HNK Jensen,424,359,27.0,7.086350974930362,New Zealand
+HR Huddleston,51,56,3.0,5.464285714285714,New Zealand
+HR Walsh,532,424,23.0,7.528301886792454,United States of America
+HRA Rainey,285,329,17.0,5.197568389057751,Scotland
+HS Baidwan,84,62,6.0,8.129032258064516,Canada
+HS Bedi,19,12,0.0,9.5,Serbia
+HT Tector,118,99,4.0,7.151515151515151,Ireland
+HV Mandhyan,318,273,16.0,6.989010989010989,Hungary
+HV Patel,343,226,13.0,9.106194690265486,India
+HWA Landheer,308,309,15.0,5.980582524271845,Netherlands
+Habib Khan,393,354,23.0,6.6610169491525415,Estonia
+Habiba Islam,20,13,0.0,9.230769230769232,Bangladesh
+Hadia Siddiqui,33,27,1.0,7.333333333333334,Austria
+Haider Ali,299,315,21.0,5.695238095238095,Pakistan
+Haider Butt,65,45,4.0,8.666666666666666,Bahrain
+Hala Azmat,38,32,0.0,7.125,Canada
+Haliam Kwon,46,40,0.0,6.9,South Korea
+Hamid Mahmood,181,200,9.0,5.43,Sweden
+Hamid Safi,58,32,3.0,10.875,Austria
+Hamza Dar,66,51,3.0,7.764705882352942,Spain
+Hamza Khan,15,6,0.0,15.0,Rwanda
+Hamza Tahir,276,187,11.0,8.855614973262032,Scotland
+Han Lili,95,149,11.0,3.825503355704698,China
+Harbhajan Singh,190,215,13.0,5.302325581395349,India
+Hardeep Singh,55,36,1.0,9.166666666666666,Cyprus
+Haris Karim,39,19,1.0,12.315789473684212,Slovenia
+Haris Rauf,1312,1027,76.0,7.665043816942551,Pakistan
+Harmeet Singh,390,364,18.0,6.428571428571429,United States of America
+Haroon Arshad,427,304,17.0,8.427631578947368,Hong Kong
+Harry Johnson,173,148,7.0,7.013513513513513,Guernsey
+Harshit Rana,35,24,2.0,8.75,India
+Hasan Ali,703,488,33.0,8.64344262295082,Pakistan
+Hasan Mahmud,335,248,14.0,8.10483870967742,Bangladesh
+Haseeb Amjad,263,222,22.0,7.108108108108107,Hong Kong
+Hassan Khan Mohammad,43,23,0.0,11.217391304347826,Hong Kong
+Hassan Mehmood,14,21,2.0,4.0,Sweden
+Hassan Nasir,11,13,0.0,5.076923076923077,Mexico
+Hassnain Shah,79,57,4.0,8.31578947368421,Oman
+Hawwa Ifasha,16,8,0.0,12.0,Maldives
+Hawwa Shaaiqa,15,12,0.0,7.5,Maldives
+Hayatullah Niazi,54,45,2.0,7.199999999999999,Norway
+Hazrat Luqman,64,38,1.0,10.105263157894736,Bangladesh
+Heal Theara,87,96,4.0,5.4375,Cambodia
+Hein Zin Aung,13,6,0.0,13.0,Myanmar
+Hiba Shamshad,24,37,1.0,3.891891891891892,Canada
+Hilva Noor,2,6,0.0,2.0,Indonesia
+Hina Hussain,21,28,3.0,4.5,Norway
+Hisham Sheikh,366,328,9.0,6.695121951219512,Saudi Arabia
+Hor Siv na,19,30,0.0,3.8,Cambodia
+Humaira Tasneem,43,31,3.0,8.322580645161292,United Arab Emirates
+Hung Ying Ho,6,14,0.0,2.571428571428571,Hong Kong
+Hussain Talat,42,34,3.0,7.411764705882353,Pakistan
+Huzaif Yousuf,71,48,3.0,8.875,Bulgaria
+Huzaifa Mohammed,361,304,16.0,7.125,Philippines
+Hwanhee Lee,6,6,2.0,6.0,South Korea
+Hyejin Park,34,44,2.0,4.636363636363637,South Korea
+I Alumo,160,199,10.0,4.824120603015076,Uganda
+I Asif,62,52,3.0,7.153846153846153,Austria
+I Bardis,12,8,1.0,9.0,Greece
+I Barma,386,492,34.0,4.7073170731707314,Nepal
+I Bist,204,205,9.0,5.970731707317073,Nepal
+I Chathurani,31,90,9.0,2.0666666666666664,Cyprus
+I Chuma,81,76,3.0,6.394736842105264,Mozambique
+I Danladi,236,236,15.0,6.0,Nigeria
+I Edwards,130,104,2.0,7.5,Germany
+I Elec,97,87,6.0,6.689655172413794,Turkey
+I Goordial-John,130,160,7.0,4.875,Canada
+I Kaia,9,12,0.0,4.5,Zimbabwe
+I Kamara,32,37,6.0,5.1891891891891895,Sierra Leone
+I Katzarski,7,7,0.0,6.0,Bulgaria
+I Mugisha,95,92,5.0,6.195652173913043,Rwanda
+I Muhawenimana,236,278,11.0,5.093525179856115,Rwanda
+I Muntean,54,64,2.0,5.0625,Romania
+I Mutoni,116,133,8.0,5.233082706766917,Uganda
+I Nakisuuyi,457,573,30.0,4.785340314136126,Uganda
+I Nandakumar,381,440,16.0,5.195454545454545,United Arab Emirates
+I Ntirenganya,578,557,33.0,6.2262118491921,Rwanda
+I Quee,19,33,4.0,3.454545454545455,Sierra Leone
+I Ranaweera,647,585,36.0,6.635897435897436,Sri Lanka
+I Rodriguez,29,33,2.0,5.2727272727272725,Other
+I Sharma,226,149,3.0,9.100671140939598,India
+I Shukla,98,105,7.0,5.6,Singapore
+I Stewart,68,49,4.0,8.326530612244898,Switzerland
+I Suhun,62,54,2.0,6.888888888888889,Bahrain
+I Takahashi,173,161,4.0,6.447204968944099,Japan
+I Tchakou,47,43,5.0,6.55813953488372,Cameroon
+I Toua,250,277,12.0,5.415162454873646,Papua New Guinea
+I Uboh,30,18,1.0,10.0,Nigeria
+I Udana,452,293,13.0,9.255972696245736,Sri Lanka
+I Waqavakatoga,141,175,12.0,4.8342857142857145,Fiji
+I Wardlaw,43,25,3.0,10.32,Scotland
+I van Zyl,412,506,19.0,4.8853754940711465,Namibia
+I van der Woning,144,136,4.0,6.352941176470589,Netherlands
+IC Simao,200,162,5.0,7.4074074074074066,Brazil
+IDM Latin,104,74,6.0,8.432432432432433,Gibraltar
+IE O'Brien,119,78,6.0,9.153846153846152,New Zealand
+IECM Wong,193,203,9.0,5.704433497536946,England
+IG Butler,236,174,16.0,8.137931034482758,New Zealand
+IG Holland,74,100,7.0,4.44,United States of America
+IGTP Wiguna,50,37,1.0,8.108108108108109,Indonesia
+IJR Zwilling,746,908,55.0,4.929515418502202,Netherlands
+IK Cheema,23,28,0.0,4.928571428571429,Portugal
+IK Gamantika,502,540,32.0,5.5777777777777775,Indonesia
+IK Pathan,242,174,8.0,8.344827586206897,India
+IKEG Artawan,695,667,35.0,6.251874062968516,Indonesia
+IKO Aboagye,47,48,5.0,5.875,Ghana
+IM Vaghela,168,205,10.0,4.917073170731707,United States of America
+IMHC Joyce,439,436,14.0,6.041284403669724,Ireland
+IO Okpe,731,605,42.0,7.249586776859504,Nigeria
+IP Swaney,27,12,0.0,13.5,Singapore
+IS Mananelage,8,8,0.0,6.0,United Arab Emirates
+IS Sodhi,1357,1069,60.0,7.616463985032741,New Zealand
+IT Guha,53,49,2.0,6.489795918367348,England
+IW Budiarta,37,31,1.0,7.161290322580646,Indonesia
+IY Mckeon,15,7,0.0,12.857142857142858,France
+Ibrahim Hassan,490,390,18.0,7.538461538461538,Maldives
+Ibrahim Jabarkhel,59,54,4.0,6.555555555555555,France
+Ibrahim Kursad Dalyan,47,38,0.0,7.421052631578948,Turkey
+Ibrahim Nashath,98,97,5.0,6.061855670103093,Maldives
+Ibrahim Rahimi,14,15,1.0,5.6,Norway
+Ibrahim Rizan,403,372,19.0,6.5,Maldives
+Ibrar Ahmad,16,15,1.0,6.4,Hungary
+Iftekar Jaman,15,7,0.0,12.857142857142858,Cyprus
+Iftikhar Ahmed,172,147,5.0,7.020408163265306,Pakistan
+Iftikhar Kankhel,33,25,3.0,7.92,Belgium
+Ijaz Hussain,182,174,14.0,6.275862068965517,Romania
+Ikbal Hossain,16,27,3.0,3.555555555555556,France
+Ikramullah Khan,672,486,32.0,8.296296296296296,Qatar
+Ilenia Sims,192,199,19.0,5.788944723618091,Italy
+Ilyas Ahmed,200,188,14.0,6.382978723404255,Kuwait
+Ilyas Ataullah,172,127,5.0,8.125984251968504,Turkey
+Imad Wasim,736,734,39.0,6.016348773841962,Pakistan
+Imran Ahmed Kaneez,53,68,3.0,4.676470588235294,Costa Rica
+Imran Ameer,296,242,12.0,7.338842975206611,Malta
+Imran Anwar,949,847,52.0,6.722550177095632,Bahrain
+Imran Arif,67,52,3.0,7.730769230769232,Saudi Arabia
+Imran Butt,72,49,3.0,8.816326530612246,Bahrain
+Imran Haider,108,63,2.0,10.285714285714285,United Arab Emirates
+Imran Khan,554,485,23.0,6.85360824742268,Portugal
+Imran Khan (1),42,25,0.0,10.08,Pakistan
+Imran Tahir,378,329,22.0,6.893617021276596,South Africa
+Imran Yousaf,85,64,4.0,7.96875,Saudi Arabia
+Imtiaz Khan,67,44,4.0,9.136363636363637,Saudi Arabia
+Inam-ul-Haq,82,60,2.0,8.2,Qatar
+Iqbal Hussain,161,140,20.0,6.9,Qatar
+Iqra Sahar,505,610,23.0,4.967213114754099,Hong Kong
+Iram Javed,33,30,1.0,6.6000000000000005,Pakistan
+Irfan Ahmed,105,90,5.0,7.0,Hong Kong
+Irfan Hafejee,161,133,10.0,7.263157894736842,Panama
+Irfan Safi,27,13,0.0,12.461538461538463,Austria
+Irfan Sarfraz,5,6,0.0,5.0,Saudi Arabia
+Irshad Mubbashar,7,6,0.0,7.0,Saudi Arabia
+Isa Zaroo,64,38,3.0,10.105263157894736,Bulgaria
+Ishtiaq Ahmad,616,555,48.0,6.659459459459459,Saudi Arabia
+Ismail Ali,9,6,0.0,9.0,Maldives
+Ismaila Tanba,76,45,3.0,10.133333333333333,Gambia
+Israr Khan,37,25,0.0,8.879999999999999,Germany
+Itibarshah Deedar,54,42,0.0,7.714285714285715,Austria
+Izatullah Dawlatzai,80,99,6.0,4.848484848484849,Germany
+Izaz Ali,186,141,8.0,7.914893617021276,Slovenia
+J Ajiambo,70,93,6.0,4.516129032258064,Kenya
+J Albin,215,130,4.0,9.923076923076923,Bulgaria
+J Baguma,56,61,2.0,5.508196721311475,Uganda
+J Baker,46,33,3.0,8.363636363636363,Cayman Islands
+J Batinibulu,81,73,4.0,6.657534246575342,Fiji
+J Blades,73,66,3.0,6.636363636363636,West Indies
+J Botha,499,447,19.0,6.697986577181208,South Africa
+J Broad,64,51,3.0,7.529411764705882,Germany
+J Buchanan,43,36,1.0,7.166666666666666,Cayman Islands
+J Bulele,194,142,5.0,8.197183098591548,Mozambique
+J Butler,160,155,15.0,6.193548387096774,Guernsey
+J Chialoufas,16,18,1.0,5.333333333333333,Cyprus
+J Chirila,21,29,1.0,4.344827586206897,Romania
+J Coetzee,181,280,28.0,3.878571428571429,Thailand
+J Daley,16,26,4.0,3.692307692307693,Turks and Caicos Island
+J Danikula,81,52,2.0,9.346153846153848,Croatia
+J Dowling,35,41,3.0,5.121951219512195,Bulgaria
+J Drysdale,213,136,10.0,9.397058823529411,United States of America
+J Dzulfikar,36,74,6.0,2.9189189189189197,Indonesia
+J Edmiston,20,21,1.0,5.7142857142857135,Switzerland
+J Efosa,153,171,9.0,5.368421052631579,Nigeria
+J Erdenesuvd,136,115,1.0,7.095652173913043,Mongolia
+J Evans,114,97,11.0,7.051546391752577,Israel
+J Fernando,47,31,0.0,9.096774193548388,Romania
+J Gallimore,21,6,0.0,21.0,Bahamas
+J George,110,85,1.0,7.764705882352942,Cook Islands
+J Giyanani,35,27,0.0,7.777777777777778,United Arab Emirates
+J Glasgow,37,38,3.0,5.842105263157895,West Indies
+J Goswami,292,318,15.0,5.509433962264151,India
+J Gunasekar,83,133,12.0,3.74436090225564,Oman
+J Henry,40,31,2.0,7.741935483870968,St Helena
+J Hicks,90,165,10.0,3.2727272727272725,Isle of Man
+J Hill,50,37,3.0,8.108108108108109,Philippines
+J Horrocks,163,131,7.0,7.465648854961832,Gibraltar
+J Hurley,28,24,3.0,7.0,Argentina
+J Intan,31,34,2.0,5.470588235294118,Malaysia
+J Jagroo,49,27,1.0,10.88888888888889,Bahamas
+J Jojo,86,62,4.0,8.322580645161292,Denmark
+J Kariko,233,242,17.0,5.776859504132231,Papua New Guinea
+J Khadka,72,50,4.0,8.64,Romania
+J Kila,46,45,1.0,6.133333333333333,Papua New Guinea
+J Kominkova,133,126,2.0,6.333333333333334,Czech Republic
+J Kowa,92,162,10.0,3.4074074074074074,Sierra Leone
+J Lassayo,84,69,5.0,7.304347826086957,Sierra Leone
+J Lewis,32,18,1.0,10.666666666666666,England
+J Little,949,780,41.0,7.299999999999999,Ireland
+J Long,26,13,1.0,12.0,Philippines
+J Maguire,321,285,12.0,6.757894736842105,Ireland
+J Marples,14,6,0.0,14.0,Gibraltar
+J Matharu,5,6,0.0,5.0,Canada
+J Mbabazi,747,891,74.0,5.03030303030303,Uganda
+J Miyaji,374,339,25.0,6.619469026548673,Uganda
+J Mulder,26,25,1.0,6.24,Ireland
+J Newland,14,14,0.0,6.0,Sierra Leone
+J Nkomo,432,505,37.0,5.132673267326733,Zimbabwe
+J Nyirankundineza,249,293,18.0,5.098976109215017,Rwanda
+J Nyumbu,77,36,0.0,12.833333333333332,Zimbabwe
+J Overton,219,159,14.0,8.264150943396226,England
+J Perman,128,118,6.0,6.508474576271187,Spain
+J Post,12,7,0.0,10.285714285714285,Netherlands
+J Proctor,86,86,5.0,6.0,Bermuda
+J Ramanandi,138,127,13.0,6.51968503937008,Oman
+J Rasu,250,220,14.0,6.818181818181818,Vanuatu
+J Rokoro,50,42,1.0,7.142857142857142,Fiji
+J Sanele,154,191,10.0,4.837696335078534,Samoa
+J Sebanja,81,58,2.0,8.379310344827587,Uganda
+J Shaju,222,188,15.0,7.085106382978724,Malta
+J Singye,265,222,8.0,7.162162162162162,Bhutan
+J Souckova,19,19,0.0,6.0,Czech Republic
+J Stanigze,64,49,5.0,7.836734693877551,Sweden
+J Sumerauer,314,275,17.0,6.850909090909092,Jersey
+J Theron,286,241,22.0,7.1203319502074685,United States of America
+J Thinley,16,6,0.0,16.0,Bhutan
+J Thomas,22,27,1.0,4.888888888888888,St Helena
+J Tuffin,249,216,9.0,6.916666666666666,Philippines
+J Tugsjargal,9,8,0.0,6.75,Mongolia
+J Wilson,95,57,2.0,10.0,Gibraltar
+J Winster,49,67,3.0,4.388059701492537,South Africa
+J Yon,3,25,4.0,0.72,St Helena
+J de Figueiredo,26,25,1.0,6.24,Portugal
+J van Heerden,41,27,2.0,9.11111111111111,Germany
+JA Burrows,214,182,15.0,7.054945054945055,Isle of Man
+JA Clarkson,9,6,1.0,9.0,New Zealand
+JA Diergaardt,544,649,41.0,5.029275808936825,Namibia
+JA Duffy,428,337,26.0,7.620178041543028,New Zealand
+JA Fitzgerald,297,197,6.0,9.045685279187817,Gibraltar
+JA Miranda,52,27,0.0,11.555555555555555,Other
+JA Morkel,430,359,18.0,7.186629526462395,South Africa
+JA Richardson,291,226,14.0,7.725663716814159,Australia
+JA Stiglitz,142,102,1.0,8.352941176470587,Austria
+JA Turner,22,12,0.0,11.0,England
+JAM Henri,217,157,7.0,8.292993630573248,Portugal
+JAN Ngono,66,69,2.0,5.739130434782609,Cameroon
+JAR Blain,40,48,2.0,5.0,Scotland
+JB Abega,169,141,12.0,7.1914893617021285,Cameroon
+JB Reva,106,85,5.0,7.482352941176471,Papua New Guinea
+JC Archer,730,557,32.0,7.863554757630162,England
+JC Balt,21,18,0.0,7.0,Namibia
+JC Cullen,41,32,2.0,7.6875,Argentina
+JC Darji,6,13,0.0,2.769230769230769,Tanzania
+JC Tredwell,255,187,6.0,8.181818181818182,England
+JD Baker,14,19,1.0,4.421052631578947,Samoa
+JD Nel,66,69,5.0,5.739130434782609,Scotland
+JD Newton,39,43,2.0,5.441860465116279,Croatia
+JD Ryder,68,60,2.0,6.8,New Zealand
+JD Unadkat,165,124,9.0,7.983870967741935,India
+JD Wildermuth,16,12,1.0,8.0,Australia
+JDF Vandersay,250,188,6.0,7.978723404255319,Sri Lanka
+JDP Oram,340,253,10.0,8.063241106719367,New Zealand
+JDS Neesham,709,474,28.0,8.974683544303797,New Zealand
+JE Pitcher,24,26,0.0,5.538461538461538,Bermuda
+JE Ronalds,152,169,10.0,5.396449704142012,Germany
+JE Root,95,56,3.0,10.178571428571429,England
+JE Scott,57,56,2.0,6.107142857142857,Bahamas
+JE Taylor,580,424,26.0,8.20754716981132,West Indies
+JE Titmuss,36,44,2.0,4.909090909090909,Hong Kong
+JEA Doctora,32,22,4.0,8.727272727272727,Philippines
+JEC Franklin,215,175,11.0,7.371428571428572,New Zealand
+JF Jimenez,26,35,0.0,4.457142857142857,Other
+JF Mooney,69,80,8.0,5.175000000000001,Ireland
+JG Bethell,54,36,1.0,9.0,England
+JG Kimaro,113,107,5.0,6.336448598130842,Tanzania
+JH Davey,408,291,12.0,8.412371134020617,Scotland
+JH Kallis,220,182,10.0,7.252747252747252,South Africa
+JH Kiani,27,26,1.0,6.230769230769232,Philippines
+JH Stander,63,34,2.0,11.117647058823527,Scotland
+JI de Villiers,89,55,1.0,9.709090909090907,Namibia
+JJ Bumrah,984,853,47.0,6.92145369284877,India
+JJ Davidson,31,27,2.0,6.888888888888889,Scotland
+JJ Huo,385,266,22.0,8.68421052631579,Mozambique
+JJ Nyambo,155,146,7.0,6.36986301369863,Tanzania
+JJ Smit,595,559,33.0,6.386404293381037,Namibia
+JJ Tucker,34,24,0.0,8.5,Bermuda
+JJ Wright,14,10,0.0,8.399999999999999,Swaziland
+JJ van der Wath,126,100,7.0,7.56,South Africa
+JK Kamande,66,49,5.0,8.081632653061224,Kenya
+JK Mukhiya,98,63,4.0,9.333333333333334,Nepal
+JK Vifah,92,95,6.0,5.810526315789474,Ghana
+JKC Ahir,25,12,0.0,12.5,Panama
+JKC Claxton,127,108,5.0,7.055555555555555,West Indies
+JKD Andreano,209,216,8.0,5.805555555555555,Philippines
+JL Aras,61,57,5.0,6.421052631578947,United States of America
+JL Denly,66,43,3.0,9.209302325581396,England
+JL Gunn,507,447,27.0,6.805369127516778,England
+JL Hunter,95,99,4.0,5.757575757575758,Australia
+JL Jonassen,792,884,51.0,5.375565610859729,Australia
+JL Martel,41,44,6.0,5.590909090909091,Guernsey
+JL Ontong,57,25,2.0,13.68,South Africa
+JL Pattinson,87,58,1.0,9.0,Australia
+JL Tutty,179,185,9.0,5.805405405405406,Cook Islands
+JL de Mey,32,18,0.0,10.666666666666666,Netherlands
+JM Anderson,290,232,12.0,7.5,England
+JM Apio,20,28,5.0,4.285714285714286,Uganda
+JM Dibble,21,13,0.0,9.692307692307692,England
+JM Iradukunda,143,103,7.0,8.330097087378642,Rwanda
+JM Joao,12,6,0.0,12.0,Mozambique
+JM Kerr,524,425,11.0,7.397647058823529,New Zealand
+JM Muirhead,41,38,2.0,6.473684210526316,Australia
+JM Nthenya,27,19,0.0,8.526315789473685,Kenya
+JM Polarouthu,30,15,0.0,12.0,Hungary
+JM Vujinovich,93,68,2.0,8.205882352941178,Croatia
+JM Watkin,53,43,2.0,7.395348837209302,New Zealand
+JM Willathgamuwa,56,45,0.0,7.466666666666667,United States of America
+JMJ Lynn,22,26,3.0,5.076923076923077,Indonesia
+JN Frylinck,572,477,29.0,7.19496855345912,Namibia
+JN Gillespie,49,25,1.0,11.76,Australia
+JN Loftie-Eaton,273,225,12.0,7.28,Namibia
+JN Snape,12,6,0.0,12.0,England
+JN du Plooy,14,13,0.0,6.461538461538462,Hungary
+JNK Shannon,11,6,0.0,11.0,Ireland
+JNT Seales,79,37,0.0,12.81081081081081,West Indies
+JO Adedeji,115,108,4.0,6.388888888888889,Nigeria
+JO Holder,1538,1125,65.0,8.202666666666667,West Indies
+JO Ngoche,71,73,1.0,5.835616438356165,Kenya
+JOA Gordon,181,127,8.0,8.551181102362204,Canada
+JP Behrendorff,264,210,15.0,7.542857142857143,Australia
+JP Duminy,219,154,4.0,8.532467532467532,South Africa
+JP Faulkner,377,284,23.0,7.964788732394366,Australia
+JQK Moala,65,69,4.0,5.652173913043479,Fiji
+JR Barry,212,138,8.0,9.217391304347826,Bahamas
+JR Hazlewood,1052,868,55.0,7.271889400921658,Australia
+JR Hopes,74,72,4.0,6.166666666666666,Australia
+JRD Ngana,9,16,0.0,3.375,Indonesia
+JRMVB Sanjaya,205,134,7.0,9.17910447761194,Sri Lanka
+JS Henriksen,18,6,0.0,18.0,Denmark
+JS Iggo,60,42,1.0,8.571428571428571,Singapore
+JS Kundi,76,54,1.0,8.444444444444445,Kenya
+JS Malhotra,13,18,0.0,4.333333333333333,United States of America
+JS Ndanu,96,94,3.0,6.127659574468085,Kenya
+JS Patel,143,99,10.0,8.666666666666666,New Zealand
+JS Pooranakaran,281,287,7.0,5.874564459930314,Singapore
+JT Ball,49,27,1.0,10.88888888888889,England
+JT Brassell,282,182,9.0,9.296703296703296,Namibia
+JT Darrell,23,43,3.0,3.209302325581395,Bermuda
+JT Manase,24,19,0.0,7.578947368421052,Samoa
+JT Pooranakaran,97,53,1.0,10.9811320754717,Singapore
+JT Smuts,65,60,0.0,6.5,South Africa
+JV Chand,85,79,3.0,6.455696202531645,Zambia
+JW Chilia,83,79,2.0,6.30379746835443,Vanuatu
+JW Dernbach,775,528,31.0,8.806818181818182,Italy
+JW Hastings,206,149,7.0,8.29530201342282,Australia
+JW Wilson,48,24,0.0,12.0,New Zealand
+JWM Dalrymple,30,18,2.0,10.0,England
+JWN Moses,47,49,0.0,5.755102040816326,Botswana
+JWW Gardner,55,30,0.0,11.0,Papua New Guinea
+Jagrat Dubey,98,123,9.0,4.780487804878049,Luxembourg
+Jahanara Alam,723,704,41.0,6.161931818181818,Bangladesh
+Jahandad Khan,11,6,0.0,11.0,Pakistan
+Jai Sinh,61,44,5.0,8.318181818181818,Switzerland
+Jaikumar Thakur,67,49,0.0,8.204081632653061,Croatia
+Jaison Jerome,124,69,1.0,10.782608695652174,Malta
+Jakob Gul,197,151,11.0,7.827814569536423,Bulgaria
+Jamshid Nasiri,62,74,5.0,5.027027027027027,France
+Janak Prakash,622,411,27.0,9.08029197080292,Singapore
+Jannatul Ferdus,69,48,2.0,8.625,Bangladesh
+Jasdeep Singh,601,438,26.0,8.232876712328768,United States of America
+Jaskaran Singh,46,65,7.0,4.246153846153846,Canada
+Jaspal Singh,71,64,2.0,6.65625,Malta
+Jaspreet Singh,200,183,12.0,6.557377049180328,Italy
+Jaswinder Singh,97,83,6.0,7.0120481927710845,Malta
+Javeria Khan,36,37,2.0,5.837837837837839,Pakistan
+Javeria Rauf,23,18,1.0,7.666666666666666,Pakistan
+Javid Patel,119,102,5.0,7.0,Zambia
+Jaweed Sadran,142,93,6.0,9.161290322580644,Austria
+Jay Odedra,63,43,3.0,8.790697674418604,Oman
+Jayasooriya,136,136,5.0,6.0,Sweden
+Jeon Myeong,18,13,1.0,8.307692307692307,South Korea
+Jiaping Li,15,30,0.0,3.0,China
+Jitesh Patel,60,47,1.0,7.659574468085107,Malta
+Jiyeon Park,59,77,3.0,4.597402597402597,South Korea
+Joanne Hicks,12,25,0.0,2.88,Isle of Man
+Jobayer Hossen,94,78,9.0,7.23076923076923,Seychelles
+Jonte Smith,24,37,4.0,3.891891891891892,Bermuda
+Joshua Asia,115,154,11.0,4.48051948051948,Nigeria
+Joyleen Kaur,34,32,1.0,6.375,Hong Kong
+Jubair Hossain,20,12,2.0,10.0,Bangladesh
+Jun Hyunwoo,25,24,0.0,6.25,South Korea
+Junaid Aziz,80,59,9.0,8.135593220338983,Bahrain
+Junaid Khan,225,248,10.0,5.443548387096774,Portugal
+Junaid Sheikh,46,45,0.0,6.133333333333333,Norway
+Junaid Siddique,1013,835,50.0,7.279041916167666,Bangladesh
+Junaid Siddiqui,179,186,8.0,5.774193548387097,Canada
+K Amuge,163,223,17.0,4.385650224215246,Uganda
+K Anjali Sarvani,143,93,3.0,9.225806451612904,India
+K Arua,142,225,22.0,3.786666666666666,Papua New Guinea
+K Babu,81,51,3.0,9.529411764705882,South Korea
+K Bhurtel,234,205,12.0,6.848780487804877,Nepal
+K Birkenstock,24,18,1.0,8.0,Namibia
+K Boniface,21,12,0.0,10.5,Nigeria
+K Burrows,22,12,3.0,11.0,Bahamas
+K Canavarci,122,116,3.0,6.310344827586206,Turkey
+K Cawte,116,86,5.0,8.093023255813954,Isle of Man
+K Chigora,153,123,9.0,7.463414634146341,Zimbabwe
+K Christie,121,85,3.0,8.541176470588235,Hong Kong
+K Dangol,59,73,7.0,4.849315068493151,Nepal
+K Dorji,45,25,2.0,10.8,Bhutan
+K Fletcher,223,220,15.0,6.081818181818182,Switzerland
+K Fraser,382,460,28.0,4.982608695652174,Scotland
+K Fubler,80,109,6.0,4.403669724770642,Bermuda
+K Gilham,87,76,5.0,6.868421052631579,Czech Republic
+K Gore,85,93,9.0,5.483870967741935,United States of America
+K Goud,67,62,2.0,6.483870967741935,India
+K Govind,25,21,1.0,7.142857142857142,Seychelles
+K Hinds,246,260,17.0,5.676923076923076,Bahamas
+K Inakale,108,106,2.0,6.113207547169811,Botswana
+K Irakoze,595,540,30.0,6.611111111111111,Rwanda
+K Jaikaran,72,64,7.0,6.75,Suriname
+K Joshi,346,414,17.0,5.0144927536231885,Nepal
+K Juma,253,216,13.0,7.027777777777778,Tanzania
+K Kanwar,14,8,0.0,10.5,Sweden
+K Kapadia,43,64,0.0,4.03125,Canada
+K Kato-Stafford,25,32,1.0,4.6875,Japan
+K Kavindi,110,88,2.0,7.5,Sri Lanka
+K Kekez,29,13,0.0,13.384615384615383,Croatia
+K Kisova,29,23,0.0,7.565217391304348,Czech Republic
+K Klein,289,198,19.0,8.757575757575758,Netherlands
+K Kubota,16,12,2.0,8.0,Japan
+K Kunwar,415,610,34.0,4.081967213114754,Nepal
+K Lake,11,23,2.0,2.8695652173913047,Japan
+K Macheka,20,19,1.0,6.315789473684211,Zimbabwe
+K Mahekdeep,60,61,4.0,5.901639344262295,Hong Kong
+K Marasini,15,12,1.0,7.5,Nepal
+K Maseko,19,12,0.0,9.5,Eswatini
+K McGill,236,229,19.0,6.183406113537117,Scotland
+K Mendon,35,40,2.0,5.25,Czech Republic
+K Mirpuri,399,320,15.0,7.481249999999999,Gibraltar
+K Modise,41,30,4.0,8.2,Botswana
+K Moingoto,39,59,2.0,3.9661016949152543,France
+K Motlanka,79,68,7.0,6.970588235294118,Botswana
+K Namchaikul,86,86,3.0,6.0,Thailand
+K Nanno,6,10,1.0,3.6,Japan
+K Nassoro,495,400,21.0,7.425000000000001,Tanzania
+K Ndlovu,468,419,21.0,6.701670644391409,Zimbabwe
+K Nestor,211,160,11.0,7.9125,Gibraltar
+K Oala,29,32,2.0,5.4375,Papua New Guinea
+K Ogola,0,2,1.0,0.0,Kenya
+K Ota,130,160,12.0,4.875,Japan
+K Paskova,20,22,1.0,5.454545454545454,Bulgaria
+K Peddrick,155,152,9.0,6.118421052631579,Italy
+K Penjor,19,13,0.0,8.769230769230768,Bhutan
+K Pierre,200,115,6.0,10.434782608695652,West Indies
+K Piet,391,316,17.0,7.424050632911392,Botswana
+K Rabada,1156,825,41.0,8.407272727272726,South Africa
+K Ramharack,594,515,27.0,6.920388349514564,West Indies
+K Reyneke,45,55,1.0,4.909090909090909,South Africa
+K Samten,58,75,1.0,4.64,Bhutan
+K Santokie,148,109,10.0,8.146788990825689,West Indies
+K Sathish,48,31,2.0,9.29032258064516,Singapore
+K Schultz,39,31,0.0,7.548387096774194,West Indies
+K Senamontree,122,122,11.0,6.0,Thailand
+K Sequiera,19,28,2.0,4.071428571428571,Portugal
+K Sinclair,151,109,4.0,8.311926605504587,West Indies
+K Srandeva,166,155,5.0,6.425806451612903,Bulgaria
+K Tereza,83,71,1.0,7.014084507042254,Greece
+K Tesarikova,19,10,0.0,11.4,Czech Republic
+K Thuchila,92,111,5.0,4.972972972972973,Malawi
+K Vislapuu,239,159,7.0,9.018867924528305,Estonia
+K Waiswa,314,261,15.0,7.218390804597701,Uganda
+K Weeraratne,31,24,1.0,7.75,Sri Lanka
+K Winda Prastini,48,52,3.0,5.538461538461538,Indonesia
+KA Bazil,155,102,3.0,9.117647058823527,Cayman Islands
+KA Green,561,806,38.0,4.176178660049628,Namibia
+KA Jamieson,333,237,8.0,8.430379746835442,New Zealand
+KA Maharaj,632,499,24.0,7.599198396793587,South Africa
+KA Pollard,721,537,26.0,8.05586592178771,West Indies
+KAB Hynam-Nyberg,67,42,1.0,9.571428571428571,Samoa
+KAC Wong,46,27,1.0,10.22222222222222,Philippines
+KADA Kanchana,243,195,4.0,7.476923076923077,Sri Lanka
+KAJ Roach,174,161,8.0,6.484472049689441,West Indies
+KB Ahir,114,83,5.0,8.240963855421686,Panama
+KC D'Souza,54,53,4.0,6.113207547169811,Bulgaria
+KC Ramamoorthy,29,24,1.0,7.25,Indonesia
+KC Thompson,64,104,11.0,3.692307692307693,United Arab Emirates
+KD Jayawant,15,9,0.0,10.0,Oman
+KD Mehta,43,43,4.0,6.0,Czech Republic
+KD Mills,675,473,21.0,8.562367864693446,New Zealand
+KD Shah,286,247,10.0,6.947368421052632,Hong Kong
+KDA Lukies,329,345,20.0,5.721739130434782,Philippines
+KDU Prabodhani,739,718,38.0,6.1754874651810585,Sri Lanka
+KE Broadmore,63,57,1.0,6.631578947368421,New Zealand
+KE Bryce,379,494,34.0,4.603238866396761,Scotland
+KE Ebrahim,29,24,2.0,7.25,New Zealand
+KH Brunt,792,832,52.0,5.711538461538462,England
+KH Pandya,373,272,11.0,8.227941176470589,India
+KH Sciver-Brunt,72,58,3.0,7.448275862068966,England
+KIC Asalanka,122,85,2.0,8.611764705882353,Sri Lanka
+KJ Abbott,300,241,16.0,7.468879668049793,South Africa
+KJ Coetzer,16,18,2.0,5.333333333333333,Scotland
+KJ Ferrary,59,66,7.0,5.363636363636363,Gibraltar
+KJ Garth,490,465,21.0,6.32258064516129,Ireland
+KJ O'Brien,424,356,25.0,7.146067415730338,Ireland
+KJ Patel,79,91,4.0,5.208791208791209,Seychelles
+KJ Young,76,49,3.0,9.306122448979592,Belize
+KK Ahmed,412,279,13.0,8.86021505376344,India
+KK Donovan,170,208,10.0,4.903846153846153,Philippines
+KK Lin Thu,129,147,9.0,5.26530612244898,Myanmar
+KKN Egodage,327,331,20.0,5.927492447129909,United Arab Emirates
+KL Cross,47,43,2.0,6.55813953488372,England
+KL George,101,79,3.0,7.670886075949367,England
+KL Gordon,54,74,10.0,4.378378378378378,England
+KM Beams,154,202,13.0,4.574257425742575,Australia
+KM Chingaipe,204,219,15.0,5.58904109589041,Malawi
+KM Dabengwa,44,19,0.0,13.894736842105264,Zimbabwe
+KM Jarvis,299,217,18.0,8.267281105990783,Zimbabwe
+KMA Aziz,95,56,1.0,10.178571428571429,Ivory Coast
+KMA Paul,417,280,12.0,8.935714285714287,West Indies
+KMDN Kulasekara,792,661,43.0,7.189107413010589,Sri Lanka
+KN Gabhane,29,18,2.0,9.666666666666668,Hungary
+KN Mirchandani,46,52,1.0,5.307692307692308,Canada
+KOK Williams,476,298,18.0,9.583892617449663,West Indies
+KP Meiyappan,185,141,9.0,7.872340425531915,United Arab Emirates
+KP Pietersen,46,24,1.0,11.5,England
+KR Ebanks,103,69,3.0,8.956521739130434,Cayman Islands
+KR Frost,28,47,4.0,3.574468085106383,Spain
+KR Jha,33,27,2.0,7.333333333333334,Austria
+KR Mayers,159,109,2.0,8.75229357798165,West Indies
+KRP Silva,19,12,0.0,9.5,United States of America
+KS Ahuja,12,6,0.0,12.0,India
+KS Airee,152,142,5.0,6.422535211267605,Nepal
+KS Bagabena,353,328,15.0,6.4573170731707314,Ghana
+KS Leverock,271,217,10.0,7.493087557603687,Bermuda
+KS Lokuarachchi,31,25,2.0,7.439999999999999,Sri Lanka
+KS Williamson,127,72,3.0,10.583333333333332,New Zealand
+KT Maphaka,206,154,7.0,8.025974025974026,South Africa
+KV Morea,348,283,23.0,7.37809187279152,Papua New Guinea
+KV Sharma,29,24,1.0,7.25,India
+KV Vakuruivalu,64,61,1.0,6.295081967213115,Fiji
+KW Richardson,748,556,38.0,8.071942446043167,Australia
+KY Chan,603,805,66.0,4.494409937888199,Hong Kong
+KY Wilfried,100,52,2.0,11.538461538461538,Ivory Coast
+Kabir Berlia,131,84,6.0,9.357142857142858,Singapore
+Kainat Imtiaz,40,48,5.0,5.0,Pakistan
+Kaleem Sana,337,331,27.0,6.108761329305136,Canada
+Kaleemullah,584,498,26.0,7.036144578313253,Oman
+Kamal Raiz,28,43,3.0,3.906976744186047,Cyprus
+Kamal Soukhiya,198,156,6.0,7.615384615384615,Luxembourg
+Kamran Ahmadzai,47,25,2.0,11.28,France
+Kamran Khan (2),42,11,0.0,22.90909090909091,Qatar
+Kamran Wahid,126,87,8.0,8.689655172413794,Hungary
+Kanchan Rana,60,81,4.0,4.444444444444445,Sweden
+Karan KC,1283,976,70.0,7.887295081967213,Nepal
+Karanbir Singh,286,219,20.0,7.835616438356165,Austria
+Karma Dorji,122,87,3.0,8.413793103448276,Bhutan
+Karri Gullem Keen,187,208,11.0,5.394230769230769,Philippines
+Karthik Pillai,27,19,0.0,8.526315789473685,Bulgaria
+Karuna Bhandari,68,133,8.0,3.0676691729323307,Nepal
+Karweng NG,81,56,0.0,8.678571428571429,Philippines
+Kashif Daud,68,62,3.0,6.580645161290322,United Arab Emirates
+Kashif Khan,32,24,2.0,8.0,Singapore
+Kate Awuah,28,19,0.0,8.842105263157894,Other
+Kaung Htet Kyaw,78,65,2.0,7.199999999999999,Myanmar
+Kawsar Khan,106,126,9.0,5.047619047619048,Brazil
+Kerry Fraser,95,106,6.0,5.377358490566038,Luxembourg
+Khadija Imtiaz,103,113,6.0,5.469026548672566,Qatar
+Khadija Khalil,197,176,10.0,6.715909090909092,Kuwait
+Khadija Tul Kubra,396,431,24.0,5.512761020881671,Bangladesh
+Khaibar Deldar,111,68,4.0,9.794117647058822,Hungary
+Khalander Mustafa,34,25,3.0,8.16,Saudi Arabia
+Khalid Ahmadi,225,208,19.0,6.490384615384615,Belgium
+Khalid Zahid,377,332,15.0,6.813253012048192,Sweden
+Khan Arbaaz,10,9,0.0,6.666666666666667,Lesotho
+Khawar Ali,384,377,29.0,6.111405835543767,Oman
+Khin Aye,132,83,3.0,9.542168674698797,Myanmar
+Khizar Hayat,522,442,27.0,7.085972850678733,Malaysia
+Khusboo Kandpal,96,105,5.0,5.485714285714286,Luxembourg
+Khushdil Shah,42,20,0.0,12.6,Pakistan
+Khushi Sharma,395,388,21.0,6.108247422680412,United Arab Emirates
+Kim Daeyeon,164,114,9.0,8.631578947368421,South Korea
+Kim Rang,37,25,1.0,8.879999999999999,South Korea
+Kinaanath Ismail,60,25,0.0,14.4,Maldives
+Kiyo Fujikawa,52,62,2.0,5.032258064516129,Japan
+Komalpreet Grewal,38,28,1.0,8.142857142857142,Other
+Komang Putra,21,14,0.0,9.0,Indonesia
+Kuldeep Gurjar,133,90,9.0,8.866666666666667,South Korea
+Kuldeep Lal,52,30,2.0,10.4,Spain
+Kuldeep Yadav,474,494,43.0,5.757085020242915,India
+Kushal Malla,220,231,14.0,5.7142857142857135,Nepal
+Kyte Gullem Keen,39,45,4.0,5.2,Philippines
+L Anyait,90,117,6.0,4.615384615384616,Uganda
+L Balaji,55,46,4.0,7.173913043478261,India
+L Barnett,142,237,10.0,3.59493670886076,Isle of Man
+L Berthe,14,8,0.0,10.5,Mali
+L Bigula,23,21,1.0,6.571428571428572,Malawi
+L Bonner,108,147,14.0,4.408163265306123,Belize
+L Bruce,455,361,16.0,7.562326869806094,Gibraltar
+L Bull,222,305,19.0,4.367213114754099,Sierra Leone
+L Cardoso,227,269,19.0,5.063197026022305,Brazil
+L Cheatle,28,37,3.0,4.54054054054054,Australia
+L Chipanga,44,65,1.0,4.061538461538461,Mozambique
+L Dalbina,117,147,4.0,4.775510204081632,Estonia
+L Delany,847,847,50.0,6.0,Ireland
+L Denny,311,258,18.0,7.232558139534883,Cook Islands
+L Erdenebulgan,405,268,18.0,9.067164179104475,Mongolia
+L Filer,168,137,5.0,7.357664233576642,England
+L Gregory,122,83,2.0,8.819277108433734,England
+L Greig,19,25,2.0,4.5600000000000005,Jersey
+L Holmgaard,21,35,2.0,3.6,Denmark
+L Hornby-Wheeler,34,27,0.0,7.555555555555555,Isle of Man
+L Idambo,276,366,23.0,4.524590163934426,Kenya
+L Jie,86,146,9.0,3.5342465753424657,China
+L Jones,37,63,4.0,3.523809523809524,South Africa
+L Karlsson,174,191,16.0,5.465968586387435,Sweden
+L Keny,15,33,4.0,2.727272727272727,United Arab Emirates
+L Khotso,64,54,1.0,7.111111111111111,Lesotho
+L Klokgieters,36,31,0.0,6.967741935483872,Netherlands
+L Krvaric,15,30,0.0,3.0,Croatia
+L Lamin,87,59,4.0,8.847457627118644,Sierra Leone
+L Lee,13,12,0.0,6.5,South Africa
+L Little,136,88,0.0,9.272727272727272,Ireland
+L Mabhero,284,288,12.0,5.916666666666667,Zimbabwe
+L Malino,250,296,15.0,5.067567567567568,Malawi
+L Mamba,291,304,6.0,5.743421052631579,Eswatini
+L Maritz,252,249,11.0,6.072289156626505,Ireland
+L Martin,22,29,4.0,4.551724137931034,Finland
+L McCarthy,81,26,0.0,18.692307692307693,Ireland
+L Moises,182,221,13.0,4.941176470588236,Brazil
+L Monanthane,37,34,0.0,6.529411764705882,Lesotho
+L Mophakedi,26,23,0.0,6.782608695652174,Botswana
+L Ngidi,839,574,38.0,8.770034843205575,South Africa
+L Nou,39,42,2.0,5.571428571428571,Papua New Guinea
+L Nyarko,19,36,3.0,3.166666666666667,Ghana
+L Ostergaard,93,132,10.0,4.227272727272728,Denmark
+L Paul,272,290,17.0,5.627586206896551,Ireland
+L Phiri,133,139,10.0,5.741007194244604,Zimbabwe
+L Piety,101,126,13.0,4.80952380952381,Nigeria
+L Qiao,114,180,11.0,3.8,Indonesia
+L Ramjit,45,61,3.0,4.426229508196721,United States of America
+L Samani,7,8,0.0,5.25,Fiji
+L Sanogo,90,80,3.0,6.75,Mali
+L Shafeeg,277,213,12.0,7.80281690140845,Maldives
+L Shetty,65,55,2.0,7.090909090909092,United States of America
+L Siaka,58,49,5.0,7.1020408163265305,Papua New Guinea
+L Sipamla,263,154,6.0,10.246753246753247,South Africa
+L Sormus,150,170,6.0,5.294117647058823,Estonia
+L Tastuki,38,51,2.0,4.470588235294118,Vanuatu
+L Taylor,159,182,8.0,5.241758241758242,Argentina
+L Thobela,7,11,0.0,3.8181818181818175,Eswatini
+L Tshuma,387,413,20.0,5.622276029055691,Zimbabwe
+L Udeh,200,308,22.0,3.896103896103896,Nigeria
+L Visser,49,33,2.0,8.90909090909091,Namibia
+L Vuadreu,25,30,4.0,5.0,Fiji
+L Wahmowe,44,57,6.0,4.631578947368421,France
+L Ward,4,6,1.0,4.0,Isle of Man
+L Wood,203,160,12.0,7.612500000000001,England
+LA Burns,397,445,36.0,5.352808988764045,Spain
+LA Dawson,241,178,9.0,8.123595505617978,England
+LA Marsh,352,374,15.0,5.647058823529411,England
+LA McBride,138,98,3.0,8.448979591836736,Ireland
+LA Musiani,38,27,1.0,8.444444444444445,Argentina
+LA Simango,144,126,7.0,6.857142857142857,Mozambique
+LAR Bommareddy,103,89,1.0,6.943820224719101,Singapore
+LB Williams,325,185,14.0,10.54054054054054,South Africa
+LC Le Tissier,86,98,9.0,5.26530612244898,Guernsey
+LC Sthalekar,71,73,5.0,5.835616438356165,Australia
+LCN Smith,358,313,12.0,6.862619808306709,England
+LD Chukkapalli-Llinares,27,32,0.0,5.0625,Spain
+LE Kaushalya,114,112,5.0,6.107142857142857,Sri Lanka
+LE Plunkett,321,236,16.0,8.161016949152541,England
+LF Muller,43,31,3.0,8.322580645161292,Brazil
+LG Moras,54,51,0.0,6.352941176470589,Brazil
+LH Ferguson,448,357,29.0,7.529411764705882,New Zealand
+LH Rodrigues,231,229,12.0,6.052401746724891,Brazil
+LI Haoye,81,127,10.0,3.826771653543307,China
+LI Salomone,128,104,5.0,7.384615384615385,Mozambique
+LJ Leokaoke,45,48,2.0,5.625,Lesotho
+LJ Myott,304,280,20.0,6.514285714285714,Philippines
+LJ Payas,9,14,1.0,3.8571428571428577,Gibraltar
+LJ Woodcock,30,24,1.0,7.5,New Zealand
+LJ Wright,285,203,12.0,8.423645320197044,England
+LK Bell,492,417,26.0,7.079136690647482,England
+LK Bennett,98,118,7.0,4.983050847457627,Netherlands
+LK O'Reilly,428,417,23.0,6.158273381294965,Ireland
+LK Sharma,29,18,1.0,9.666666666666668,Mexico
+LKW Ezechiel,101,52,1.0,11.653846153846152,Ivory Coast
+LL Dimba,187,244,11.0,4.5983606557377055,Malawi
+LL Htun,228,317,15.0,4.315457413249211,Myanmar
+LL Tsotsobe,179,192,11.0,5.59375,South Africa
+LM Gabriel,78,67,1.0,6.985074626865671,Lesotho
+LM Jongwe,522,379,27.0,8.263852242744065,Zimbabwe
+LM Kasperek,603,540,41.0,6.7,New Zealand
+LM Sims,7,15,3.0,2.8,Italy
+LMM Tahuhu,854,759,39.0,6.75098814229249,New Zealand
+LMP Simmons,71,43,6.0,9.906976744186046,West Indies
+LN McCarthy,176,186,8.0,5.67741935483871,Ireland
+LN Oluoch,835,734,45.0,6.8256130790190745,Kenya
+LN Onyango,71,30,2.0,14.2,Kenya
+LN Rajbanshi,490,438,20.0,6.712328767123289,Nepal
+LO Telea,9,24,4.0,2.25,Samoa
+LP Kasturiarachchige,19,12,0.0,9.5,Austria
+LPC Silva,4,6,1.0,4.0,Sri Lanka
+LR Doolan,71,76,5.0,5.605263157894737,New Zealand
+LS Baker,58,50,2.0,6.959999999999999,West Indies
+LS Barkania,174,180,15.0,5.8,Tanzania
+LS Livingstone,595,438,27.0,8.150684931506849,England
+LS Mulivai,14,20,0.0,4.199999999999999,Samoa
+LS Simelane,226,172,7.0,7.883720930232558,Eswatini
+LT Bichard,381,406,27.0,5.630541871921182,Guernsey
+LV Boas,156,179,6.0,5.229050279329609,Brazil
+LV Mandhate,23,22,1.0,6.2727272727272725,Mozambique
+LV van Beek,478,379,28.0,7.567282321899736,Netherlands
+LY Loch Srey,90,101,4.0,5.346534653465347,Cambodia
+Laiba Nasrullah,119,81,1.0,8.814814814814815,Saudi Arabia
+Lakshit Gupta,111,68,3.0,9.794117647058822,Cambodia
+Lata Mondal,113,98,3.0,6.918367346938776,Bangladesh
+Latsha Haleemath,156,93,2.0,10.064516129032258,Maldives
+Lee Kangmin,41,25,0.0,9.84,South Korea
+Lemar Momand,31,27,1.0,6.888888888888889,Sweden
+Lihara Ayeysekara,96,64,2.0,9.0,Qatar
+Likitha Yadav,41,48,1.0,5.125,Malta
+Lily Lamb,25,23,2.0,6.521739130434782,Cook Islands
+Lopamudra,123,127,3.0,5.811023622047244,Norway
+Lovedeep Singh,45,47,4.0,5.74468085106383,Cyprus
+Luca Petre,69,54,3.0,7.666666666666666,Romania
+Lucas Rossi,142,181,14.0,4.707182320441989,Argentina
+Lucky Ali,133,153,8.0,5.215686274509804,Denmark
+Luis Hermida,136,144,10.0,5.666666666666666,Mexico
+Luka Woods,65,73,3.0,5.342465753424658,Serbia
+Luo Shilin,146,117,2.0,7.487179487179487,China
+Luqman Butt,448,364,12.0,7.384615384615385,Cambodia
+Ly Saomakara,54,53,2.0,6.113207547169811,Cambodia
+M Abdulla,27,19,0.0,8.526315789473685,Malawi
+M Aboagye,154,133,5.0,6.947368421052632,Ghana
+M Ahono,13,11,1.0,7.090909090909092,Kenya
+M Akayezu,1044,865,59.0,7.241618497109827,Rwanda
+M Altankhuyag,55,17,1.0,19.411764705882355,Mongolia
+M Ansari,153,102,4.0,9.0,Oman
+M Ariokot,83,96,6.0,5.1875,Uganda
+M Artur,38,61,7.0,3.737704918032787,Brazil
+M Badenhorst,104,71,5.0,8.788732394366198,Botswana
+M Batnasan,42,32,3.0,7.875,Mongolia
+M Bibi,465,453,30.0,6.158940397350992,Hong Kong
+M Biu,163,157,3.0,6.229299363057325,Fiji
+M Brasier,22,14,0.0,9.428571428571429,Finland
+M Breban,24,25,3.0,5.76,Guernsey
+M Chadha,85,61,4.0,8.360655737704917,Cambodia
+M Charlie,28,31,3.0,5.419354838709677,Papua New Guinea
+M Chaudhary,37,51,4.0,4.352941176470588,United States of America
+M Chereches,32,31,1.0,6.193548387096774,Romania
+M Choamba,119,117,7.0,6.102564102564102,Malawi
+M Cope,139,91,6.0,9.164835164835164,Luxembourg
+M Corazon,7,18,1.0,2.333333333333333,Indonesia
+M Dale-Bradley,251,258,20.0,5.837209302325581,Guernsey
+M Daniels,282,288,12.0,5.875,South Africa
+M Desmond,129,168,10.0,4.607142857142858,Nigeria
+M Dixit,265,198,8.0,8.030303030303031,Luxembourg
+M Dlamini,385,408,15.0,5.661764705882353,Eswatini
+M Enkhzul,154,142,8.0,6.507042253521128,Mongolia
+M Faheem,54,39,4.0,8.307692307692307,Thailand
+M Faraz Akram,117,73,2.0,9.616438356164384,Zimbabwe
+M Fontaine,30,24,0.0,7.5,Hungary
+M Fru,90,52,3.0,10.384615384615383,Cameroon
+M Gaur,187,195,6.0,5.753846153846154,United Arab Emirates
+M Gherasim,9,8,0.0,6.75,Romania
+M Gogev,266,159,12.0,10.037735849056604,Bulgaria
+M Gorases,32,19,1.0,10.105263157894736,Namibia
+M Gouws,125,91,5.0,8.241758241758241,Gibraltar
+M Heingo,32,19,2.0,10.105263157894736,Namibia
+M Hill,445,525,28.0,5.085714285714285,Hong Kong
+M Holmes,38,44,1.0,5.181818181818182,Switzerland
+M Hundal,118,113,9.0,6.265486725663717,Canada
+M Imimole,54,78,0.0,4.153846153846153,Nigeria
+M Jansen,537,364,16.0,8.851648351648352,South Africa
+M Jayphert,16,13,0.0,7.384615384615385,Papua New Guinea
+M Jele,110,103,9.0,6.407766990291262,Eswatini
+M Jevdjenovic,89,101,4.0,5.287128712871287,Serbia
+M Jobarteh,141,78,3.0,10.846153846153848,Gambia
+M Joshi,76,48,1.0,9.5,India
+M Kadyan,141,119,7.0,7.109243697478991,Bulgaria
+M Kanno,14,27,2.0,3.1111111111111107,Japan
+M Kapp,833,899,50.0,5.559510567296996,South Africa
+M Kartik,29,24,0.0,7.25,United States of America
+M Kasselman,11,6,0.0,11.0,Botswana
+M Kaukura,103,103,6.0,6.0,Cook Islands
+M Kearvell,26,28,2.0,5.571428571428571,Romania
+M Khojbariya,47,48,2.0,5.875,Eswatini
+M Klaas,598,472,24.0,7.601694915254237,South Africa
+M Kojo,16,18,0.0,5.333333333333333,Finland
+M Koli,463,416,27.0,6.677884615384615,Romania
+M Kpaka,138,124,8.0,6.677419354838709,Sierra Leone
+M Kristensen,12,12,0.0,6.0,Denmark
+M Levitt,95,57,2.0,10.0,Netherlands
+M Mabvuka,21,17,1.0,7.411764705882353,Malawi
+M Madara,64,67,3.0,5.731343283582089,Sri Lanka
+M Magagula,187,132,12.0,8.5,Swaziland
+M Malle,22,14,0.0,9.428571428571429,Mali
+M Mani,22,20,1.0,6.6000000000000005,India
+M Manivannan,32,19,0.0,10.105263157894736,Cayman Islands
+M Martinez,177,180,4.0,5.9,Argentina
+M Matobole,21,17,1.0,7.411764705882353,Lesotho
+M Mavunga,52,39,1.0,8.0,Zimbabwe
+M McColl,75,92,8.0,4.891304347826087,Scotland
+M Mete,11,20,1.0,3.3000000000000003,Vanuatu
+M Methtananda,23,12,0.0,11.5,Sri Lanka
+M Mooketsi,538,489,30.0,6.60122699386503,Botswana
+M Morkel,640,535,28.0,7.177570093457943,South Africa
+M Muralitharan,122,100,2.0,7.32,Sri Lanka
+M Musinguzi,11,13,0.0,5.076923076923077,Uganda
+M Mwamadi,4,9,1.0,2.6666666666666665,Malawi
+M Mwangi,87,96,6.0,5.4375,Kenya
+M Mwatile,285,330,25.0,5.181818181818182,Namibia
+M Ndhambi,33,33,1.0,6.0,Kenya
+M Ngoche,21,18,0.0,7.0,Kenya
+M Ntini,191,124,7.0,9.241935483870968,South Africa
+M Ochieng,87,126,6.0,4.142857142857142,Kenya
+M Ogawa,39,41,2.0,5.7073170731707314,Japan
+M Ortiz,53,73,4.0,4.356164383561644,Other
+M Ozturk,263,204,13.0,7.73529411764706,Turkey
+M Parinitha,71,119,10.0,3.579831932773109,Switzerland
+M Pascal,20,13,2.0,9.230769230769232,Tanzania
+M Pathirana,281,195,14.0,8.646153846153846,Sri Lanka
+M Phiase,20,35,3.0,3.4285714285714284,Botswana
+M Podosky,114,95,4.0,7.199999999999999,Philippines
+M Polimeri,8,6,0.0,8.0,Greece
+M Prasanna,22,12,1.0,11.0,Romania
+M Prasidh Krishna,82,49,3.0,10.040816326530614,India
+M Raikes,106,51,3.0,12.47058823529412,Gibraltar
+M Ramafifi,48,74,3.0,3.891891891891892,Botswana
+M Ribeiro,209,284,21.0,4.415492957746479,Brazil
+M Robinson,56,68,6.0,4.941176470588236,Other
+M Saastamoinen,31,36,3.0,5.166666666666667,Finland
+M Sarenac,289,237,16.0,7.3164556962025316,Serbia
+M Sedgwick,22,6,0.0,22.0,Estonia
+M Shahbaz Butt,82,98,8.0,5.020408163265307,Norway
+M Shehani,67,48,1.0,8.375,Sri Lanka
+M Sheriff,28,39,1.0,4.307692307692308,Sierra Leone
+M Short,51,95,8.0,3.221052631578948,Namibia
+M Smith,29,18,2.0,9.666666666666668,Turks and Caicos Island
+M Spoors,5,12,2.0,2.5,Canada
+M Stanikzai,116,78,1.0,8.923076923076923,Switzerland
+M Strano,109,108,9.0,6.055555555555555,Australia
+M Syahadat Ramli,29,55,8.0,3.163636363636363,Malaysia
+M Syrioti,238,260,14.0,5.492307692307692,Greece
+M Taniyama,69,61,4.0,6.786885245901638,Japan
+M Taylor,348,260,11.0,8.03076923076923,Bahamas
+M Theekshana,890,753,42.0,7.091633466135459,Sri Lanka
+M Tilau,25,25,3.0,6.0,Fiji
+M Tom,244,328,18.0,4.463414634146341,Papua New Guinea
+M Trajkovi,94,142,6.0,3.971830985915493,Serbia
+M Turay,27,39,2.0,4.153846153846153,Sierra Leone
+M Turner,8,24,1.0,2.0,Turks and Caicos Island
+M Ulmanova,39,45,2.0,5.2,Czech Republic
+M Upadhayay,93,90,11.0,6.200000000000001,Nepal
+M Uwase,11,6,0.0,11.0,Rwanda
+M Valner,182,302,16.0,3.615894039735099,Estonia
+M Vandrasi,104,86,5.0,7.255813953488372,Czech Republic
+M Vervitsioti,220,183,9.0,7.213114754098361,Greece
+M Vijay,10,12,0.0,5.0,India
+M Vivekanandan,343,218,9.0,9.440366972477063,Mongolia
+M Vua,18,26,2.0,4.153846153846153,Fiji
+M Vumiliya,179,255,13.0,4.211764705882352,Rwanda
+M Wai Siu,450,542,29.0,4.981549815498155,Hong Kong
+M Walker,23,21,1.0,6.571428571428572,Bermuda
+M Whelan,68,45,2.0,9.066666666666666,Gibraltar
+M Yanagida,143,179,9.0,4.793296089385475,Japan
+M Yousaf,23,45,3.0,3.0666666666666664,Hong Kong
+M Yunusu Issa,287,237,15.0,7.265822784810127,Tanzania
+M Zdravkova,27,39,1.0,4.153846153846153,Bulgaria
+M Zhu,44,56,3.0,4.714285714285714,China
+M Zondeki,42,21,1.0,12.0,South Africa
+M Zwilling,22,28,4.0,4.714285714285714,Netherlands
+M de Lange,92,55,2.0,10.036363636363635,South Africa
+M du Preez,8,6,0.0,8.0,South Africa
+M van Lingen,14,6,0.0,14.0,Namibia
+MA Algi,132,91,6.0,8.703296703296703,Mozambique
+MA Aponso,29,18,2.0,9.666666666666668,Sri Lanka
+MA Baig,126,146,15.0,5.178082191780822,Malawi
+MA Leask,459,363,20.0,7.586776859504132,Scotland
+MA Nyabela,254,248,11.0,6.14516129032258,Lesotho
+MA Parker,61,52,3.0,7.038461538461538,Scotland
+MA Starc,1409,1115,54.0,7.582062780269059,Australia
+MA Tsemane,181,166,3.0,6.542168674698795,Lesotho
+MA Wood,707,509,37.0,8.333988212180746,England
+MADI Hemantha,66,50,4.0,7.92,Sri Lanka
+MB Tambe,324,256,17.0,7.59375,Finland
+MBA Lamplough,58,78,1.0,4.461538461538462,Hong Kong
+MBS Jonkman,21,19,2.0,6.631578947368421,Netherlands
+MC Alex,75,55,0.0,8.181818181818182,Ivory Coast
+MC Henriques,66,68,4.0,5.823529411764706,Australia
+MC Sorensen,233,201,13.0,6.955223880597014,Ireland
+MD Bates,108,67,4.0,9.671641791044776,New Zealand
+MD Bimenyimana,433,635,56.0,4.0913385826771655,Rwanda
+MD Botha,99,179,15.0,3.3184357541899443,United Arab Emirates
+MD Dai,58,66,2.0,5.2727272727272725,Papua New Guinea
+MD Garratt,51,31,1.0,9.870967741935484,Gibraltar
+MD Gunathilaka,50,44,2.0,6.818181818181818,Sri Lanka
+MD Shanaka,436,329,17.0,7.951367781155016,Sri Lanka
+ME Bessala,80,63,1.0,7.619047619047619,Cameroon
+ME Leoela,20,18,1.0,6.666666666666667,Lesotho
+ME Violleau,77,62,1.0,7.451612903225806,France
+MEC de Fouw,18,19,0.0,5.684210526315789,Netherlands
+MEK Hussey,6,6,0.0,6.0,Australia
+MEMO Scott-Hayward,48,41,1.0,7.024390243902438,Ireland
+MF Maharoof,52,45,2.0,6.933333333333333,Sri Lanka
+MF Manjate,11,6,0.0,11.0,Mozambique
+MFD Douma,96,122,7.0,4.721311475409836,Cameroon
+MFI Assuncao,52,18,0.0,17.333333333333332,Brazil
+MG Bracewell,281,235,12.0,7.174468085106383,New Zealand
+MG Erasmus,488,483,29.0,6.062111801242236,Namibia
+MG Johnson,399,325,19.0,7.366153846153846,Australia
+MGMCP Gunawardene,50,49,3.0,6.122448979591837,Sri Lanka
+MGSM Fernando,48,49,2.0,5.877551020408163,Italy
+MH Ushanga,201,261,15.0,4.620689655172414,Tanzania
+MH Yardy,243,231,9.0,6.311688311688312,England
+MI Khagoitsa,221,345,23.0,3.843478260869565,Kenya
+MI Tato,8,26,3.0,1.8461538461538465,Samoa
+MIW van den Raad,20,15,0.0,8.0,Netherlands
+MJ Ansell,187,205,14.0,5.4731707317073175,Isle of Man
+MJ Clarke,106,74,3.0,8.594594594594595,Australia
+MJ Henry,440,329,20.0,8.024316109422493,New Zealand
+MJ Humphreys,55,63,5.0,5.238095238095238,Ireland
+MJ Mason,20,21,1.0,5.7142857142857135,New Zealand
+MJ McClenaghan,344,295,14.0,6.996610169491525,New Zealand
+MJ Owen,62,33,2.0,11.272727272727272,Australia
+MJ Ross,53,42,2.0,7.571428571428571,Italy
+MJ Santner,1270,1094,50.0,6.96526508226691,New Zealand
+MJ Swepson,157,106,7.0,8.88679245283019,Australia
+MJ Tugaga,26,26,1.0,6.0,Samoa
+MJ Tumukunde,53,68,1.0,4.676470588235294,Rwanda
+MJG Nielsen,101,152,8.0,3.986842105263158,New Zealand
+MJG Rippon,114,108,8.0,6.333333333333334,Netherlands
+MJM Kavana,87,78,7.0,6.6923076923076925,Cook Islands
+MK Amusa,55,75,4.0,4.4,Nigeria
+MK Anafie,65,69,4.0,5.652173913043479,Ghana
+MK Thakur,247,249,16.0,5.951807228915663,Thailand
+MK Villiers,60,48,2.0,7.5,England
+ML Bojang,49,45,1.0,6.533333333333333,Gambia
+ML Castillo,155,147,12.0,6.326530612244898,Belize
+ML Green,6,12,1.0,3.0,New Zealand
+ML Kostic,23,12,1.0,11.5,Serbia
+ML Lewis,32,24,2.0,8.0,Australia
+ML Schutt,1290,1226,79.0,6.313213703099511,Australia
+MLN Sissako,94,74,3.0,7.621621621621621,Cameroon
+MM Ali,590,474,25.0,7.468354430379746,England
+MM Baig,242,211,21.0,6.881516587677726,Qatar
+MM Dekeling,58,54,2.0,6.444444444444445,Netherlands
+MM Iqbal,17,24,2.0,4.25,Scotland
+MM Letsoalo,169,178,8.0,5.6966292134831455,South Africa
+MM Mabathoana,120,84,2.0,8.571428571428571,Lesotho
+MM Penfold,119,100,5.0,7.14,New Zealand
+MM Sarwar,15,12,1.0,7.5,Kuwait
+MM Sharma,102,66,3.0,9.272727272727272,India
+MMR Obili,85,67,3.0,7.611940298507463,Estonia
+MN Samuels,139,112,5.0,7.446428571428571,West Indies
+MN Waller,4,6,0.0,4.0,Zimbabwe
+MNM Aslam,921,886,50.0,6.237020316027088,Kuwait
+MNR Cooray,52,49,1.0,6.36734693877551,Maldives
+MO Jones,107,117,7.0,5.487179487179487,Bermuda
+MO Kain,17,10,0.0,10.2,United States of America
+MP Ainsworth,50,45,3.0,6.666666666666667,Hungary
+MP Enright,18,12,0.0,9.0,Namibia
+MP Kuhnemann,69,50,0.0,8.28,Australia
+MP O'Dowd,69,41,1.0,10.097560975609756,Netherlands
+MP Stoinis,773,540,24.0,8.588888888888889,Australia
+MP Yadav,21,24,1.0,5.25,India
+MPGT Ketiyage,211,172,10.0,7.360465116279069,Cyprus
+MPM Pathirannehelage,35,59,4.0,3.559322033898305,Austria
+MPP San,207,265,15.0,4.686792452830189,Myanmar
+MR Adair,1529,1144,75.0,8.019230769230768,Ireland
+MR Gillespie,59,64,8.0,5.53125,New Zealand
+MR Marsh,273,205,11.0,7.990243902439024,Australia
+MR Meshram,14,24,0.0,3.5,India
+MR Swart,152,123,6.0,7.414634146341464,Netherlands
+MRJ Watt,848,667,31.0,7.628185907046476,Scotland
+MS Aulakh,54,43,2.0,7.534883720930233,Canada
+MS Beresford,214,209,9.0,6.14354066985646,Germany
+MS Chapman,19,18,2.0,6.333333333333334,New Zealand
+MS Crane,24,24,0.0,6.0,England
+MS Diawara,69,55,3.0,7.527272727272727,Mali
+MS Graham,61,48,1.0,7.625,Bahamas
+MS Kasprowicz,28,18,1.0,9.333333333333334,Australia
+MS Panesar,40,24,2.0,10.0,England
+MSN Ekani,141,131,4.0,6.458015267175572,Cameroon
+MT Jacob,123,140,9.0,5.271428571428571,Qatar
+MT Waqanisau,145,188,10.0,4.627659574468085,Fiji
+MTMMJ Ave,139,119,6.0,7.008403361344538,Cook Islands
+MV Lehmann,3,6,0.0,3.0,Argentina
+MV Matsau,96,64,6.0,9.0,Lesotho
+MV Pavlovic,393,335,24.0,7.038805970149253,Serbia
+MVT Fernando,16,12,0.0,8.0,Sri Lanka
+MW Forde,149,111,7.0,8.054054054054054,West Indies
+MW Jones,25,14,1.0,10.714285714285715,Scotland
+MW Machan,26,24,2.0,6.5,Scotland
+MW Parkinson,127,77,2.0,9.896103896103895,England
+MW Short,55,32,1.0,10.3125,Australia
+MWR Stokes,337,284,12.0,7.119718309859156,Guernsey
+Ma Luz Barcelona,10,11,0.0,5.454545454545454,Philippines
+Ma Qiancheng,154,144,7.0,6.416666666666666,China
+Ma Ruike,167,237,11.0,4.227848101265823,China
+Maaha Naseer,30,18,0.0,10.0,Maldives
+Maahi Madhavan,48,43,1.0,6.697674418604651,United States of America
+Maaz Khan,51,25,0.0,12.24,Lesotho
+Madeeha Zuberi,37,54,2.0,4.111111111111112,Kuwait
+Madhawa Basnayaka,65,46,2.0,8.478260869565219,Finland
+Mah Noor,107,62,0.0,10.35483870967742,Saudi Arabia
+Mah Noor Amir,274,162,2.0,10.148148148148149,Saudi Arabia
+Maham Tariq,65,38,0.0,10.263157894736842,Pakistan
+Mahedi Hasan,906,768,41.0,7.078125,Bangladesh
+Mahewish Khan,31,43,4.0,4.325581395348837,Canada
+Mahirah Izzati Ismail,389,521,31.0,4.479846449136276,Malaysia
+Mahmud Jasat,14,8,0.0,10.5,Panama
+Mahmudullah,630,499,20.0,7.5751503006012015,Bangladesh
+Maira Khan,159,100,2.0,9.54,Saudi Arabia
+Maira Saleem,19,26,0.0,4.384615384615384,Hong Kong
+Malyun Hassan,6,6,0.0,6.0,Finland
+Malyun Yusuf,10,11,1.0,5.454545454545454,Sweden
+Manal Malik,7,6,0.0,7.0,Bahrain
+Manan Ali,33,19,0.0,10.421052631578949,Saudi Arabia
+Manish Sharma,24,18,1.0,8.0,Cambodia
+Manpreet Singh,180,120,1.0,9.0,Singapore
+Mansi Parmar,27,29,1.0,5.586206896551724,Czech Republic
+Mansoor Shah,45,33,5.0,8.181818181818182,Norway
+Marcelle Hanekom,81,65,3.0,7.476923076923077,Cambodia
+Maria Ahsan,29,44,3.0,3.954545454545454,Sweden
+Maria Jasvi,494,524,29.0,5.65648854961832,Kuwait
+Mariam Hasan,8,18,2.0,2.6666666666666665,Pakistan
+Mariamma Hyder,459,581,30.0,4.740103270223752,Kuwait
+Marica Taira,7,8,0.0,5.25,Philippines
+Marina Iqbal,27,25,1.0,6.48,Pakistan
+Mariska Kornet,32,26,1.0,7.384615384615385,Netherlands
+Marsya Qistina Binti,8,7,0.0,6.857142857142857,Malaysia
+Marufa Akter,276,248,10.0,6.677419354838709,Bangladesh
+Maryam Omar,338,444,23.0,4.567567567567568,Kuwait
+Maryyam Ashraf,19,25,1.0,4.5600000000000005,Kuwait
+Mas Elysa,290,293,12.0,5.938566552901023,Malaysia
+Mashrafe Mortaza,972,672,21.0,8.678571428571429,Bangladesh
+Matiullah Khan,147,92,4.0,9.58695652173913,United Arab Emirates
+Mayank Nagayach,192,153,2.0,7.529411764705882,Luxembourg
+Mazharul Islam,29,12,1.0,14.5,Seychelles
+Md Shuayeb,18,13,1.0,8.307692307692307,Cambodia
+Meet Bhavsar,206,200,12.0,6.18,Kuwait
+Meghna Rajan,69,167,9.0,2.4790419161676644,Switzerland
+Meghna Singh,52,44,2.0,7.090909090909092,India
+Mehboob Ali,75,64,4.0,7.03125,Malta
+Mehedi Hasan Miraz,336,231,8.0,8.727272727272727,Bangladesh
+Mehran Khan,322,250,10.0,7.728,Oman
+Memoona Riaz,22,36,2.0,3.666666666666667,Spain
+Mengting Liu,225,353,32.0,3.824362606232295,China
+Merwais Shinwari,17,19,3.0,5.368421052631579,Slovenia
+Metty Fernandes,36,66,2.0,3.2727272727272725,Switzerland
+Milad Momend,343,268,24.0,7.679104477611941,Luxembourg
+Milind Kumar,127,130,11.0,5.861538461538461,United States of America
+Mina Baek,45,51,3.0,5.294117647058823,South Korea
+Mirab Razwan,181,193,12.0,5.626943005181348,Norway
+Mirza Ahmed,101,85,6.0,7.129411764705882,Kuwait
+Mobashar Ashraf,8,12,0.0,4.0,France
+Moe Ei Phyu,12,8,0.0,9.0,Myanmar
+Mohamed Arief,13,6,0.0,13.0,Malaysia
+Mohamed Coulibaly,42,34,1.0,7.411764705882353,Mali
+Mohamed Ishmath,113,99,5.0,6.848484848484849,Maldives
+Mohamed Khan,29,24,1.0,7.25,Sierra Leone
+Mohamed Mahfooz,110,109,7.0,6.055045871559633,Maldives
+Mohamed Shafeeq,704,621,33.0,6.801932367149759,Kuwait
+Mohamed Shiyam,41,19,0.0,12.947368421052632,Maldives
+Mohamed Turay,134,110,7.0,7.309090909090909,Sierra Leone
+Mohameed Taiwo,415,374,15.0,6.657754010695188,Nigeria
+Mohammad Aadil Alam,39,36,4.0,6.5,Nepal
+Mohammad Ahsan,31,18,4.0,10.333333333333334,Kuwait
+Mohammad Amin,6,6,0.0,6.0,Kuwait
+Mohammad Amir,746,631,29.0,7.09350237717908,Pakistan
+Mohammad Asaduzzaman,99,87,4.0,6.827586206896552,Finland
+Mohammad Ashraful,176,118,6.0,8.949152542372882,Bangladesh
+Mohammad Asif,194,168,12.0,6.928571428571428,Pakistan
+Mohammad Atif,112,165,12.0,4.072727272727273,Spain
+Mohammad Boota,13,6,1.0,13.0,United Arab Emirates
+Mohammad Ghazanfar,392,332,18.0,7.084337349397591,Hong Kong
+Mohammad Hafeez,705,596,25.0,7.097315436241612,Pakistan
+Mohammad Hasnain,611,427,18.0,8.585480093676814,Pakistan
+Mohammad Irfan,290,227,12.0,7.665198237885463,Pakistan
+Mohammad Kamran,244,308,22.0,4.753246753246754,Spain
+Mohammad Kashif,19,12,1.0,9.5,Netherlands
+Mohammad Nadeem,541,462,23.0,7.025974025974026,Oman
+Mohammad Naveed,256,253,20.0,6.071146245059288,United Arab Emirates
+Mohammad Nawaz,617,470,23.0,7.87659574468085,Pakistan
+Mohammad Nawaz (3),259,206,11.0,7.54368932038835,Pakistan
+Mohammad Saifuddin,719,508,26.0,8.492125984251969,Bangladesh
+Mohammad Sami,286,185,11.0,9.275675675675677,Pakistan
+Mohammad Shahid,32,18,1.0,10.666666666666666,Bangladesh
+Mohammad Shahzad,144,105,5.0,8.228571428571428,United Arab Emirates
+Mohammad Waheed,29,20,0.0,8.7,Hong Kong
+Mohammad Wasim,484,375,24.0,7.744,Pakistan
+Mohammed Alamgir,15,12,1.0,7.5,Eswatini
+Mohammed Awais,110,74,1.0,8.91891891891892,Qatar
+Mohammed Faraazuddin,126,84,2.0,9.0,United Arab Emirates
+Mohammed Irshad,158,131,11.0,7.236641221374046,Qatar
+Mohammed Nadeem,435,424,21.0,6.15566037735849,Qatar
+Mohammed Qasim,48,51,4.0,5.647058823529411,United Arab Emirates
+Mohammed Shami,389,272,15.0,8.580882352941178,India
+Mohammed Siraj,288,212,10.0,8.150943396226415,India
+Mohsin Khan,49,37,4.0,7.945945945945946,Hong Kong
+Mohsin Zaki,40,36,2.0,6.666666666666667,Bahrain
+Mokbul Ahammed,10,12,0.0,5.0,Qatar
+Mosaddek Hossain,205,181,11.0,6.795580110497238,Bangladesh
+Mounica Chowdary,27,25,0.0,6.48,Luxembourg
+Mubeen Tariq,32,14,0.0,13.714285714285714,Portugal
+Mudassar Bukhari,326,259,17.0,7.552123552123552,Netherlands
+Mudassir Iqbal,100,66,1.0,9.09090909090909,South Korea
+Muhammad Afis,18,6,0.0,18.0,Indonesia
+Muhammad Ajmal,8,8,0.0,6.0,Malta
+Muhammad Amir,253,231,14.0,6.571428571428572,Malaysia
+Muhammad Ansar,29,18,0.0,9.666666666666668,Kuwait
+Muhammad Arfan,38,36,4.0,6.333333333333334,United Arab Emirates
+Muhammad Asim,276,244,16.0,6.786885245901638,Zambia
+Muhammad Burhan,85,77,7.0,6.623376623376624,Hungary
+Muhammad Fahim,131,112,5.0,7.017857142857143,Belgium
+Muhammad Farooq,156,138,6.0,6.782608695652174,Cyprus
+Muhammad Jabir,379,278,14.0,8.179856115107913,Qatar
+Muhammad Jawadullah,443,343,20.0,7.749271137026239,United Arab Emirates
+Muhammad Kashif,36,36,1.0,6.0,Kuwait
+Muhammad Moiz,292,206,21.0,8.504854368932039,Romania
+Muhammad Murad,112,96,7.0,7.0,Qatar
+Muhammad Musa,23,24,0.0,5.75,Pakistan
+Muhammad Nadir,690,775,40.0,5.341935483870968,Rwanda
+Muhammad Rohid,248,214,14.0,6.953271028037383,United Arab Emirates
+Muhammad Saleem,6,13,1.0,2.769230769230769,Brazil
+Muhammad Salman,45,62,3.0,4.35483870967742,Bahrain
+Muhammad Saqib,126,69,2.0,10.956521739130434,Saudi Arabia
+Muhammad Saqlain,68,54,6.0,7.555555555555555,Hungary
+Muhammad Shoaib Ahmed,33,26,0.0,7.615384615384615,Cyprus
+Muhammad Siddiqui,200,159,10.0,7.547169811320755,Slovenia
+Muhammad Tahir,9,12,2.0,4.5,Greece
+Muhammad Tanveer,244,170,5.0,8.611764705882353,Qatar
+Muhammad Usman,104,97,4.0,6.43298969072165,United Arab Emirates
+Muhammad Wafiq,413,271,9.0,9.14391143911439,Malaysia
+Muhammad Younis,13,7,0.0,11.142857142857142,Bahrain
+Muhammad Zaghlool,20,12,0.0,10.0,Belize
+Muhammad Zohaib,1,6,0.0,1.0,United Arab Emirates
+Muhammed Turkmen,60,54,3.0,6.666666666666667,Turkey
+Muhammet Bicer,5,9,0.0,3.333333333333333,Turkey
+Muhammet Kursat,25,28,3.0,5.357142857142858,Turkey
+Mujeeb-ur-Rehman,203,173,6.0,7.040462427745664,Qatar
+Mukesh Kumar,114,94,4.0,7.276595744680852,India
+Muktar Ali,17,12,0.0,8.5,Bangladesh
+Murat Ipek,4,8,0.0,3.0,Turkey
+Murat Yilmaz,20,25,0.0,4.800000000000001,Turkey
+Murid Ekrami,92,84,5.0,6.571428571428572,Belgium
+Musaddiq Ahmed,44,37,1.0,7.135135135135135,Germany
+Musawar Shah,174,140,11.0,7.457142857142857,Qatar
+Muslim Yar,632,588,39.0,6.448979591836736,Germany
+Mustafa Omer,29,19,0.0,9.157894736842106,France
+Mustafizur Rahman,1785,1460,97.0,7.335616438356164,Bangladesh
+Mustapha Suwareh,46,16,0.0,17.25,Gambia
+Mustapha Yusuf,83,56,3.0,8.892857142857142,Nigeria
+Muzahir Raza,112,97,7.0,6.927835051546391,Oman
+Myat Thu Aung,18,15,3.0,7.199999999999999,Myanmar
+N Advani,49,33,4.0,8.90909090909091,Gibraltar
+N Ahir,123,71,1.0,10.394366197183098,Panama
+N Asuramanage,101,74,1.0,8.18918918918919,Italy
+N Benjamin,143,152,9.0,5.644736842105263,Namibia
+N Bidaisee,62,53,3.0,7.018867924528301,West Indies
+N Boochatham,609,807,53.0,4.5278810408921935,Thailand
+N Burger,132,101,4.0,7.841584158415841,South Africa
+N Caruana,31,64,3.0,2.90625,Gibraltar
+N Choden,26,45,3.0,3.4666666666666663,Bhutan
+N D'souza,12,7,0.0,10.285714285714285,United Arab Emirates
+N Davidovic,22,25,3.0,5.28,Croatia
+N Deonarine,17,12,0.0,8.5,West Indies
+N Dutta,193,190,7.0,6.094736842105263,Canada
+N Gumaliyele,26,32,0.0,4.875,Malawi
+N Gwanzura,182,182,11.0,6.0,Zimbabwe
+N Hirani,22,18,1.0,7.333333333333334,Kenya
+N Ihmeling,11,16,0.0,4.125,France
+N Jagadish,58,67,4.0,5.1940298507462686,Oman
+N Kayani,26,34,4.0,4.588235294117647,Sweden
+N Khumalo,122,90,3.0,8.133333333333333,Eswatini
+N Krishna,205,146,10.0,8.424657534246576,Seychelles
+N Liyanage,45,50,3.0,5.4,Cyprus
+N M'shangwe,109,84,4.0,7.7857142857142865,Zimbabwe
+N Mabila,308,329,9.0,5.617021276595745,Eswatini
+N Madziva,209,150,8.0,8.36,Zimbabwe
+N Magagula,44,31,1.0,8.516129032258064,Eswatini
+N Mamba,126,119,4.0,6.352941176470589,Eswatini
+N Master,31,25,1.0,7.439999999999999,Botswana
+N Mlaba,751,723,36.0,6.232365145228217,South Africa
+N Mugabe,14,12,0.0,7.0,Kenya
+N Mutasa,30,44,5.0,4.090909090909091,Zimbabwe
+N Naranbaatar,236,125,2.0,11.328,Mongolia
+N Navaika,209,254,20.0,4.937007874015748,Vanuatu
+N Ndouteng,58,24,2.0,14.5,Cameroon
+N Ndzeute,79,61,4.0,7.77049180327869,Mozambique
+N Nipiko,315,245,24.0,7.714285714285715,Vanuatu
+N Niranjana,87,98,4.0,5.326530612244898,India
+N Nojic,125,181,12.0,4.143646408839779,Serbia
+N Nuntarach,119,113,9.0,6.318584070796461,Thailand
+N Pathan,12,6,0.0,12.0,Thailand
+N Peter,218,146,8.0,8.95890410958904,South Africa
+N Pokana,402,301,15.0,8.013289036544851,Papua New Guinea
+N Pradeep,192,109,5.0,10.568807339449542,Sri Lanka
+N Robertson-Jack,43,26,1.0,9.923076923076923,Scotland
+N Salekar,135,127,6.0,6.377952755905513,Thailand
+N Senamontree,493,535,36.0,5.528971962616822,Thailand
+N Shangase,143,113,12.0,7.592920353982301,South Africa
+N Shree Charani,138,103,9.0,8.03883495145631,India
+N Sibanda,329,436,26.0,4.527522935779817,Zimbabwe
+N Simelane,50,48,2.0,6.25,Eswatini
+N Sitompul,27,49,5.0,3.3061224489795915,Indonesia
+N Tanner,194,160,15.0,7.274999999999999,Philippines
+N Thailappan,40,18,0.0,13.333333333333334,Bahrain
+N Thushara,450,328,15.0,8.231707317073171,Sri Lanka
+N Tokizawa,19,27,2.0,4.222222222222222,Japan
+N Toleva,85,67,0.0,7.611940298507463,Bulgaria
+N Tyagi,146,114,5.0,7.684210526315789,Czech Republic
+N Vanua,777,588,35.0,7.928571428571429,Papua New Guinea
+N Vare,9,6,1.0,9.0,Papua New Guinea
+N Vichara,21,16,0.0,7.875,Cambodia
+N Zimonjic,182,116,9.0,9.413793103448276,Serbia
+N de Klerk,662,551,26.0,7.208711433756806,South Africa
+NA Greenwood,166,151,10.0,6.596026490066226,Jersey
+NA Karnik,83,75,6.0,6.640000000000001,Singapore
+NA Maiolo,76,74,3.0,6.162162162162161,Italy
+NC Monteiro,217,287,15.0,4.536585365853659,Brazil
+NCK Liyanage,21,19,0.0,6.631578947368421,Malaysia
+ND Laegsgaard,197,214,20.0,5.5233644859813085,Denmark
+NE Farrant,161,140,7.0,6.9,England
+NH Berejo,102,140,11.0,4.371428571428571,Spain
+NH Ekanayake,60,63,3.0,5.7142857142857135,Bahamas
+NJ Amongin,38,56,3.0,4.071428571428571,Uganda
+NJ Astle,51,41,4.0,7.463414634146341,New Zealand
+NJ Browne,45,75,5.0,3.6,New Zealand
+NJ Carey,175,176,10.0,5.965909090909091,Australia
+NJ Pius,113,133,7.0,5.097744360902256,Tanzania
+NJ Qaeze,15,14,2.0,6.428571428571429,France
+NJ Shaw,57,49,2.0,6.979591836734693,England
+NJM Salima,12,21,1.0,3.4285714285714284,Samoa
+NK Aneesh Kumar,346,310,14.0,6.696774193548388,Switzerland
+NK Ariani,167,218,20.0,4.5963302752293576,Indonesia
+NK Patel,242,288,22.0,5.041666666666667,United States of America
+NK Tiwari,121,127,8.0,5.716535433070866,Cyprus
+NK Yadav,158,126,11.0,7.523809523809524,Nepal
+NKD Murtiari,13,44,3.0,1.772727272727273,Indonesia
+NKDP Putri,9,44,3.0,1.2272727272727273,Indonesia
+NKF Rada Rani,39,50,1.0,4.68,Indonesia
+NL McCullum,665,582,27.0,6.855670103092783,New Zealand
+NL Ujawe,40,25,1.0,9.6,Slovenia
+NLKWR Dewi,247,363,26.0,4.082644628099174,Indonesia
+NLTC Perera,955,627,31.0,9.138755980861244,Sri Lanka
+NM Ambo,65,108,7.0,3.611111111111111,Papua New Guinea
+NM Carter,38,24,0.0,9.5,Scotland
+NM Cherriath,42,30,2.0,8.399999999999999,United Arab Emirates
+NM Coulter-Nile,562,422,24.0,7.990521327014219,Australia
+NM Lyon,48,33,1.0,8.727272727272727,Australia
+NM Meepage,65,42,2.0,9.285714285714286,Sri Lanka
+NM Mokhachane,248,230,11.0,6.469565217391304,Lesotho
+NM Odhiambo,298,203,13.0,8.807881773399014,Kenya
+NM Salonen,169,139,13.0,7.294964028776978,Finland
+NM Sheikh,11,13,0.0,5.076923076923077,Scotland
+NMP Suwandewi,217,308,14.0,4.227272727272728,Indonesia
+NMS Param,44,37,2.0,7.135135135135135,Singapore
+NN Banner,176,149,11.0,7.087248322147651,Belize
+NN Odhiambo,302,200,14.0,9.06,Kenya
+NN Saidi,247,319,18.0,4.64576802507837,Tanzania
+NND de Silva,69,63,3.0,6.571428571428572,Sri Lanka
+NO Miller,110,103,9.0,6.407766990291262,West Indies
+NO Tindo,25,18,1.0,8.333333333333332,Tanzania
+NP Dalgaard,89,158,8.0,3.379746835443038,Denmark
+NP Kenjige,339,272,13.0,7.477941176470589,United States of America
+NR Johns-Wickberg,200,219,12.0,5.47945205479452,Serbia
+NR Kirton,50,24,1.0,12.5,Canada
+NR Kumar,80,90,4.0,5.333333333333333,Canada
+NR Sciver,710,699,45.0,6.094420600858369,England
+NR Sciver-Brunt,264,219,8.0,7.232876712328767,England
+NS Dhaliwal,4,6,0.0,4.0,Canada
+NSK Mehta,41,50,2.0,4.92,Belgium
+NT Ellis,668,531,45.0,7.548022598870057,Australia
+NT Gireesh,137,116,6.0,7.086206896551724,Cambodia
+NT Rajendran,55,49,2.0,6.73469387755102,Kuwait
+NW Bracken,215,180,13.0,7.166666666666666,Australia
+NW Sariani,243,407,26.0,3.5823095823095823,Indonesia
+Nabaa Naseem,110,75,5.0,8.799999999999999,Maldives
+Nadeem Ahmed,237,229,18.0,6.209606986899564,Hong Kong
+Nadeem Khan,96,120,9.0,4.800000000000001,Oman
+Naeem Islam,93,67,3.0,8.328358208955224,Bangladesh
+Nahida Akter,1006,1016,69.0,5.940944881889764,Bangladesh
+Naina Saju,110,126,6.0,5.238095238095238,Switzerland
+Najeeb Amar,30,18,1.0,10.0,Hong Kong
+Najjam Shahzad,252,223,12.0,6.780269058295964,Portugal
+Najwa Akram,59,38,1.0,9.31578947368421,Saudi Arabia
+Namgay Thinley,394,339,11.0,6.973451327433628,Bhutan
+Nanthita Boonsukham,44,40,0.0,6.6000000000000005,Thailand
+Nary Thapa,30,71,12.0,2.535211267605634,Nepal
+Naseem Khan,25,24,1.0,6.25,Croatia
+Naseem Shah,532,399,19.0,8.0,Pakistan
+Nashra Sandhu,711,722,34.0,5.908587257617729,Pakistan
+Nasir Hossain,161,122,5.0,7.918032786885246,Bangladesh
+Nasrulla Rana,362,264,11.0,8.227272727272727,Hong Kong
+Nasum Ahmed,578,453,19.0,7.655629139072849,Bangladesh
+Natalia Pervaiz,39,38,2.0,6.157894736842106,Pakistan
+Natalie Clarke,35,41,0.0,5.121951219512195,Switzerland
+Natim Hassam,58,49,2.0,7.1020408163265305,Portugal
+Navdeep Saini,106,99,8.0,6.424242424242424,India
+Naved-ul-Hasan,53,49,3.0,6.489795918367348,Pakistan
+Naveed Ahmed,388,306,13.0,7.607843137254902,Czech Republic
+Naveed Fakhr,32,25,1.0,7.68,Kuwait
+Naveed Shahid,68,62,3.0,6.580645161290322,Finland
+Nawaf Ahmed,78,57,2.0,8.210526315789474,Kuwait
+Nayab Razwan,11,21,3.0,3.1428571428571432,Norway
+Nazmul Hossain,23,12,0.0,11.5,Bangladesh
+Nazmul Hossain Shanto,9,6,0.0,9.0,Bangladesh
+Nazmul Huda,53,38,2.0,8.368421052631579,Timor-Leste
+Nazmul Islam,75,61,0.0,7.377049180327869,Bangladesh
+Nazril Rahman,134,82,3.0,9.804878048780488,Malaysia
+Nazwan Ismail,143,85,5.0,10.094117647058823,Maldives
+Neeraj Mishra,151,100,2.0,9.06,Czech Republic
+Ngawang Thinley,111,80,8.0,8.325,Bhutan
+Niaz Ali,32,23,0.0,8.347826086956522,Hong Kong
+Nida Dar,1456,1431,80.0,6.10482180293501,Pakistan
+Nik Nur Atiela,166,186,14.0,5.354838709677419,Malaysia
+Nilansh Keswani,97,111,6.0,5.243243243243243,United Arab Emirates
+Nimish Lathief,162,128,6.0,7.59375,Kuwait
+Nisha Ali,37,42,1.0,5.285714285714286,United Arab Emirates
+Nithish Kumar Reddy,17,13,0.0,7.846153846153847,India
+Niv Nagavkar,108,99,4.0,6.545454545454545,Israel
+Nizakat Khan,100,112,7.0,5.357142857142858,Hong Kong
+Noah Mead,89,63,4.0,8.476190476190476,Samoa
+Noman Amjad,276,214,7.0,7.738317757009345,France
+Nonoha Yasumoto,113,178,9.0,3.808988764044944,Japan
+Noor Hayati Zakaria,121,108,1.0,6.722222222222223,Malaysia
+Noorkhan Ahmedi,13,13,1.0,6.0,Switzerland
+Nooruddin Mujadady,118,70,3.0,10.114285714285714,Germany
+Nouman Sarwar,124,81,7.0,9.185185185185183,Qatar
+Ntombizonke MKhatshwa,195,186,12.0,6.290322580645161,Eswatini
+Nur Arianna Natsya,322,327,14.0,5.908256880733945,Malaysia
+Nur Dania Syuhada,346,380,18.0,5.463157894736843,Malaysia
+Nur Izzatul Syafiqa,11,8,0.0,8.25,Malaysia
+Nur Nadihirah,84,96,3.0,5.25,Malaysia
+Nyeing Cham Soe,187,107,8.0,10.485981308411215,Myanmar
+O Amarjargal,111,120,4.0,5.550000000000001,Mongolia
+O Bastin,71,86,3.0,4.953488372093023,Jersey
+O Bell,152,155,8.0,5.883870967741935,Scotland
+O Casasola,15,12,0.0,7.5,Belize
+O Duff,17,11,0.0,9.272727272727272,Bulgaria
+O Erdenebaatar,145,136,2.0,6.397058823529411,Mongolia
+O Gholami,73,74,3.0,5.918918918918919,Sweden
+O Isesele,45,20,1.0,13.5,Nigeria
+O Isiyaku,57,45,4.0,7.6,Nigeria
+O Kamchomphu,563,744,45.0,4.540322580645161,Thailand
+O Keitsemang,156,150,6.0,6.24,Botswana
+O Lefaga,106,176,14.0,3.613636363636364,Samoa
+O Lutbayar,333,197,5.0,10.142131979695431,Mongolia
+O Matsolo,185,162,8.0,6.851851851851851,Mozambique
+O Mondlane,69,81,3.0,5.111111111111111,Mozambique
+O Muzondo,41,62,4.0,3.967741935483871,Zimbabwe
+O Omonkhobio,19,24,1.0,4.75,Nigeria
+O Prendergast,533,557,26.0,5.741472172351886,Ireland
+O Ranedoumoun,126,162,7.0,4.666666666666667,Cameroon
+O Sam Arthur,29,32,2.0,5.4375,Costa Rica
+O Thomas,348,234,9.0,8.923076923076923,West Indies
+O Touray,31,12,1.0,15.5,Gambia
+OC McCoy,869,611,38.0,8.53355155482815,West Indies
+OD Hald,150,133,5.0,6.766917293233083,Denmark
+OE Taylor,234,202,22.0,6.95049504950495,Cook Islands
+OEG Baartman,205,171,14.0,7.192982456140351,South Africa
+OF Smith,467,308,22.0,9.097402597402596,West Indies
+OGL Bascome,90,82,8.0,6.585365853658537,Bermuda
+OH Agbomadzie,364,398,29.0,5.4874371859296485,Ghana
+OJ Webster,64,49,3.0,7.836734693877551,Isle of Man
+OJR Groves,23,8,0.0,17.25,Slovenia
+OP Stone,36,25,0.0,8.64,England
+OS Dlamini,42,31,1.0,8.129032258064516,Eswatini
+OT Wallerson,37,51,2.0,4.352941176470588,United States of America
+OU Ranasinghe,437,362,25.0,7.243093922651933,Sri Lanka
+Obed Yosef,39,26,0.0,9.0,Vanuatu
+Oliver Rowe,7,14,1.0,3.0,Argentina
+Omar Hayat,47,36,4.0,7.833333333333334,Denmark
+Omar Rassol,160,96,4.0,10.0,Bulgaria
+Omid Shafi Rahman,67,69,5.0,5.826086956521739,Bangladesh
+Osama Mahmood,73,74,1.0,5.918918918918919,Switzerland
+Owais Ahmed,125,134,6.0,5.597014925373134,Qatar
+P Agboya,122,200,14.0,3.66,Nigeria
+P Agrawal,85,117,6.0,4.358974358974359,Norway
+P Aho,579,534,34.0,6.5056179775280905,Nigeria
+P Alako,31,37,2.0,5.027027027027027,Uganda
+P Arrighi,75,49,3.0,9.183673469387754,Argentina
+P Awana,29,12,0.0,14.5,India
+P Bhandari,92,108,5.0,5.111111111111111,Malta
+P Bhart,51,48,3.0,6.375,Norway
+P Buccimazza,44,44,3.0,6.0,Portugal
+P Cabebula,71,67,5.0,6.35820895522388,Fiji
+P Chilongia,64,99,9.0,3.878787878787879,Spain
+P Cuinica,114,113,4.0,6.053097345132743,Mozambique
+P Dakainivanua,89,72,2.0,7.416666666666667,Fiji
+P Desungnoen,41,31,0.0,7.935483870967742,Thailand
+P Florin,66,62,6.0,6.387096774193548,Romania
+P Gheewala,258,205,13.0,7.5512195121951216,Estonia
+P Gundecha,23,15,1.0,9.2,Japan
+P Hingorani,33,26,1.0,7.615384615384615,Romania
+P Jayawickrama,87,60,2.0,8.7,Sri Lanka
+P Jayeshbhai Patel,12,25,0.0,2.88,Panama
+P Kaveao,62,69,2.0,5.391304347826087,Cook Islands
+P Kerai,60,36,0.0,10.0,Kenya
+P Khadka,175,136,4.0,7.720588235294118,Nepal
+P Koech,431,358,23.0,7.223463687150838,Kenya
+P Kotoisuva,68,45,3.0,9.066666666666666,Fiji
+P Kumar,78,50,2.0,9.36,India
+P Kumbhare,24,48,4.0,3.0,Japan
+P Malav,354,287,20.0,7.400696864111499,Luxembourg
+P Malemikia,120,181,7.0,3.977900552486188,Uganda
+P Manning,54,39,4.0,8.307692307692307,Cayman Islands
+P Mapotsane,167,177,11.0,5.661016949152542,Botswana
+P Marange,354,432,25.0,4.916666666666666,Zimbabwe
+P Masih,18,25,2.0,4.32,Romania
+P Maya,372,438,29.0,5.095890410958904,Thailand
+P Maziya,103,91,4.0,6.791208791208791,Malawi
+P Mishra,674,540,26.0,7.488888888888889,Bulgaria
+P Modimo,58,53,3.0,6.566037735849056,Botswana
+P Molkenboer,93,131,7.0,4.259541984732824,Netherlands
+P Munorwei,16,14,0.0,6.857142857142857,Zimbabwe
+P Murungi,29,12,0.0,14.5,Uganda
+P Nedeljkovic,115,96,4.0,7.1875,Serbia
+P Negi,16,18,2.0,5.333333333333333,India
+P Neighbour,45,35,0.0,7.714285714285715,Luxembourg
+P Pirabakaran,11,6,2.0,11.0,France
+P Pratt,69,82,6.0,5.048780487804878,Sierra Leone
+P Pushparajan,61,42,1.0,8.714285714285714,Malta
+P Pustoslemsek,57,52,2.0,6.5769230769230775,Slovenia
+P Raghunath,18,16,0.0,6.75,Gibraltar
+P Raho,11,12,3.0,5.5,Papua New Guinea
+P Roy,24,18,1.0,8.0,India
+P Sabu,50,67,5.0,4.477611940298508,Austria
+P Sarraf,58,48,0.0,7.25,Nepal
+P Senjug,28,25,1.0,6.720000000000001,Croatia
+P Sharma,86,80,3.0,6.449999999999999,Kenya
+P Shetty,328,314,8.0,6.267515923566879,Bahrain
+P Siaka,149,199,10.0,4.492462311557789,Papua New Guinea
+P Silas,21,6,0.0,21.0,Botswana
+P Taylor,49,49,3.0,6.0,Czech Republic
+P Thongsa,98,78,8.0,7.538461538461538,Thailand
+P Timong,13,16,0.0,4.875,Uganda
+P Useni,436,383,21.0,6.830287206266318,Nigeria
+P Utseya,464,388,14.0,7.175257731958762,Zimbabwe
+P Vastrakar,717,659,40.0,6.528072837632776,India
+P Vekaria,78,64,3.0,7.3125,Rwanda
+PA Chatterji,360,473,20.0,4.5665961945031714,Scotland
+PA Hitchcock,43,19,2.0,13.578947368421051,New Zealand
+PA Wadenpohl,48,27,0.0,10.666666666666666,Germany
+PA van Meekeren,1001,849,41.0,7.074204946996466,Netherlands
+PADLR Sandakan,327,251,17.0,7.816733067729084,Sri Lanka
+PC Connell,32,30,2.0,6.4,Ireland
+PC McGeown,39,38,2.0,6.157894736842106,France
+PC de Silva,30,12,0.0,15.0,Sri Lanka
+PD Blignaut,46,36,1.0,7.666666666666666,Namibia
+PD Collingwood,224,159,11.0,8.452830188679245,England
+PD Hennessy,15,12,1.0,7.5,Spain
+PE Kruger,124,86,9.0,8.651162790697674,South Africa
+PE Kulume,177,229,15.0,4.637554585152839,Uganda
+PE Mendonca,271,289,15.0,5.626297577854672,Oman
+PF Gallagher,179,195,10.0,5.507692307692308,Finland
+PG Raut,17,18,0.0,5.666666666666666,India
+PHKD Mendis,108,78,1.0,8.307692307692307,Sri Lanka
+PJ Cummins,1037,836,42.0,7.442583732057416,Australia
+PJ Ongondo,53,25,0.0,12.72,Kenya
+PK Dimitri,89,55,1.0,9.709090909090907,Ivory Coast
+PK Matautaava,176,190,14.0,5.557894736842105,Vanuatu
+PK Mohanarangam,55,96,12.0,3.4375,Mexico
+PKD Chase,135,80,5.0,10.125,Ireland
+PKM Mahawattage,39,43,0.0,5.441860465116279,France
+PL Mommsen,51,53,1.0,5.773584905660377,Scotland
+PM Liyanagamage,58,38,4.0,9.157894736842106,Sri Lanka
+PM Seelaar,483,367,14.0,7.896457765667575,Netherlands
+PP Chawla,38,42,1.0,5.428571428571429,India
+PP Ojha,85,85,6.0,6.0,India
+PR Brown,101,60,2.0,10.1,England
+PR Stirling,347,336,15.0,6.196428571428572,Ireland
+PR Surve,143,97,2.0,8.845360824742269,Indonesia
+PRCS Kumarihami,51,49,3.0,6.244897959183674,Sri Lanka
+PRP Boissevain,76,49,3.0,9.306122448979592,Netherlands
+PSRK Sudarshan,236,173,8.0,8.184971098265896,Singapore
+PV Naringrekar,13,12,0.0,6.5,Costa Rica
+PV Vuniwaqa,50,33,2.0,9.09090909090909,Fiji
+PVD Chameera,1004,768,44.0,7.84375,Sri Lanka
+PW Borren,281,218,5.0,7.733944954128439,Netherlands
+PWA Mulder,109,60,4.0,10.9,South Africa
+PWH de Silva,1027,868,66.0,7.099078341013824,Sri Lanka
+PY Lavine,18,12,0.0,9.0,West Indies
+PZ Kamunya,290,417,28.0,4.172661870503597,Tanzania
+Paing Danu,151,127,5.0,7.133858267716536,Myanmar
+Pan Ei Phyu,53,62,1.0,5.129032258064516,Myanmar
+Panna Ghosh,215,229,11.0,5.633187772925764,Bangladesh
+Paras Singh,28,25,1.0,6.720000000000001,Croatia
+Pargat Singh,42,19,0.0,13.263157894736842,Canada
+Parveen Kumar,120,116,6.0,6.206896551724139,Canada
+Parvindar Kumar,102,80,3.0,7.649999999999999,Kuwait
+Pavandeep Singh,728,806,44.0,5.419354838709677,Malaysia
+Pech Pisa,6,9,0.0,4.0,Cambodia
+Pen Samon,19,12,0.0,9.5,Cambodia
+Phoup Srey Pheak,86,90,3.0,5.733333333333333,Cambodia
+Pooja Kumari,17,25,2.0,4.08,Norway
+Poonam Yadav,607,602,28.0,6.049833887043191,India
+Poorvaja Jagdeesha,35,23,0.0,9.130434782608695,Bahrain
+Prachi Kumari,132,128,4.0,6.1875,Norway
+Prajna Jagdeesha,29,21,1.0,8.285714285714285,Bahrain
+Prasad Anish,15,6,0.0,15.0,Cambodia
+Prashant Shukla,41,63,6.0,3.904761904761905,Sweden
+Pratik Singh Bais,138,180,12.0,4.6000000000000005,Mexico
+Pratis GC,150,117,5.0,7.692307692307693,Nepal
+Praveen Santhanakrishnan,5,9,0.0,3.333333333333333,Mexico
+Priyada Murali,373,403,19.0,5.553349875930521,Kuwait
+Puja Mahato,392,457,23.0,5.146608315098469,Nepal
+Purvi Kumari,14,8,0.0,10.5,Norway
+Pyae Phyo Wai,269,213,12.0,7.577464788732394,Myanmar
+Q Abel,327,441,34.0,4.448979591836735,Kenya
+Q Joseph,136,145,5.0,5.627586206896551,West Indies
+Qadeer Ahmed,126,100,4.0,7.56,United Arab Emirates
+Qamar Mushtaque,271,259,26.0,6.277992277992277,Norway
+Qanita Jalil,188,194,4.0,5.814432989690721,Pakistan
+Qasim Anwar,49,54,3.0,5.444444444444445,Cyprus
+Qudratullah Mir Afzail,48,60,1.0,4.800000000000001,Sweden
+R Abdulkareem,355,325,20.0,6.553846153846154,Nigeria
+R Abdulrasak,51,80,6.0,3.825,Nigeria
+R Agamiire,1,12,1.0,0.5,Uganda
+R Airee,95,103,8.0,5.533980582524272,Nepal
+R Andrew,210,246,18.0,5.121951219512195,Vanuatu
+R Ankad,87,107,7.0,4.878504672897196,Mexico
+R Ashwin,828,732,33.0,6.786885245901638,India
+R Athapaththu,60,52,5.0,6.9230769230769225,Romania
+R Avdylaj,81,59,1.0,8.23728813559322,Austria
+R Avery,165,149,8.0,6.644295302013424,Brazil
+R Baaleri,71,54,4.0,7.888888888888889,Ghana
+R Bakum,145,107,12.0,8.130841121495328,Ghana
+R Baruah,78,58,4.0,8.068965517241379,Estonia
+R Brar,45,26,0.0,10.384615384615383,Cyprus
+R Castillo,133,121,7.0,6.595041322314049,Philippines
+R Chaudhary,139,195,6.0,4.276923076923077,Nepal
+R Choden,68,97,8.0,4.2061855670103085,Bhutan
+R Coker,376,371,11.0,6.080862533692722,Sierra Leone
+R Cunningham,34,17,1.0,12.0,Gibraltar
+R Dhakal,106,80,2.0,7.949999999999999,Nepal
+R Dhami,10,8,0.0,7.5,Nepal
+R Dhar,58,44,1.0,7.909090909090908,India
+R Dhawan,42,25,1.0,10.08,India
+R Dhiman,71,61,4.0,6.983606557377049,Bulgaria
+R Dianish,15,12,1.0,7.5,Malta
+R Drake,68,45,1.0,9.066666666666666,Japan
+R Edwards,60,51,4.0,7.0588235294117645,Cayman Islands
+R Endo,13,9,0.0,8.666666666666666,Japan
+R Francis,36,25,0.0,8.64,St Helena
+R Frylinck,21,24,2.0,5.25,South Africa
+R Galgalikar,9,18,3.0,3.0,Mexico
+R Goodwin,21,14,0.0,9.0,Philippines
+R Haiong,49,48,1.0,6.125,Mozambique
+R Hashu,157,138,18.0,6.826086956521738,Portugal
+R Hekure,299,246,10.0,7.292682926829268,Papua New Guinea
+R Hubbard,51,44,1.0,6.954545454545455,Other
+R Immadi,231,249,8.0,5.566265060240964,Norway
+R Johnson,16,15,2.0,6.4,Turks and Caicos Island
+R Jones,19,12,0.0,9.5,Belize
+R Kalimuthu,302,211,17.0,8.587677725118482,Singapore
+R Kanai,15,7,0.0,12.857142857142858,Japan
+R Kanoh,58,82,2.0,4.243902439024391,Thailand
+R Kassim,8,12,1.0,4.0,Sierra Leone
+R Khasana,68,50,2.0,8.16,Lesotho
+R Khullar,67,65,3.0,6.184615384615384,Finland
+R Klein,18,12,1.0,9.0,Netherlands
+R Kumar,78,58,2.0,8.068965517241379,Romania
+R Limema,244,211,8.0,6.938388625592417,Lesotho
+R Mahajan,76,49,1.0,9.306122448979592,Philippines
+R Malhotra,29,37,4.0,4.702702702702703,India
+R Mangal,115,113,7.0,6.106194690265487,France
+R McLaren,159,119,6.0,8.016806722689076,South Africa
+R Misra,7,7,0.0,6.0,Canada
+R Mondol,21,12,0.0,10.5,Bangladesh
+R Muriyalo,22,27,0.0,4.888888888888888,Fiji
+R Musamali,280,252,6.0,6.666666666666667,Uganda
+R Nehonde,162,134,7.0,7.253731343283581,Botswana
+R Ngarava,963,769,50.0,7.513654096228868,Zimbabwe
+R Nil,52,43,1.0,7.255813953488372,Seychelles
+R Ntozakhe,107,72,1.0,8.916666666666668,South Africa
+R Oa,173,223,17.0,4.654708520179373,Papua New Guinea
+R Olipa,8,7,0.0,6.857142857142857,Uganda
+R Ova,95,160,10.0,3.5625,Vanuatu
+R Padunglerd,145,154,6.0,5.64935064935065,Thailand
+R Panchal,91,103,2.0,5.300970873786408,Spain
+R Parag,30,24,0.0,7.5,India
+R Parkin,35,28,0.0,7.5,Estonia
+R Pavlickova,119,125,1.0,5.712,Czech Republic
+R Powell,109,61,1.0,10.721311475409836,West Indies
+R Rampaul,216,145,2.0,8.937931034482759,West Indies
+R Ravindra,200,160,10.0,7.5,New Zealand
+R Rijke,223,309,30.0,4.330097087378641,Netherlands
+R Rohmalia,9,23,0.0,2.347826086956522,Indonesia
+R Sai Kishore,12,26,3.0,2.769230769230769,India
+R Sakurano-Thomas,114,105,10.0,6.514285714285714,Japan
+R Samson,260,316,17.0,4.936708860759494,Nigeria
+R Sandeep,43,64,3.0,4.03125,Eswatini
+R Satheesan,135,117,6.0,6.9230769230769225,Romania
+R Sewwandi,71,42,2.0,10.142857142857142,Sri Lanka
+R Sharma,87,58,5.0,9.0,Singapore
+R Shepherd,1158,735,49.0,9.453061224489796,West Indies
+R Sheshadri,20,18,1.0,6.666666666666667,Singapore
+R Shimwamana,134,270,14.0,2.977777777777778,Rwanda
+R Siriwardena,104,85,8.0,7.341176470588236,Cyprus
+R Siwa,13,15,1.0,5.2,France
+R Slater,349,314,16.0,6.668789808917198,Scotland
+R Smith,90,78,5.0,6.9230769230769225,Bahamas
+R Sutton,6,10,1.0,3.6,Hong Kong
+R Thapliyal,39,25,2.0,9.36,Belgium
+R Trumpelmann,584,475,34.0,7.376842105263158,Namibia
+R Vinay Kumar,167,136,9.0,7.36764705882353,India
+RA Abolarin,86,77,4.0,6.7012987012987,Nigeria
+RA Jadeja,860,730,34.0,7.068493150684931,India
+RA Lewis,32,25,1.0,7.68,Ireland
+RA Mair,366,343,18.0,6.402332361516035,New Zealand
+RA Tappin,19,16,0.0,7.125,Bahamas
+RAJ Smith,31,18,0.0,10.333333333333334,Scotland
+RAS Lakmal,206,125,5.0,9.888,Sri Lanka
+RC Belbashi,436,589,23.0,4.441426146010187,Nepal
+RD Atangana,63,82,5.0,4.609756097560975,Cameroon
+RD Berrington,318,250,8.0,7.632,Scotland
+RD Chahar,59,43,1.0,8.232558139534884,India
+RD Pangestuti,50,61,1.0,4.918032786885246,Indonesia
+RD de Sousa,98,160,7.0,3.675,Brazil
+RDB Ahir,131,87,3.0,9.03448275862069,Panama
+RE Francis,30,32,0.0,5.625,Tanzania
+RE van der Merwe,587,546,31.0,6.450549450549451,Netherlands
+RG Aga,56,70,6.0,4.800000000000001,Kenya
+RG Mukasa,41,42,0.0,5.857142857142857,Uganda
+RG Sharma,55,38,1.0,8.68421052631579,India
+RG Somashekhar,22,31,1.0,4.258064516129032,Sweden
+RH Candy,14,27,1.0,3.1111111111111107,New Zealand
+RJ Akram,11,12,0.0,5.5,Philippines
+RJ Campbell,26,25,1.0,6.24,Hong Kong
+RJ Gleeson,105,82,5.0,7.682926829268293,England
+RJ Harris,67,50,3.0,8.040000000000001,Australia
+RJ Hatchman,208,104,4.0,12.0,Gibraltar
+RJ Nicol,80,69,4.0,6.956521739130436,New Zealand
+RJ Peterson,161,147,11.0,6.571428571428572,South Africa
+RJ Pierre,89,51,0.0,10.470588235294118,Rwanda
+RJ Sidebottom,296,239,14.0,7.430962343096233,England
+RJ Trott,177,169,12.0,6.284023668639053,Bermuda
+RJG Palmer,58,61,2.0,5.704918032786885,Jersey
+RJW Topley,519,354,8.0,8.796610169491526,England
+RK Kiseto,68,56,3.0,7.285714285714285,Tanzania
+RK Kleinveldt,94,70,7.0,8.057142857142857,South Africa
+RK Parwin,38,50,4.0,4.5600000000000005,India
+RK Paudel,112,97,6.0,6.927835051546391,Nepal
+RK Raval,9,10,0.0,5.4,Singapore
+RK Willis,15,12,0.0,7.5,Scotland
+RL Blake,26,25,1.0,6.24,Romania
+RL Chase,445,407,20.0,6.560196560196561,West Indies
+RL D'Souza,49,41,0.0,7.170731707317072,Bahrain
+RL Grundy,163,185,10.0,5.286486486486487,England
+RL Haynes,28,18,0.0,9.333333333333334,Australia
+RLB Rambukwella,19,24,1.0,4.75,Sri Lanka
+RM D'Souza,15,8,0.0,11.25,Kuwait
+RM Dorji,283,220,14.0,7.718181818181819,Bhutan
+RM Farrell,286,297,19.0,5.777777777777778,Australia
+RM Haq,154,144,12.0,6.416666666666666,Scotland
+RM Hira,236,182,8.0,7.780219780219781,New Zealand
+RM Koda,738,697,35.0,6.352941176470589,Indonesia
+RM Magare,88,78,2.0,6.769230769230769,Czech Republic
+RM West,125,93,2.0,8.064516129032258,Ireland
+RMAM Avery,109,125,11.0,5.232,Brazil
+RML Taylor,66,55,3.0,7.199999999999999,Scotland
+RMS Eranga,58,45,3.0,7.733333333333334,Sri Lanka
+RN Patel,46,36,3.0,7.666666666666666,Kenya
+RN ten Doeschate,163,131,10.0,7.465648854961832,Netherlands
+RO Mazumba,29,29,1.0,6.0,Mozambique
+ROC Dunka,345,259,9.0,7.992277992277993,Cayman Islands
+RP Burl,607,484,22.0,7.524793388429753,Zimbabwe
+RP Meredith,36,24,1.0,9.0,Australia
+RP Mitchell,82,55,3.0,8.945454545454545,Bahamas
+RP Singh,269,246,20.0,6.560975609756097,United States of America
+RP Yadav,1047,904,59.0,6.949115044247788,India
+RR Behera,5,6,0.0,5.0,United States of America
+RR Emrit,133,73,4.0,10.931506849315069,West Indies
+RR Hendricks,12,6,0.0,12.0,South Africa
+RR Joshi,117,74,3.0,9.486486486486488,Canada
+RR Patel,408,408,26.0,6.0,Kenya
+RR Saun,18,13,0.0,8.307692307692307,Costa Rica
+RR Seth,114,134,8.0,5.104477611940299,Singapore
+RR Sharan,158,135,5.0,7.022222222222222,Cambodia
+RR Simmonds,40,32,4.0,7.5,West Indies
+RR Watson,55,37,2.0,8.91891891891892,Scotland
+RS Bopara,241,205,13.0,7.053658536585365,England
+RS Gayakwad,535,480,25.0,6.6875,India
+RS Glen,28,18,0.0,9.333333333333334,Scotland
+RS Quyn,139,123,4.0,6.7804878048780495,Qatar
+RS Williams,18,13,1.0,8.307692307692307,West Indies
+RSK Samson,14,12,2.0,7.0,Vanuatu
+RSM Lili'i,28,40,4.0,4.199999999999999,Samoa
+RT Lyons,28,24,2.0,7.0,Scotland
+RTM Mendis,48,46,2.0,6.260869565217391,Sri Lanka
+RV Auora,50,38,0.0,7.894736842105264,Cook Islands
+RV Hawkins,74,100,4.0,4.44,Scotland
+RV Nascimento,40,33,1.0,7.272727272727273,Brazil
+RV Scholes,46,73,4.0,3.780821917808219,Scotland
+RV Viraj,32,12,2.0,16.0,Cambodia
+RW Price,131,105,5.0,7.485714285714286,Zimbabwe
+Raag Kapur,44,37,2.0,7.135135135135135,Hong Kong
+Raaz Mohammad,226,184,8.0,7.369565217391304,Finland
+Rabbjyot Rajput,68,74,3.0,5.513513513513514,Canada
+Rabeya Khan,340,393,29.0,5.190839694656488,Bangladesh
+Rabia Mushtaq,74,66,5.0,6.727272727272727,Spain
+Rabia Sahan,24,33,2.0,4.363636363636363,Turkey
+Rachel Delaney,47,45,3.0,6.266666666666668,Ireland
+Rafaqat Ali,25,9,0.0,16.666666666666664,Norway
+Rafiullah,230,152,2.0,9.078947368421051,Oman
+Ragne Hallik,140,141,5.0,5.957446808510638,Estonia
+Rahat Ali,79,58,1.0,8.172413793103448,Czech Republic
+Rahat Kazi,42,40,0.0,6.300000000000001,Timor-Leste
+Rahim Khan,32,30,0.0,6.4,Malaysia
+Rahman Ademi,37,33,1.0,6.727272727272727,Serbia
+Rahmatullah Mangal,198,201,19.0,5.91044776119403,France
+Raihan Hossain,55,38,1.0,8.68421052631579,Timor-Leste
+Raja Adeel,403,390,26.0,6.200000000000001,Spain
+Rakibul Hasan,75,72,5.0,6.25,Bangladesh
+Ram Krishan,16,6,0.0,16.0,Estonia
+Ramanjot Singh,24,12,0.0,12.0,Slovenia
+Rameen Shamim,145,133,4.0,6.541353383458647,Pakistan
+Rameesha Shahid,147,114,4.0,7.736842105263157,Germany
+Rameez Khan,68,58,1.0,7.034482758620689,Romania
+Rashid Khan,97,47,3.0,12.382978723404255,New Zealand
+Rashidatu Salia,22,20,0.0,6.6000000000000005,Other
+Raunaq Kapur,24,12,1.0,12.0,Croatia
+Ravi Bishnoi,349,304,19.0,6.8881578947368425,India
+Raza Hasan,136,136,5.0,6.0,Pakistan
+Raza Iqbal,191,210,13.0,5.457142857142857,Norway
+Raza-ur-Rehman,58,54,2.0,6.444444444444445,Canada
+Reehana Khan,22,43,5.0,3.069767441860465,Namibia
+Regina Khan,78,75,3.0,6.24,Italy
+Rehan Ahmed,135,85,2.0,9.529411764705882,England
+Renuka Singh,749,696,41.0,6.456896551724137,India
+Rhyda Ofori,13,14,0.0,5.571428571428571,Other
+Rhys Burinaga,33,24,4.0,8.25,Philippines
+Riaz Afridi,67,40,2.0,10.05,Czech Republic
+Riazat Ali Shah,613,538,34.0,6.8364312267658,Uganda
+Rida Syeda,120,68,0.0,10.588235294117649,Saudi Arabia
+Rinitha Rajith,7,15,1.0,2.8,United Arab Emirates
+Rishad Hossain,776,567,34.0,8.211640211640212,Bangladesh
+Rishitha Rajith,8,9,0.0,5.333333333333333,United Arab Emirates
+Ritik Tomar,138,95,4.0,8.715789473684211,Czech Republic
+Ritu Moni,290,306,16.0,5.686274509803921,Bangladesh
+Riya Pradhan,16,25,1.0,3.84,Bhutan
+Riya Sharma,210,238,5.0,5.294117647058823,Nepal
+Riyaa Bhasin,14,32,4.0,2.625,Singapore
+Rizwan Butt,1044,933,79.0,6.713826366559485,Bahrain
+Rizwan Cheema,132,103,4.0,7.689320388349515,Canada
+Rizwan Haider,240,229,15.0,6.2882096069869,Malaysia
+Robert Raina,94,101,14.0,5.584158415841585,Thailand
+Robiul Khan,26,20,1.0,7.800000000000001,Spain
+Rohan Bhavesh Patel,22,19,1.0,6.947368421052632,Bulgaria
+Rohan Mustafa,446,404,39.0,6.623762376237624,United Arab Emirates
+Roheed Akhtar,209,192,6.0,6.53125,Qatar
+Ronald Ebanks,54,75,5.0,4.32,Cayman Islands
+Ronitkumar Ahir,11,25,4.0,2.64,Panama
+Roopa Nagraj,10,12,0.0,5.0,United Arab Emirates
+Rosine Irera,307,504,40.0,3.654761904761904,Rwanda
+Rubel Hossain,542,324,18.0,10.037037037037038,Bangladesh
+Ruchitha Venkatesh,327,394,13.0,4.979695431472081,Hong Kong
+Rudolph Fox,38,26,0.0,8.769230769230768,Bahamas
+Rumaisa Jawad Nasir,56,38,2.0,8.842105263157894,Saudi Arabia
+Rumana Ahmed,685,707,48.0,5.8132956152758135,Bangladesh
+Rumeysa Alp,32,18,0.0,10.666666666666666,Turkey
+Rumman Raees,36,42,1.0,5.142857142857142,Pakistan
+Rupesh Singh,100,65,2.0,9.230769230769232,Nepal
+S Akiteng,636,831,46.0,4.592057761732852,Uganda
+S Arachchige,15,12,2.0,7.5,Italy
+S Asha,85,72,2.0,7.083333333333334,India
+S Austin,37,44,4.0,5.045454545454546,Cyprus
+S Badree,644,561,25.0,6.887700534759358,West Indies
+S Baker,52,25,0.0,12.48,England
+S Banamali,55,24,0.0,13.75,Singapore
+S Basharat,22,28,1.0,4.714285714285714,Spain
+S Bau,224,176,6.0,7.636363636363637,Papua New Guinea
+S Bevin,15,10,0.0,9.0,Croatia
+S Bhanushali,57,50,4.0,6.84,Sweden
+S Bhardwaj,23,38,2.0,3.631578947368421,Austria
+S Bhari,103,80,5.0,7.725,Nepal
+S Bist,98,131,4.0,4.488549618320611,Nepal
+S Bodha,395,291,23.0,8.144329896907216,Gibraltar
+S Borakambi,17,25,2.0,4.08,Tanzania
+S Budhathoki,36,57,5.0,3.789473684210526,Malta
+S Burdekin,98,89,6.0,6.606741573033708,Cyprus
+S Channa,69,53,2.0,7.811320754716981,Oman
+S Chaturongrattana,191,291,19.0,3.938144329896907,Thailand
+S Chaudhary,78,72,5.0,6.5,Czech Republic
+S Chinawa,5,8,0.0,3.75,Malawi
+S Choden,139,139,5.0,6.0,Bhutan
+S Cholasseri,36,30,1.0,7.199999999999999,Malta
+S Conteh,321,342,27.0,5.631578947368421,Sierra Leone
+S Crowie,48,60,4.0,4.800000000000001,St Helena
+S Dabholkatr,89,147,6.0,3.63265306122449,Switzerland
+S Davizi,98,60,2.0,9.8,Czech Republic
+S Desungnoen,218,200,10.0,6.540000000000001,Thailand
+S Devata,9,12,2.0,4.5,Sweden
+S Dhadwal,220,220,14.0,6.0,Qatar
+S Dhakal,93,56,1.0,9.964285714285715,Nepal
+S Dharnidharka,461,564,31.0,4.904255319148937,United Arab Emirates
+S Draunivudi,24,12,0.0,12.0,Fiji
+S Dube,245,185,10.0,7.945945945945946,India
+S Dunukedeniya,60,105,8.0,3.4285714285714284,Cyprus
+S Dzimau,8,8,0.0,6.0,Malawi
+S Ecclestone,1100,1040,68.0,6.346153846153847,England
+S Elmsjoo,54,69,6.0,4.695652173913044,Sweden
+S Farooq,72,102,3.0,4.235294117647059,United States of America
+S Foster,22,6,0.0,22.0,Cayman Islands
+S Fouché,17,12,0.0,8.5,Namibia
+S Franklin,27,22,0.0,7.363636363636363,Switzerland
+S Gajnabi,81,55,1.0,8.836363636363636,West Indies
+S Galabova,30,23,0.0,7.826086956521739,Bulgaria
+S Gasteratos,51,56,5.0,5.464285714285714,Greece
+S Georgota,243,253,14.0,5.762845849802371,Greece
+S Gill,191,201,10.0,5.701492537313433,Kenya
+S Gimhani,24,18,1.0,8.0,Sri Lanka
+S Glenn,586,566,35.0,6.212014134275618,England
+S Godara,176,213,16.0,4.95774647887324,Cambodia
+S Gokhale,26,51,4.0,3.0588235294117645,United Arab Emirates
+S Gooch,316,270,21.0,7.022222222222222,Estonia
+S Haggo,36,55,4.0,3.9272727272727272,Scotland
+S Hanson,38,36,1.0,6.333333333333334,Jersey
+S Hector,50,39,1.0,7.692307692307693,West Indies
+S Horley,48,37,3.0,7.783783783783784,Scotland
+S Hunter,23,24,0.0,5.75,Turks and Caicos Island
+S Hussein,42,54,2.0,4.666666666666667,Malawi
+S Immadi,187,205,5.0,5.4731707317073175,United States of America
+S Ingabire,98,112,8.0,5.25,Rwanda
+S Ishaque,60,50,4.0,7.199999999999999,India
+S Ismail,1108,1075,55.0,6.184186046511629,South Africa
+S Jamil,30,13,1.0,13.846153846153843,Belgium
+S Jayasinghe,97,83,4.0,7.0120481927710845,Bahrain
+S Jeelany,8,16,4.0,3.0,Oman
+S Jegannathan,86,99,6.0,5.212121212121213,Indonesia
+S Jimmy,244,328,29.0,4.463414634146341,Papua New Guinea
+S Joseph,246,176,11.0,8.386363636363637,West Indies
+S Kailath,98,72,1.0,8.166666666666668,Austria
+S Kamate,60,49,3.0,7.346938775510204,Mali
+S Kananji,203,250,13.0,4.872,Malawi
+S Kanankege,173,169,3.0,6.142011834319526,Italy
+S Kaneria,36,34,2.0,6.352941176470589,Belgium
+S Kato,203,229,7.0,5.318777292576419,Japan
+S Kaul,36,24,3.0,9.0,India
+S Khadka,26,33,2.0,4.727272727272727,Nepal
+S Kharvi,20,20,4.0,6.0,Indonesia
+S Khatiwada,1,12,1.0,0.5,Nepal
+S Khatri,50,32,0.0,9.375,Malta
+S Kijiana,66,72,3.0,5.5,Fiji
+S Kizito,100,144,4.0,4.166666666666666,Tanzania
+S Kolcharam,127,99,5.0,7.696969696969697,Germany
+S Kolcunova,242,219,4.0,6.63013698630137,Czech Republic
+S Koppolu,205,146,4.0,8.424657534246576,Slovenia
+S Kotte,188,292,16.0,3.863013698630137,United Arab Emirates
+S Kruger,27,24,0.0,6.75,Argentina
+S Kucuksucu,38,31,2.0,7.35483870967742,Croatia
+S Kushretha,203,169,9.0,7.207100591715976,Luxembourg
+S Lackay,59,24,2.0,14.75,South Africa
+S Lamichhane,932,934,72.0,5.987152034261242,Nepal
+S Laomi,524,721,47.0,4.360610263522885,Thailand
+S Lateh,44,35,1.0,7.542857142857143,Thailand
+S Linden,23,15,0.0,9.2,Sweden
+S Loubser,167,152,5.0,6.592105263157894,South Africa
+S Lundell,8,12,1.0,4.0,Sweden
+S Luus,585,466,15.0,7.532188841201716,South Africa
+S Mabuza,165,128,3.0,7.734375,Eswatini
+S MacMahon,136,153,6.0,5.333333333333333,Ireland
+S Maduranga,223,163,10.0,8.208588957055216,South Korea
+S Magar,38,61,1.0,3.737704918032787,Nepal
+S Mahmood,474,305,19.0,9.324590163934426,England
+S Matijevic,116,142,9.0,4.901408450704226,Serbia
+S Meyenborg,21,26,4.0,4.846153846153847,Germany
+S Miyaji,68,73,2.0,5.58904109589041,Japan
+S Molineux,404,402,19.0,6.029850746268657,Australia
+S Mosweu,191,162,4.0,7.0740740740740735,Botswana
+S Mtae,21,24,5.0,5.25,Tanzania
+S Muniandy,562,410,21.0,8.22439024390244,Malaysia
+S Murari,50,67,2.0,4.477611940298508,Costa Rica
+S Muthusamy,70,66,3.0,6.363636363636363,South Africa
+S Nadigotla,30,26,3.0,6.9230769230769225,Romania
+S Naidu,77,62,0.0,7.451612903225806,South Africa
+S Nair,74,77,3.0,5.766233766233766,Oman
+S Nampiina,163,189,16.0,5.174603174603175,Uganda
+S Namusha,48,126,4.0,2.2857142857142856,Namibia
+S Nisansala,122,94,2.0,7.787234042553191,Sri Lanka
+S Nitschke,46,49,2.0,5.63265306122449,Australia
+S Nsubuga,132,122,7.0,6.491803278688526,Uganda
+S Nunna,89,80,2.0,6.675000000000001,Bahrain
+S Ogundipe,11,19,0.0,3.473684210526316,Nigeria
+S Ostergaard,67,96,7.0,4.1875,Denmark
+S Ozkunduz,45,46,1.0,5.869565217391305,Turkey
+S Pandey,517,419,16.0,7.403341288782816,India
+S Pattenden,39,39,0.0,6.0,Estonia
+S Pillai,98,122,6.0,4.819672131147541,Costa Rica
+S Pitabeddara,23,12,0.0,11.5,South Korea
+S Pradhan,240,205,13.0,7.024390243902438,Bhutan
+S Prasanna,203,178,6.0,6.842696629213483,Sri Lanka
+S Ramakrishnan,14,7,0.0,12.0,Czech Republic
+S Ramautar,47,59,3.0,4.779661016949152,United States of America
+S Rana,224,227,14.0,5.920704845814978,India
+S Ranade,10,8,0.0,7.5,Japan
+S Randiv,106,104,8.0,6.115384615384615,Sri Lanka
+S Ravichandran,162,200,23.0,4.86,Japan
+S Ravikumar,95,97,4.0,5.876288659793814,Costa Rica
+S Ravoka,94,73,5.0,7.726027397260275,Fiji
+S Rengarajan,29,19,1.0,9.157894736842106,Czech Republic
+S Rokuad,33,26,0.0,7.615384615384615,France
+S Rossi,74,50,0.0,8.879999999999999,Argentina
+S Rukmal,147,128,3.0,6.890625,Seychelles
+S Sadarangani,143,138,6.0,6.217391304347826,Germany
+S Saeed,44,36,2.0,7.333333333333334,Maldives
+S Sajana,24,13,0.0,11.076923076923077,India
+S Samuels,114,96,2.0,7.125,Cook Islands
+S Sarandeva,192,157,6.0,7.337579617834395,Bulgaria
+S Sarthak,74,54,4.0,8.222222222222223,Bahrain
+S Selvaraj,100,92,2.0,6.521739130434782,Tanzania
+S Sengupta,107,77,3.0,8.337662337662337,Czech Republic
+S Sharma,14,18,1.0,4.666666666666667,India
+S Shrivastava,233,176,7.0,7.943181818181818,Oman
+S Siegers,614,651,30.0,5.658986175115207,Netherlands
+S Sigaiwasa,106,129,9.0,4.930232558139535,Fiji
+S Simic,50,70,2.0,4.285714285714286,Serbia
+S Singh,8,6,0.0,8.0,Kenya
+S Smith,24,13,2.0,11.076923076923077,Bermuda
+S Snater,229,131,10.0,10.48854961832061,Netherlands
+S Sola,73,55,4.0,7.963636363636365,Samoa
+S Solman,192,221,7.0,5.212669683257919,Vanuatu
+S Sreesanth,119,70,2.0,10.2,India
+S Stanikzay,54,49,2.0,6.612244897959183,France
+S Sugaya-Slater,33,20,0.0,9.9,Japan
+S Tabuisulu,102,76,2.0,8.052631578947368,Fiji
+S Talamarla,25,30,2.0,5.0,Czech Republic
+S Tarawally,84,94,2.0,5.361702127659575,Sierra Leone
+S Thakor,379,444,30.0,5.121621621621622,Tanzania
+S Thakur,56,37,0.0,9.08108108108108,Romania
+S Thanikaithasan,15,12,0.0,7.5,Denmark
+S Thapa,147,169,15.0,5.218934911242604,Qatar
+S Tino,10,39,2.0,1.5384615384615383,Uganda
+S Tippoch,319,400,24.0,4.785,Thailand
+S Tobgay,50,24,0.0,12.5,Bhutan
+S Tosic,203,104,6.0,11.711538461538462,Serbia
+S Tuhadeleni,239,338,27.0,4.242603550295858,Namibia
+S Tyagi,21,13,0.0,9.692307692307692,India
+S Vaia,83,96,2.0,5.1875,Cook Islands
+S Vashisht,253,277,22.0,5.48014440433213,Romania
+S Vasilakis,44,38,1.0,6.947368421052632,Greece
+S Vats,141,83,3.0,10.19277108433735,Luxembourg
+S Vaz,45,38,2.0,7.105263157894736,Portugal
+S Veerapathiran,575,402,28.0,8.582089552238806,Bahrain
+S Venkataraman,65,66,4.0,5.909090909090909,United Arab Emirates
+S Vesawkar,42,30,0.0,8.399999999999999,Nepal
+S Vijay Unni,562,585,38.0,5.764102564102564,Malaysia
+S Vijayakumar,37,48,2.0,4.625,Singapore
+S Vithayathil,8,18,2.0,2.6666666666666665,Turks and Caicos Island
+S Walaza,255,267,15.0,5.730337078651686,Uganda
+S Waqas Ahmed,43,33,3.0,7.818181818181818,Norway
+S Weleilakeba,33,20,0.0,9.9,Fiji
+S Wetoto,102,106,12.0,5.773584905660377,Kenya
+S Wickramasekara,249,220,14.0,6.790909090909091,Czech Republic
+S Williams,262,230,9.0,6.834782608695653,Sierra Leone
+S Yenamandra,30,31,1.0,5.806451612903226,Belgium
+S Yeshi,349,330,18.0,6.345454545454546,Bhutan
+S Yildirim,2,16,3.0,0.75,Turkey
+S di Bartolomeo,85,100,10.0,5.1,Italy
+SA Abbott,521,375,24.0,8.336,Australia
+SA Ahmad,228,235,15.0,5.82127659574468,Denmark
+SA Akenji,91,75,3.0,7.28,Cameroon
+SA Campbelle,242,253,13.0,5.739130434782609,West Indies
+SA Engelbrecht,22,18,2.0,7.333333333333334,Netherlands
+SA Jumbe,803,613,40.0,7.859706362153344,Tanzania
+SA Mohandas,319,272,13.0,7.036764705882353,Hungary
+SA Okpe,496,544,38.0,5.470588235294118,Nigeria
+SA Panayan,306,277,15.0,6.628158844765343,Qatar
+SA Pradhan,56,37,1.0,9.08108108108108,Singapore
+SA Wittmann,389,519,26.0,4.497109826589596,Namibia
+SA van Breda,10,6,0.0,10.0,Jersey
+SACA King,96,95,3.0,6.063157894736842,West Indies
+SAN Maypriani,177,266,13.0,3.992481203007519,Indonesia
+SB Chamundaiah,49,50,2.0,5.88,Austria
+SB Styris,198,171,10.0,6.947368421052632,New Zealand
+SC Getkate,205,150,6.0,8.2,Ireland
+SC Kuggeleijn,215,169,9.0,7.633136094674557,New Zealand
+SC Kumari,31,38,2.0,4.894736842105263,Nepal
+SC Meaker,45,27,1.0,10.0,England
+SC Selman,500,445,19.0,6.741573033707866,West Indies
+SC Williams,667,591,23.0,6.771573604060913,Zimbabwe
+SC van Schalkwyk,209,134,11.0,9.35820895522388,United States of America
+SCJ Broad,972,737,42.0,7.913161465400272,England
+SD Bahadur,69,45,1.0,9.2,India
+SD Parry,23,12,0.0,11.5,England
+SD Ranawaka,57,52,1.0,6.5769230769230775,Bahrain
+SD Valjalo,78,44,5.0,10.636363636363637,Croatia
+SDJJ Dima,121,84,4.0,8.642857142857142,Mozambique
+SE Aley,39,26,0.0,9.0,Australia
+SE Bond,194,188,11.0,6.191489361702128,New Zealand
+SE Rutherford,64,39,3.0,9.846153846153848,West Indies
+SEA Ruck,41,48,3.0,5.125,New Zealand
+SF Daley,250,290,21.0,5.172413793103448,West Indies
+SF Jerome,168,226,11.0,4.460176991150442,Tanzania
+SF Mire,86,50,0.0,10.32,Zimbabwe
+SF Nhavotso,33,18,1.0,11.0,Mozambique
+SF Tiai,181,145,7.0,7.489655172413793,Samoa
+SFM Devine,826,719,44.0,6.892906815020861,New Zealand
+SFS Cheema,166,121,12.0,8.231404958677686,Austria
+SG Borthwick,15,24,1.0,3.75,England
+SG Diaby,51,57,2.0,5.368421052631579,Mali
+SG Whittingham,46,38,2.0,7.263157894736842,Scotland
+SH Johnson,103,69,3.0,8.956521739130434,Australia
+SH Lawlor,46,37,2.0,7.45945945945946,Luxembourg
+SH Obed,108,84,5.0,7.714285714285715,Vanuatu
+SHA Rance,218,142,10.0,9.211267605633802,New Zealand
+SI Bara,11,45,2.0,1.4666666666666666,Indonesia
+SI Kamea,375,309,14.0,7.281553398058252,Papua New Guinea
+SI Mahmood,95,52,2.0,10.961538461538462,England
+SIP Fernando,473,452,29.0,6.278761061946902,Sri Lanka
+SIR Dunkley,13,24,1.0,3.25,England
+SJ Benn,585,456,15.0,7.697368421052632,West Indies
+SJ Bruce,46,40,2.0,6.9,Barbados
+SJ Coyte,151,181,17.0,5.0055248618784525,Australia
+SJ Harmison,30,26,0.0,6.9230769230769225,England
+SJ Hughes-Pinan,61,99,2.0,3.696969696969697,Spain
+SJ Patel,74,56,4.0,7.928571428571429,Czech Republic
+SK Atai,71,62,3.0,6.870967741935484,Papua New Guinea
+SK Awiah,180,181,17.0,5.966850828729282,Ghana
+SK Dolawatte,13,18,3.0,4.333333333333333,Sri Lanka
+SK Naidu,18,18,0.0,6.0,India
+SK Raina,217,181,9.0,7.193370165745856,India
+SK Rana,5,7,0.0,4.285714285714286,Qatar
+SK Ravuri,70,108,9.0,3.888888888888889,Sweden
+SK Reddy,7,20,3.0,2.1,Austria
+SK Sonpethkar,33,29,1.0,6.827586206896552,Singapore
+SK Springer,85,52,5.0,9.807692307692308,West Indies
+SKDT Madusanka,145,81,5.0,10.74074074074074,Seychelles
+SKR Mallidi,35,20,1.0,10.5,Sweden
+SKS Gill,151,93,3.0,9.741935483870968,Luxembourg
+SL Gomez,90,79,1.0,6.835443037974684,Kuwait
+SL Kalis,15,15,1.0,6.0,Netherlands
+SL Malinga,1151,923,55.0,7.482123510292524,Sri Lanka
+SL Munroe,76,74,2.0,6.162162162162161,West Indies
+SL Quintyne,251,260,10.0,5.792307692307692,West Indies
+SM Ariyasinghage,16,8,0.0,12.0,Austria
+SM Benade,23,51,4.0,2.7058823529411766,South Africa
+SM Boland,31,24,0.0,7.75,Australia
+SM Curran,1052,721,35.0,8.754507628294036,England
+SM Dhakal,44,37,1.0,7.135135135135135,Nepal
+SM Dhanusri,20,28,1.0,4.285714285714286,Malaysia
+SM Harwood,21,24,2.0,5.25,Australia
+SM Mayers,35,30,1.0,7.0,Zimbabwe
+SM Nash,207,151,12.0,8.225165562913906,Samoa
+SM Pollock,233,174,11.0,8.03448275862069,South Africa
+SM Sharif,789,573,37.0,8.261780104712042,Scotland
+SM Sharma,69,25,1.0,16.56,United Arab Emirates
+SM Tupou,90,77,6.0,7.012987012987013,Fiji
+SM Warnakulasuriya,57,42,1.0,8.142857142857142,France
+SMHH Aung,17,7,1.0,14.57142857142857,Myanmar
+SMK Waththage,221,180,7.0,7.366666666666667,Czech Republic
+SMR Ruelas,22,36,1.0,3.666666666666667,Other
+SMSM Senanayake,249,221,10.0,6.760180995475113,Sri Lanka
+SN Netravalkar,564,503,22.0,6.727634194831015,United States of America
+SN Pradhan,30,24,3.0,7.5,India
+SN Shihepo,283,372,26.0,4.564516129032258,Namibia
+SN Thakur,305,206,15.0,8.883495145631068,India
+SNJ O'Keefe,90,74,4.0,7.297297297297297,Australia
+SO Ngoche,1033,938,70.0,6.607675906183369,Kenya
+SO Tikolo,73,57,3.0,7.684210526315789,Kenya
+SP Gauchan,30,24,1.0,7.5,Nepal
+SP Krishnamurthi,13,12,2.0,6.5,United States of America
+SP Narine,351,307,15.0,6.859934853420196,West Indies
+SPD Smith,168,132,8.0,7.636363636363637,Australia
+SPS Shikongo,18,24,2.0,4.5,Namibia
+SPY Baron,11,11,0.0,6.0,France
+SR Bhudia,119,112,3.0,6.375,Kenya
+SR Clark,125,125,8.0,6.0,Australia
+SR Magar,346,485,32.0,4.2804123711340205,Nepal
+SR McAnanama-Brereton,124,101,7.0,7.366336633663366,Germany
+SR Patel,237,174,5.0,8.172413793103448,England
+SR Patil,277,251,19.0,6.621513944223107,India
+SR Rocket,183,141,6.0,7.787234042553191,Seychelles
+SR Taylor,773,799,42.0,5.804755944931164,West Indies
+SR Tendulkar,13,15,2.0,5.2,India
+SR Thadani,108,106,5.0,6.113207547169811,United States of America
+SR Thompson,308,236,13.0,7.830508474576272,Ireland
+SR Watson,779,605,36.0,7.725619834710743,Australia
+SRMJJ Arachchilage,9,6,0.0,9.0,Cyprus
+SS Connell,698,618,27.0,6.776699029126213,West Indies
+SS Cottrell,737,556,30.0,7.953237410071942,West Indies
+SS Grimmond,123,107,9.0,6.897196261682243,West Indies
+SS Kang,140,144,7.0,5.833333333333333,United Arab Emirates
+SS Pathirana,53,30,1.0,10.6,Sri Lanka
+SS Shukla,27,30,3.0,5.4,Bahrain
+SS Weerakkody,104,94,6.0,6.638297872340425,Sri Lanka
+SSB Magala,101,54,2.0,11.222222222222223,South Africa
+SSM Stanislaus,26,12,0.0,13.0,Malta
+ST Eyyunni,32,26,0.0,7.384615384615385,United States of America
+ST Finn,339,272,16.0,7.477941176470589,England
+ST Frohnmayer,119,123,5.0,5.804878048780488,Germany
+ST Jayasuriya,228,159,8.0,8.60377358490566,Sri Lanka
+ST Yalimaiwai,49,38,2.0,7.736842105263157,Fiji
+ST de Silva,10,6,0.0,10.0,Sri Lanka
+STR Binny,46,19,1.0,14.526315789473683,India
+STRA de Silva,77,39,0.0,11.846153846153848,Seychelles
+SV Wiig,45,32,2.0,8.4375,United States of America
+SVE Bharathi,384,458,29.0,5.030567685589519,Germany
+SW Bates,308,277,15.0,6.671480144404333,New Zealand
+SW Masakadza,150,88,4.0,10.227272727272728,Zimbabwe
+SW Tait,290,235,9.0,7.404255319148936,Australia
+SY Win,123,154,13.0,4.792207792207792,Myanmar
+SYD Chan,42,53,0.0,4.754716981132075,Hong Kong
+SZ Vayani,203,155,12.0,7.858064516129032,Malawi
+Saad Bin Zafar,420,457,31.0,5.514223194748359,Canada
+Sabbir Rahman,50,36,1.0,8.333333333333332,Bangladesh
+Saber Zakhil,46,34,1.0,8.117647058823529,Belgium
+Sabikun Nahar Jesmin,28,25,2.0,6.720000000000001,Bangladesh
+Sabir Ali,56,40,2.0,8.399999999999999,Bangladesh
+Sabnam Rai,158,148,5.0,6.405405405405405,Nepal
+Sabreen Zaki,27,23,0.0,7.043478260869566,Kuwait
+Sachin Ganpat Shinde,24,13,0.0,11.076923076923077,Serbia
+Sachin Kumar,103,56,1.0,11.035714285714285,Bahrain
+Sadamali Bhakshala,188,179,6.0,6.301675977653631,Bahrain
+Sadia Iqbal,562,589,29.0,5.7249575551782685,Pakistan
+Sadia Yousuf,541,490,29.0,6.624489795918366,Pakistan
+Saee Parkhi,26,26,0.0,6.0,Bahrain
+Saeed Ahmed,100,63,4.0,9.523809523809524,Sweden
+Saeed Ajmal,740,651,43.0,6.820276497695852,Pakistan
+Saeed Waqar Ali,186,115,5.0,9.704347826086956,Slovenia
+Sagar Pun,24,24,1.0,6.0,Nepal
+Saghir Khan,179,134,10.0,8.014925373134329,United Arab Emirates
+Sahel Zadran,528,434,16.0,7.299539170506913,Austria
+Sahil Chauhan,11,7,0.0,9.428571428571429,Estonia
+Sahir Naqash,433,361,34.0,7.196675900277009,Germany
+Sai Hla Htwe,23,26,2.0,5.307692307692308,Myanmar
+Saif Hassan,51,49,2.0,6.244897959183674,Bangladesh
+Saim Ayub,172,143,7.0,7.216783216783217,Pakistan
+Sajad Ahmadzai,93,94,5.0,5.9361702127659575,Belgium
+Sajedul Islam,15,7,0.0,12.857142857142858,Bangladesh
+Sajid Khan,75,51,1.0,8.823529411764707,Croatia
+Sajid Khan Afridi,67,39,1.0,10.307692307692308,Greece
+Sajid Liaqat,245,168,17.0,8.75,Germany
+Sajid Safi,15,6,0.0,15.0,Belgium
+Salma Khatun,742,858,44.0,5.188811188811189,Bangladesh
+Salman Mirza,172,183,14.0,5.639344262295082,Pakistan
+Salman Nazar,109,81,7.0,8.074074074074074,Canada
+Salvin Stanly,74,61,1.0,7.278688524590164,Cambodia
+Samader Shadab,60,40,2.0,9.0,Greece
+Samarth Shetty,14,12,1.0,7.0,Sweden
+Sameera Khan,189,187,8.0,6.064171122994653,Oman
+Sami Sohail,326,246,20.0,7.951219512195122,Malawi
+Sami Ullah,59,65,4.0,5.446153846153846,Romania
+Samiullah Rahmani,109,81,5.0,8.074074074074074,Sweden
+San Nyo Htwe,5,7,0.0,4.285714285714286,Myanmar
+Sana Mir,855,836,29.0,6.136363636363637,Pakistan
+Sana Ullah,54,44,2.0,7.363636363636363,South Korea
+Sandeep Goud,162,94,3.0,10.340425531914892,Bahamas
+Sandeep Nair,41,26,0.0,9.461538461538462,Bulgaria
+Sandeep Sharma,40,27,1.0,8.88888888888889,India
+Sangay Yangzom,30,20,0.0,9.0,Bhutan
+Sangita Rai,51,64,6.0,4.78125,Nepal
+Sani E Zehra,69,49,1.0,8.448979591836736,Oman
+Sania Khan,154,142,11.0,6.507042253521128,Pakistan
+Saniyah Zia,82,87,6.0,5.655172413793103,Canada
+Sanjay Kumar Ahir,29,29,1.0,6.0,Panama
+Sanjida Akter Meghla,209,250,11.0,5.016,Bangladesh
+Santiago Duggan,66,84,3.0,4.714285714285714,Argentina
+Sapan Mehta,9,6,0.0,9.0,Finland
+Saqib Naveed,33,15,0.0,13.2,Estonia
+Saqib Zulfiqar,26,18,0.0,8.666666666666666,Netherlands
+Saqlain Arshad,65,60,5.0,6.5,Qatar
+Sara,16,14,0.0,6.857142857142857,Saudi Arabia
+Sara Vivek,27,28,0.0,5.785714285714286,Bahrain
+Saran Aslam,8,8,0.0,6.0,Denmark
+Saranya Kotha,49,84,8.0,3.5,Switzerland
+Sarawut Maliwan,389,366,25.0,6.377049180327869,Thailand
+Sareer Shah,197,134,4.0,8.82089552238806,Luxembourg
+Sarfaraj Patel,20,18,2.0,6.666666666666667,Lesotho
+Sarfaraz Ali,536,466,27.0,6.901287553648068,Bahrain
+Sasha Azmi,239,289,13.0,4.961937716262976,Malaysia
+Saud Munir,196,190,19.0,6.189473684210527,Denmark
+Saurabh Kumar,74,36,0.0,12.333333333333332,South Korea
+Sayed Monib,747,576,45.0,7.78125,Kuwait
+Sazib Bhuiyan,451,318,28.0,8.50943396226415,Czech Republic
+Sejal Vinod,11,23,3.0,2.8695652173913047,Switzerland
+Serdar Burak Emir,14,14,0.0,6.0,Turkey
+Seri Chang,77,90,2.0,5.133333333333333,South Korea
+Seungmin Song,59,85,3.0,4.164705882352941,South Korea
+Shadab Khan,1189,960,48.0,7.43125,Pakistan
+Shafali Verma,96,89,5.0,6.47191011235955,India
+Shafat Ali Syed,42,48,5.0,5.25,Spain
+Shafia Hassan,55,56,3.0,5.892857142857142,Singapore
+Shafina Mahesh,381,358,14.0,6.385474860335195,Singapore
+Shafiq Jan,28,24,2.0,7.0,Oman
+Shafiul Islam,296,216,10.0,8.222222222222223,Bangladesh
+Shafiullah Zakhel,48,24,1.0,12.0,Belgium
+Shagharai Sefat,91,79,6.0,6.911392405063291,Belgium
+Shah Abrar Hussain,306,252,17.0,7.285714285714285,Cambodia
+Shah Faisal,231,198,12.0,7.0,Oman
+Shahab Alam,143,96,5.0,8.9375,Nepal
+Shahadat Hossain,153,80,2.0,11.475,Bangladesh
+Shahbaz Ahmed,13,13,1.0,6.0,India
+Shaheen Shah Afridi,1298,1018,73.0,7.650294695481335,Pakistan
+Shahid Afridi,1380,1169,47.0,7.082976903336185,Pakistan
+Shahid Mahmood,128,106,5.0,7.245283018867925,Bahrain
+Shahil Momin,142,127,3.0,6.708661417322835,Austria
+Shahnawaz Dhani,169,113,5.0,8.97345132743363,Pakistan
+Shahreeennawab,170,151,5.0,6.754966887417218,Qatar
+Shahrukh Quddus,232,167,7.0,8.335329341317365,Kuwait
+Shahzaib,28,25,2.0,6.720000000000001,Saudi Arabia
+Shahzeb Choudhry,13,26,2.0,3.0,Sweden
+Shaik Basha,122,71,7.0,10.309859154929576,Tanzania
+Shaila Sharmin,36,25,0.0,8.64,Bangladesh
+Shakeel Ahmed,515,468,18.0,6.602564102564103,Oman
+Shakerullah Safi,5,6,0.0,5.0,Denmark
+Shakib Al Hasan,1508,1226,59.0,7.38009787928222,Bangladesh
+Shamim Hossain,93,81,3.0,6.888888888888889,Bangladesh
+Shamma Ali,126,100,5.0,7.56,Maldives
+Shamsullah Ehsan,67,46,3.0,8.73913043478261,Turkey
+Shan Siddiqui,19,16,0.0,7.125,Gambia
+Shantanu Kaveri,78,112,9.0,4.178571428571429,Mexico
+Shariq Munir,63,43,1.0,8.790697674418604,Qatar
+Shariz Ahmad,131,92,6.0,8.543478260869566,Netherlands
+Shashikant Laxman,152,154,10.0,5.922077922077922,Mexico
+Shayan Khan,21,13,1.0,9.692307692307692,Estonia
+Sheikh Rasik,125,116,5.0,6.465517241379311,Hungary
+Shenjian Zheng,32,7,0.0,27.428571428571427,China
+Sher Sahak,120,104,7.0,6.9230769230769225,Norway
+Sheraz Sheikh,140,103,8.0,8.155339805825243,Belgium
+Sheraz Sirwari,61,37,3.0,9.891891891891891,Switzerland
+Shiraz Khan,591,587,32.0,6.040885860306644,Kuwait
+Shivam Mavi,83,47,1.0,10.595744680851064,India
+Shivam Sharma,41,48,5.0,5.125,Canada
+Shivani Sati,9,8,1.0,6.75,Luxembourg
+Shoaib Akhtar,151,111,6.0,8.162162162162163,Pakistan
+Shoaib Ali,23,25,1.0,5.5200000000000005,Eswatini
+Shoaib Malik,397,332,16.0,7.174698795180722,Pakistan
+Shoaib Rafiq,83,133,8.0,3.74436090225564,Mexico
+Shohely Akhter,38,54,6.0,4.222222222222222,Bangladesh
+Shorifa Khatun,123,86,2.0,8.58139534883721,Bangladesh
+Shoriful Islam,993,674,37.0,8.839762611275965,Bangladesh
+Shorna Akter,144,109,7.0,7.926605504587156,Bangladesh
+Shunan Ali,154,138,10.0,6.695652173913044,Maldives
+Shuvagata Hom,40,36,1.0,6.666666666666667,Bangladesh
+Sidhant Singh,64,39,3.0,9.846153846153848,Singapore
+Sikandar Raza,919,839,49.0,6.572109654350417,Zimbabwe
+Sikander Zulfiqar,8,6,0.0,8.0,Netherlands
+Sikder Billah,20,12,1.0,10.0,Bahrain
+Simi Singh,541,451,20.0,7.197339246119734,Ireland
+Simrah Mirza,66,45,1.0,8.799999999999999,Saudi Arabia
+Sinan Khan,57,33,3.0,10.363636363636363,Greece
+Siow Tzin Yee,47,58,4.0,4.862068965517241,Malaysia
+Sirajullah Khadim,254,255,13.0,5.976470588235294,Portugal
+Smriti Anand,21,19,0.0,6.631578947368421,Singapore
+Smruthi Radhakrishnan,51,51,1.0,6.0,Singapore
+Snigdha Paul,43,38,2.0,6.789473684210526,United States of America
+Sobu George,19,6,0.0,19.0,Malta
+Sofia Mardones,77,50,2.0,9.24,Other
+Sohag Gazi,218,148,4.0,8.837837837837839,Bangladesh
+Sohail Ahmad,72,34,2.0,12.705882352941178,Croatia
+Sohail Ahmed,41,25,0.0,9.84,Bahrain
+Sohail Tanvir,852,704,37.0,7.261363636363637,Pakistan
+Sohel Patel,26,18,0.0,8.666666666666666,Panama
+Sok Srey Maov,109,109,4.0,6.0,Cambodia
+Sompal Kami,950,859,44.0,6.635622817229336,Nepal
+Sonam,176,190,11.0,5.557894736842105,Bhutan
+Song Yangyang,13,8,0.0,9.75,West Indies
+Soniya Dabir,18,24,1.0,4.5,India
+Soumya Sarkar,257,176,8.0,8.761363636363637,Bangladesh
+Soyeb Pendi,112,102,9.0,6.588235294117648,Zambia
+Suabika Manivannan,89,78,4.0,6.846153846153846,Malaysia
+Sufiyan Muqeem,77,64,8.0,7.21875,Pakistan
+Sufyan Mehmood,315,252,17.0,7.5,Oman
+Suhail Sattar,54,50,3.0,6.48,Timor-Leste
+Suhrawadi Shuvo,12,6,0.0,12.0,Bangladesh
+Sukhjinder Singh,41,54,2.0,4.555555555555555,Canada
+Sukhkaran Sahi,15,19,0.0,4.7368421052631575,Romania
+Sulaiman Ali,160,101,4.0,9.504950495049506,Bulgaria
+Sulaimon Runsewe,14,12,1.0,7.0,Nigeria
+Sultan Ahmed,189,166,8.0,6.831325301204819,United Arab Emirates
+Sultana Khatun,185,164,9.0,6.768292682926829,Bangladesh
+Sumaiya Siddiqi,84,100,3.0,5.04,Pakistan
+Suman Ghimire,47,39,2.0,7.23076923076923,Portugal
+Sumayya Abdul,110,73,0.0,9.04109589041096,Maldives
+Sumit Singh,18,12,1.0,9.0,Finland
+Suraiya Azmin,32,56,5.0,3.4285714285714284,Bangladesh
+Surinder Singh,131,85,4.0,9.247058823529413,Philippines
+Surya Anand,201,191,6.0,6.31413612565445,Denmark
+Syazrul Idrus,287,246,27.0,7.0,Malaysia
+Syed Ali Gillani,62,46,2.0,8.08695652173913,Sweden
+Syed Amanullah,9,8,1.0,6.75,Greece
+Syed Aqeel Israr,99,105,6.0,5.657142857142857,Ghana
+Syed Aziz,741,649,46.0,6.850539291217258,Malaysia
+Syed Maisam Ali,50,50,5.0,6.0,Portugal
+Syed Rasel,120,122,4.0,5.901639344262295,Bangladesh
+Syeda Aroob Shah,216,181,5.0,7.1602209944751385,Pakistan
+Sylvia Usabyimana,75,86,3.0,5.232558139534884,Rwanda
+T Abdulquadri,112,131,9.0,5.129770992366412,Nigeria
+T Amarmend,274,197,8.0,8.345177664974619,Mongolia
+T Araliya,109,109,5.0,6.0,Italy
+T Ariuntsetseg,114,138,4.0,4.956521739130435,Mongolia
+T Bukenya,42,26,0.0,9.692307692307692,Uganda
+T Calingin,15,10,0.0,9.0,Malta
+T Chabila,122,122,2.0,6.0,Malawi
+T Cheki,78,92,6.0,5.086956521739131,Bhutan
+T Chopel,29,13,0.0,13.384615384615383,Bhutan
+T Chopra,46,33,0.0,8.363636363636363,United States of America
+T Dissanayake,93,121,1.0,4.6115702479338845,Bulgaria
+T Dlamini,210,222,4.0,5.675675675675675,Eswatini
+T Elikana,14,7,0.0,12.0,Cook Islands
+T Filer,19,24,4.0,4.75,Estonia
+T Gwandu,221,165,11.0,8.036363636363635,Zimbabwe
+T Hanum,18,26,3.0,4.153846153846153,Indonesia
+T Hewa,13,10,0.0,7.800000000000001,Cayman Islands
+T Iosefo,141,169,15.0,5.005917159763314,Samoa
+T Jamtsho,161,124,1.0,7.790322580645161,Bhutan
+T Kahamker,60,51,4.0,7.0588235294117645,Israel
+T Kazanci,69,52,0.0,7.961538461538462,Austria
+T Khabo,98,78,1.0,7.538461538461538,Lesotho
+T Kobeli,112,85,2.0,7.905882352941177,Lesotho
+T Kolcunova,159,186,1.0,5.129032258064516,Czech Republic
+T Koloi,91,76,2.0,7.184210526315789,Lesotho
+T Lafai,74,78,1.0,5.692307692307692,Samoa
+T Legaabile,101,99,4.0,6.121212121212121,Botswana
+T Lhaden,29,31,2.0,5.612903225806451,Bhutan
+T Luka,38,49,5.0,4.653061224489796,Malawi
+T Lungameni,451,387,16.0,6.992248062015504,Namibia
+T Makusha,47,39,2.0,7.23076923076923,Zimbabwe
+T Malinga,243,274,6.0,5.321167883211679,Eswatini
+T Martin,26,20,1.0,7.800000000000001,Luxembourg
+T Marumani,8,6,0.0,8.0,Zimbabwe
+T Mishra,8,6,1.0,8.0,Kenya
+T Motlhabaphuti,14,13,1.0,6.461538461538462,Botswana
+T Mpandakwaya,32,21,1.0,9.142857142857142,Malawi
+T Mpatane,74,48,2.0,9.25,Botswana
+T Mulepati,43,65,6.0,3.969230769230769,Finland
+T Munyonga,45,56,2.0,4.821428571428571,Zimbabwe
+T Mupariwa,45,33,1.0,8.181818181818182,Zimbabwe
+T Musekiwa,53,69,4.0,4.608695652173913,Zimbabwe
+T Muzarabani,106,63,2.0,10.095238095238097,Zimbabwe
+T Natarajan,53,50,4.0,6.36,India
+T Nightingale,105,98,1.0,6.428571428571429,Guernsey
+T Oyella,7,24,1.0,1.75,Uganda
+T Panyangara,199,157,9.0,7.6050955414012735,Zimbabwe
+T Parima,1,2,0.0,3.0,Cook Islands
+T Perera,395,295,22.0,8.033898305084746,Botswana
+T Piakura,9,6,0.0,9.0,Cook Islands
+T Putthawong,569,785,67.0,4.349044585987261,Thailand
+T Rajiv,16,6,0.0,16.0,Seychelles
+T Ramabitsa,159,173,8.0,5.514450867052023,Lesotho
+T Ritawa,109,86,9.0,7.604651162790698,Cook Islands
+T Rossi,241,213,13.0,6.788732394366196,Argentina
+T Salcedo,45,92,11.0,2.9347826086956523,Other
+T Sandaruwan,63,44,4.0,8.590909090909092,Romania
+T Sangha,171,122,4.0,8.40983606557377,Australia
+T Sarada,41,49,1.0,5.020408163265307,Malta
+T Shabani,17,38,1.0,2.6842105263157894,Tanzania
+T Shadrack,337,415,22.0,4.872289156626506,Botswana
+T Shamsi,842,666,32.0,7.585585585585585,South Africa
+T Shanmugam,34,25,1.0,8.16,India
+T Singye,53,25,1.0,12.72,Bhutan
+T Skordili,7,13,2.0,3.230769230769231,Greece
+T Smith,12,6,0.0,12.0,Jersey
+T Stubbs,41,13,0.0,18.923076923076923,South Africa
+T Taibu,42,24,0.0,10.5,Zimbabwe
+T Taylor,254,215,14.0,7.088372093023256,Cayman Islands
+T Thorpe,63,74,4.0,5.108108108108108,Canada
+T Thushara,104,76,5.0,8.210526315789474,Sri Lanka
+T Trajkovic,61,97,11.0,3.77319587628866,Serbia
+T Tshose,423,340,17.0,7.464705882352941,Botswana
+T Tumursukh,180,117,4.0,9.230769230769232,Mongolia
+T Ulutuna,7,6,0.0,7.0,Turkey
+T Vanuarua,93,100,3.0,5.58,Cook Islands
+T Wang Ling,27,19,0.0,8.526315789473685,Singapore
+T Wangchuk,442,362,23.0,7.3259668508287294,Bhutan
+T Yangchen,22,19,0.0,6.947368421052632,Kuwait
+T Yotharat,34,28,2.0,7.285714285714285,Thailand
+T Zangmo,214,255,9.0,5.035294117647059,Bhutan
+T Zotos,30,30,2.0,6.0,Greece
+T van der Gugten,494,424,32.0,6.9905660377358485,Netherlands
+TA Boult,854,669,37.0,7.6591928251121075,New Zealand
+TA Dudnath,35,34,3.0,6.1764705882352935,United States of America
+TA Lavia,86,145,9.0,3.5586206896551724,Canada
+TAM Siriwardana,45,38,3.0,7.105263157894736,Sri Lanka
+TAW Patterson,31,13,0.0,14.307692307692308,Belize
+TB Sole,78,74,3.0,6.324324324324324,Scotland
+TC Mataora,17,16,1.0,6.375,Cook Islands
+TC Vine,86,67,3.0,7.701492537313433,Spain
+TCW Veillard,32,24,1.0,8.0,Guernsey
+TD Astle,72,48,3.0,9.0,New Zealand
+TD Chaoana,164,129,3.0,7.627906976744186,Lesotho
+TD Smartt,272,294,15.0,5.551020408163265,West Indies
+TE Kane,18,13,0.0,8.307692307692307,Ireland
+TF van Woerkom,10,7,0.0,8.571428571428571,Ireland
+TG Norris,30,56,1.0,3.2142857142857144,United States of America
+TG Southee,1839,1419,84.0,7.775898520084567,New Zealand
+TG Thamae,54,37,4.0,8.756756756756756,Lesotho
+TGJ Gruijters,27,31,2.0,5.225806451612903,Netherlands
+TH David,67,55,2.0,7.309090909090909,Australia
+TH Semau,109,156,12.0,4.192307692307692,Samoa
+TI Gajanayake,323,306,12.0,6.333333333333334,Bahrain
+TJ Draca,54,65,4.0,4.984615384615385,Italy
+TJ Mahe,77,56,1.0,8.25,Lesotho
+TJ Murtagh,145,145,8.0,6.0,Ireland
+TJ Vlaeminck,263,263,9.0,6.0,Australia
+TJG Pringle,364,338,17.0,6.461538461538462,Netherlands
+TK Curran,579,367,24.0,9.465940054495912,England
+TK Lal,97,99,6.0,5.878787878787879,Czech Republic
+TK Patel,101,84,5.0,7.2142857142857135,United States of America
+TKP Rajapaksha,101,76,3.0,7.973684210526316,Seychelles
+TL Best,81,63,6.0,7.714285714285715,West Indies
+TL Chatara,688,571,32.0,7.229422066549912,Zimbabwe
+TL Cutler,95,85,4.0,6.705882352941177,Vanuatu
+TLW Cooper,71,54,3.0,7.888888888888889,Netherlands
+TM Dilshan,141,97,1.0,8.721649484536082,Sri Lanka
+TM Faimalo,30,53,6.0,3.39622641509434,Samoa
+TM Head,40,24,0.0,10.0,Australia
+TM Macalou,64,61,4.0,6.295081967213115,Mali
+TM McGrath,251,207,13.0,7.27536231884058,Australia
+TM Odoyo,35,43,4.0,4.883720930232558,Kenya
+TMA Leslie,100,100,5.0,6.0,Cameroon
+TO Carmichael,43,37,0.0,6.972972972972972,United States of America
+TO Thilappan,72,45,1.0,9.6,Singapore
+TOW Chu,18,25,1.0,4.32,Hong Kong
+TP Allen,11,12,1.0,5.5,United States of America
+TP Kanwar,17,25,0.0,4.08,India
+TR Sadhu,46,58,5.0,4.758620689655173,India
+TRR Sharfudheen,48,61,2.0,4.721311475409836,Malta
+TS Braat,28,12,1.0,14.0,Netherlands
+TS Chisoro,115,95,3.0,7.263157894736842,Zimbabwe
+TS Mills,382,278,17.0,8.244604316546763,England
+TS Omary,43,62,5.0,4.161290322580646,Tanzania
+TS Sekhukhune,416,398,27.0,6.271356783919599,South Africa
+TS Waqavakatoga,98,72,3.0,8.166666666666668,Fiji
+TT Aung,35,32,5.0,6.5625,Myanmar
+TT Bresnan,711,543,20.0,7.856353591160222,England
+TT Maposa,190,148,6.0,7.702702702702703,Zimbabwe
+TT Soe,269,416,27.0,3.879807692307693,Myanmar
+TU Deshpande,30,19,1.0,9.473684210526317,India
+TW Dlamini,2,12,0.0,1.0,Eswatini
+TW Samuels,34,19,0.0,10.736842105263158,Belize
+TZ Chataira,30,27,4.0,6.666666666666667,Zimbabwe
+Tafseer Ali,27,18,1.0,9.0,Norway
+Taful Elkhair,20,12,0.0,10.0,Qatar
+Taher Muhammad,158,107,3.0,8.85981308411215,Slovenia
+Taijul Islam,26,20,1.0,7.800000000000001,Bangladesh
+Tamoor Sajjad,123,109,3.0,6.770642201834862,Qatar
+Tanveer Ahmed,47,25,0.0,11.28,Hong Kong
+Tanwir Afzal,255,219,11.0,6.986301369863014,Hong Kong
+Tanzeel Sheikh,21,28,0.0,4.5,Kenya
+Tanzim Hasan Sakib,640,472,26.0,8.135593220338983,Bangladesh
+Taranjeet Singh,451,370,24.0,7.313513513513513,Romania
+Taranjit Singh,142,123,5.0,6.926829268292684,Cyprus
+Tariq Aziz,37,53,4.0,4.188679245283018,Portugal
+Tasaduq Hussain,47,38,2.0,7.421052631578948,Sweden
+Tashi Dorji,108,77,4.0,8.415584415584416,Bhutan
+Tashi Phuntsho,62,55,1.0,6.763636363636364,Bhutan
+Taskin Ahmed,1279,938,56.0,8.181236673773986,Bangladesh
+Tauqeer Hussain,40,36,4.0,6.666666666666667,Spain
+Tejwinder Singh,73,78,5.0,5.615384615384615,Cyprus
+Thae Thae Po,9,8,0.0,6.75,Myanmar
+Tharika Sewwandi,10,16,1.0,3.75,Sri Lanka
+Thuya Aung,220,211,12.0,6.255924170616114,Myanmar
+Tian Sen Qun,154,152,8.0,6.078947368421052,China
+Tilak Varma,15,19,1.0,4.7368421052631575,India
+Toqeer Ahmad,36,25,1.0,8.64,Denmark
+Tripti Gore,26,23,1.0,6.782608695652174,Belgium
+Tshering Choden,20,20,0.0,6.0,Bhutan
+Tuba Hassan,358,355,18.0,6.050704225352113,Pakistan
+U Aryaman Sunil,292,191,3.0,9.172774869109949,Singapore
+U Bayarjavkhlan,57,55,3.0,6.218181818181819,Mongolia
+U Bhagwan,69,45,1.0,9.2,Canada
+U Iftikhar,36,66,3.0,3.2727272727272725,United States of America
+U Peace,122,161,7.0,4.546583850931677,Nigeria
+U Shahid,48,59,3.0,4.88135593220339,France
+U Shantu,159,171,15.0,5.578947368421053,Portugal
+UKPW Kumaranayaka,52,50,1.0,6.24,Kuwait
+US Hathinjar,32,27,3.0,7.111111111111111,Cambodia
+UT Yadav,142,90,6.0,9.466666666666669,India
+UWMBCA Welegedara,41,26,0.0,9.461538461538462,Sri Lanka
+Ugyen Dorji,7,15,1.0,2.8,Bhutan
+Umaima Sohail,222,240,15.0,5.550000000000001,Pakistan
+Umair Qasim,143,116,4.0,7.3965517241379315,Eswatini
+Umair Sharif,46,40,1.0,6.9,Saudi Arabia
+Umair Tariq,398,346,27.0,6.901734104046243,Austria
+Umar Adam,458,401,26.0,6.852867830423939,Maldives
+Umar Gul,754,628,53.0,7.203821656050955,Pakistan
+Umm-e-Hani,66,66,2.0,6.0,Pakistan
+Umran Malik,141,66,5.0,12.818181818181817,India
+Usama Mir,133,74,2.0,10.783783783783784,Pakistan
+Usman Ali,36,18,0.0,12.0,Eswatini
+Usman Arif,13,12,2.0,6.5,Norway
+Usman Khalid,307,290,17.0,6.3517241379310345,Saudi Arabia
+Usman Khan,192,173,11.0,6.658959537572254,France
+Usman Najeeb,562,482,32.0,6.995850622406639,Saudi Arabia
+Usman Qadir,278,206,15.0,8.097087378640778,Pakistan
+Usman Rafiq,24,12,1.0,12.0,United States of America
+Usman Shinwari,276,169,8.0,9.798816568047336,Pakistan
+Usman Tariq,26,26,2.0,6.0,Pakistan
+Uswa Syed,99,140,8.0,4.242857142857143,Spain
+Utkarsh Jain,286,305,17.0,5.6262295081967215,Cambodia
+V Araa,210,229,15.0,5.502183406113537,Papua New Guinea
+V Atanasova,130,98,2.0,7.959183673469387,Bulgaria
+V Ateak,107,97,6.0,6.618556701030928,Ghana
+V Avdylaj,133,115,0.0,6.939130434782609,Austria
+V Balakrishnan,4,4,1.0,6.0,Botswana
+V Barboza,67,53,1.0,7.584905660377358,Bahrain
+V Baskaran,288,245,10.0,7.053061224489797,Singapore
+V Buruka,51,50,5.0,6.12,Papua New Guinea
+V Frank,16,13,0.0,7.384615384615385,Papua New Guinea
+V Ganesan,290,286,18.0,6.083916083916083,Germany
+V Hampihallikar,37,19,0.0,11.68421052631579,Singapore
+V Hamunyela,341,445,20.0,4.597752808988764,Namibia
+V Hettiarachchi,12,6,0.0,12.0,United Arab Emirates
+V Iriho,78,97,3.0,4.824742268041238,Rwanda
+V Jatinder Kumar,100,96,5.0,6.25,Germany
+V Jayant,43,26,1.0,9.923076923076923,Lesotho
+V Kai,43,53,0.0,4.867924528301887,France
+V Khanduri,84,58,4.0,8.689655172413794,Cyprus
+V Kohli,105,68,2.0,9.264705882352942,India
+V Mahajan,122,131,4.0,5.587786259541985,Canada
+V Mansale,241,257,13.0,5.626459143968871,Vanuatu
+V Marghashayam,83,48,3.0,10.375,Czech Republic
+V Mitari,170,151,8.0,6.754966887417218,Rwanda
+V Nagpaul,21,24,1.0,5.25,Singapore
+V Permaul,8,5,0.0,9.6,West Indies
+V Phiri,152,175,12.0,5.211428571428572,Malawi
+V Rathinasamy,15,17,2.0,5.294117647058823,Croatia
+V Ravindran,21,40,4.0,3.1500000000000004,Hungary
+V Saini,544,442,24.0,7.384615384615385,Romania
+V Shankar,110,73,5.0,9.04109589041096,India
+V Shaw,15,14,1.0,6.428571428571429,Suriname
+V Tafea,18,24,0.0,4.5,Samoa
+V Thari Thari,47,23,1.0,12.260869565217392,Botswana
+V Vijh,610,441,28.0,8.299319727891156,Luxembourg
+V Vira,155,233,18.0,3.991416309012876,Vanuatu
+V Vithanage,51,49,2.0,6.244897959183674,Canada
+V Zanko,25,13,0.0,11.538461538461538,Croatia
+V Zimonjic,471,377,20.0,7.496021220159152,Serbia
+VB Viyala,68,71,4.0,5.746478873239436,Norway
+VC Ahir,53,36,0.0,8.833333333333334,Panama
+VD Adewoye,158,113,6.0,8.389380530973451,Nigeria
+VD Philander,86,69,4.0,7.478260869565217,South Africa
+VE Tembo,83,41,1.0,12.146341463414634,Mozambique
+VJ Kingma,308,244,6.0,7.573770491803279,Netherlands
+VL Mukesh,45,36,0.0,7.5,Seychelles
+VM Vaghela,28,36,4.0,4.666666666666667,United States of America
+VN Veetil,148,113,4.0,7.8584070796460175,Qatar
+VP Thamotharam,455,399,23.0,6.842105263157895,Malta
+VR Iyer,4,6,0.0,4.0,India
+VRB Arachchige,7,7,1.0,6.0,Malta
+VS Padhaal,12,6,0.0,12.0,Finland
+Vaishnave Mahesh,574,721,57.0,4.776699029126213,United Arab Emirates
+Vaishnavi Sharma,63,67,4.0,5.64179104477612,India
+Vichanath Singh,91,98,2.0,5.571428571428571,Thailand
+Vikramjit Singh,23,18,1.0,7.666666666666666,Netherlands
+Viktoria Frey,282,343,19.0,4.932944606413994,Estonia
+Vimal Kumar,68,36,0.0,11.333333333333332,Philippines
+Vinay Ravi,229,237,11.0,5.79746835443038,Norway
+Vinu Kumar,259,287,13.0,5.414634146341464,Singapore
+Virandeep Singh,556,641,56.0,5.204368174726989,Malaysia
+Virendra Kumar,29,32,2.0,5.4375,Israel
+Vishal Sharma,28,16,1.0,10.5,Norway
+Vishaul Singh,16,12,1.0,8.0,Suriname
+Vishil Patel,247,202,10.0,7.336633663366337,Kenya
+Vivek Dixit,8,6,0.0,8.0,Luxembourg
+Vraj Patel,660,705,36.0,5.617021276595745,Kenya
+W Barresi,4,6,1.0,4.0,Netherlands
+W Behr,67,61,4.0,6.59016393442623,Germany
+W Ginindza,204,152,5.0,8.052631578947368,Eswatini
+W Hornero-Garcia,94,67,1.0,8.417910447761194,Germany
+W Kokaua,106,68,7.0,9.352941176470589,Cook Islands
+W Liengprasert,73,100,11.0,4.38,Thailand
+W Madhevere,211,178,10.0,7.112359550561797,Zimbabwe
+W Moutswi,119,174,9.0,4.103448275862069,Botswana
+W Mwatile,676,968,39.0,4.190082644628099,Namibia
+W Nalisa,296,237,9.0,7.49367088607595,Vanuatu
+W Ngowhuad,179,129,14.0,8.325581395348838,Thailand
+W O'Rourke,116,108,2.0,6.444444444444445,New Zealand
+W Peatfield,186,202,16.0,5.524752475247525,Guernsey
+W Perchard,12,6,0.0,12.0,Jersey
+W Uisuk,18,13,0.0,8.307692307692307,Thailand
+W Viraliliu,29,19,0.0,9.157894736842106,Vanuatu
+W Wotu,36,38,2.0,5.684210526315789,Vanuatu
+WA Duraisingam,699,706,34.0,5.9405099150141645,Malaysia
+WAE Burton,151,115,7.0,7.878260869565217,Serbia
+WB Rankin,595,551,30.0,6.479128856624319,Ireland
+WD Parnell,631,488,23.0,7.758196721311474,South Africa
+WG Jacks,24,12,0.0,12.0,England
+WGAKK Kulasuriya,408,315,14.0,7.771428571428572,Sri Lanka
+WJ Cope,276,211,13.0,7.848341232227488,Luxembourg
+WJ Malinda,17,14,0.0,7.285714285714285,Maldives
+WK Bitis,58,36,2.0,9.666666666666668,Croatia
+WK Dilhari,723,633,39.0,6.853080568720379,Sri Lanka
+WK Lai,128,147,11.0,5.224489795918367,Hong Kong
+WK McCallan,110,98,9.0,6.73469387755102,Ireland
+WP Masakadza,661,520,17.0,7.626923076923076,Zimbabwe
+WPUJC Vaas,84,72,2.0,7.0,Sri Lanka
+WSLK Narayana,58,52,1.0,6.6923076923076925,Israel
+WT Gavera,77,61,3.0,7.573770491803279,Papua New Guinea
+WT Mashinge,22,15,0.0,8.799999999999999,Zimbabwe
+WT Mubayiwa,49,66,5.0,4.454545454545455,Zimbabwe
+Wahab Riaz,525,404,24.0,7.797029702970297,Pakistan
+Waheed Ahmed,166,122,4.0,8.163934426229508,United Arab Emirates
+Waheeda Akhtar,114,89,5.0,7.685393258426966,Pakistan
+Wahidullah Sahak,136,92,5.0,8.869565217391305,Norway
+Waji Ul Hassan,289,221,7.0,7.846153846153847,Saudi Arabia
+Waleed Waqar,26,12,1.0,13.0,Bulgaria
+Walid Ghauri,34,25,1.0,8.16,Norway
+Wan Nor Zulaika,109,103,2.0,6.349514563106796,Malaysia
+Wang Huiying,193,229,13.0,5.056768558951965,China
+Wang Meng,68,109,7.0,3.743119266055046,China
+Wang Qi,36,41,2.0,5.2682926829268295,China
+Waqar Abbasi,33,28,1.0,7.071428571428571,Romania
+Waqar Ali,114,139,17.0,4.920863309352518,Cyprus
+Waqar Khan,46,20,3.0,13.8,Slovenia
+Waqar Zalmai,316,272,17.0,6.970588235294118,Austria
+Waqas Ahmad,192,174,16.0,6.620689655172414,Malta
+Waqas Barkat,169,125,5.0,8.112,Hong Kong
+Waqas Khan,12,7,0.0,10.285714285714285,Hong Kong
+Waseem Muhammad,89,38,0.0,14.052631578947368,United Arab Emirates
+Waseem Yaqoob,174,105,8.0,9.942857142857145,Lesotho
+Waseeq Ahmed,129,117,7.0,6.615384615384616,Bahrain
+Washeem Abbas,711,598,49.0,7.133779264214047,Malta
+Washington Sundar,519,476,24.0,6.542016806722689,India
+Wasim Ali,51,67,2.0,4.567164179104477,Oman
+Wei Haiting,29,18,0.0,9.666666666666668,China
+Wenjing Yin,33,19,0.0,10.421052631578949,China
+Wu Juan,80,143,9.0,3.3566433566433567,China
+XC Bartlett,279,205,14.0,8.165853658536586,Australia
+XJ Doherty,191,128,7.0,8.953125,Australia
+XSD Smith,86,99,7.0,5.212121212121213,Suriname
+Xiuli Jin,22,40,8.0,3.3000000000000003,China
+Xu Qian,174,346,17.0,3.017341040462428,China
+Y Cariah,28,12,0.0,14.0,West Indies
+Y Choden,39,34,3.0,6.88235294117647,Bhutan
+Y Divekar,16,6,0.0,16.0,Israel
+Y Fourie,77,63,3.0,7.333333333333334,South Africa
+Y Jasti,49,61,4.0,4.819672131147541,Mexico
+Y Konate,16,18,0.0,5.333333333333333,Mali
+Y Potgieter,7,6,0.0,7.0,South Africa
+Y Saranonnakkun,22,19,1.0,6.947368421052632,Thailand
+Y Verma,71,79,1.0,5.39240506329114,Oman
+YK Pathan,194,135,6.0,8.622222222222224,India
+YM Murrure,76,74,2.0,6.162162162162161,Mozambique
+YM Nkanya,454,483,34.0,5.639751552795032,Tanzania
+YP Dayal,123,105,4.0,7.0285714285714285,Suriname
+YS Blagg,56,76,5.0,4.421052631578947,Gibraltar
+YS Chahal,964,745,33.0,7.763758389261746,India
+YS To,50,53,4.0,5.660377358490566,Hong Kong
+YSD Seneveratne,24,16,0.0,9.0,Cayman Islands
+YYM Jakda,112,69,4.0,9.73913043478261,Lesotho
+Yadwinder Singh,2,12,0.0,1.0,Hungary
+Yahya Suhail,53,44,2.0,7.227272727272727,Timor-Leste
+Yair Nagavkar,78,74,4.0,6.324324324324324,Israel
+Yang Shen,46,75,4.0,3.68,China
+Yang Yu Xuan,14,27,1.0,3.1111111111111107,China
+Yasar Haroon,188,194,12.0,5.814432989690721,Brazil
+Yash Singh,71,56,2.0,7.607142857142857,Malta
+Yash Talati,8,26,3.0,1.8461538461538465,Kenya
+Yasim Murtaza,459,493,34.0,5.586206896551724,Hong Kong
+Yasin Patel,746,765,43.0,5.850980392156862,Kuwait
+Yasir Ali,419,449,36.0,5.599109131403118,Spain
+Yasir Arafat,214,141,12.0,9.106382978723405,Pakistan
+Yasir Mehmood,49,52,4.0,5.653846153846153,Cyprus
+Yasir Mohammad,240,184,14.0,7.826086956521739,United States of America
+Yasmeen Khan,59,54,0.0,6.555555555555555,Namibia
+Ye Ko Ko,29,25,2.0,6.959999999999999,Myanmar
+Yin Chenhao,5,8,0.0,3.75,China
+Younis Khan,20,22,3.0,5.454545454545454,Pakistan
+Yousif Wali,18,8,0.0,13.5,Bahrain
+Yousuf Ali,15,6,0.0,15.0,Qatar
+Yuanyuan Cai,25,32,1.0,4.6875,China
+Yusuf Ebrahim,75,50,3.0,9.0,Panama
+Yuvraj Singh,270,222,18.0,7.297297297297297,India
+Yves Cyusa,157,132,4.0,7.136363636363637,Rwanda
+Z Bimenyimana,1272,1010,58.0,7.556435643564356,Rwanda
+Z Burgess,155,193,10.0,4.818652849740932,Bermuda
+Z Groenewald,124,123,7.0,6.048780487804878,Namibia
+Z Hoque,47,48,2.0,5.875,Thailand
+Z James,118,104,5.0,6.807692307692308,West Indies
+Z Kamara,83,108,5.0,4.611111111111111,Sierra Leone
+Z Khan,255,204,11.0,7.5,India
+Z Mali,127,97,3.0,7.855670103092784,South Africa
+Z Motara,13,6,0.0,13.0,West Indies
+Z Shurentsetseg,227,145,6.0,9.393103448275864,Mongolia
+ZB Lion-Cachet,95,85,3.0,6.705882352941177,Netherlands
+ZE Matsinhe,80,56,0.0,8.571428571428571,Mozambique
+ZGF Foulkes,221,161,5.0,8.236024844720497,New Zealand
+ZK Shem,36,27,1.0,8.0,Vanuatu
+ZL Thoon,101,179,13.0,3.3854748603351954,Myanmar
+ZL Win,232,336,11.0,4.142857142857142,Myanmar
+ZM Tribe,13,12,0.0,6.5,Jersey
+ZP Ikiua,140,140,6.0,6.0,Cook Islands
+ZT Kyaw,173,218,12.0,4.761467889908257,Myanmar
+ZXM Vukusic,76,49,2.0,9.306122448979592,Croatia
+Zafer Durmaz,33,39,3.0,5.076923076923077,Turkey
+Zaheer Maqsood,51,30,0.0,10.2,United Arab Emirates
+Zaheer Zahiri,85,80,5.0,6.375,France
+Zahid Abbas,16,18,0.0,5.333333333333333,Kenya
+Zahid Ali,80,63,4.0,7.619047619047619,United Arab Emirates
+Zahid Hussain,20,25,0.0,4.800000000000001,Canada
+Zahid Khan,79,63,1.0,7.523809523809524,Sierra Leone
+Zahid Mahmood,40,25,3.0,9.6,Pakistan
+Zahid Zadran,119,93,2.0,7.67741935483871,Germany
+Zahir Mohammed,23,7,0.0,19.714285714285715,Hungary
+Zahoor Ahmad,22,32,1.0,4.125,Saudi Arabia
+Zahoor Khan,598,490,34.0,7.322448979591837,United Arab Emirates
+Zain Ahmad,110,84,4.0,7.857142857142858,France
+Zain Ali,18,25,3.0,4.32,Italy
+Zain Ul Abidin,427,431,20.0,5.944315545243619,Saudi Arabia
+Zaker Taqawi,262,224,20.0,7.017857142857143,Sweden
+Zaki Ul Hassan,70,36,3.0,11.666666666666666,Belgium
+Zaman Khan,105,66,2.0,9.545454545454543,Pakistan
+Zara Haider,15,15,2.0,6.0,Hong Kong
+Zara Mohammad,54,61,4.0,5.311475409836065,Sweden
+Zawar Farid,75,50,2.0,9.0,United Arab Emirates
+Zeefa Jilani,166,190,11.0,5.242105263157895,Kuwait
+Zeerak Chughtai,227,172,17.0,7.91860465116279,Bulgaria
+Zeeshan Abbas,45,32,1.0,8.4375,Bahrain
+Zeeshan Ali,98,79,5.0,7.443037974683544,Hong Kong
+Zeeshan Goraya,50,37,1.0,8.108108108108109,Austria
+Zeeshan Kukikhel,240,155,10.0,9.29032258064516,Hungary
+Zeeshan Maqsood,514,535,32.0,5.764485981308411,Oman
+Zeshan Arif,23,12,1.0,11.5,Austria
+Zhang Xiangxue,34,48,2.0,4.25,China
+Zhao Tianle,55,25,1.0,13.2,China
+Zheng Lili,57,73,1.0,4.684931506849315,China
+Ziaur Rahman,101,62,3.0,9.774193548387098,Bangladesh
+Ziaurahman Shinwari,113,101,11.0,6.7128712871287135,Austria
+Zikria Islam,28,25,1.0,6.720000000000001,Oman
+Zinaida Jeremiah,70,69,3.0,6.086956521739131,Tanzania
+Zohaib Sarwar,141,90,3.0,9.4,Portugal
+Zon Lin,190,259,15.0,4.401544401544402,Myanmar
+Zong Yuechao,87,85,4.0,6.141176470588235,China
+Zou Kui,37,15,0.0,14.8,China
+Zuhaib Zubair,210,184,12.0,6.8478260869565215,United Arab Emirates
+Zulfiqar Babar,52,50,4.0,6.24,Pakistan
+Zulqarnain Haider,23,24,2.0,5.75,Pakistan
+Zumika Azmi,133,116,2.0,6.879310344827586,Malaysia
+Zwe Htet Paing,30,12,1.0,15.0,Myanmar
