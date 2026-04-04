@@ -4,7 +4,5 @@ matplotlib
 seaborn
 scikit-learn
 xgboost
-torch
 questionary
-tensorflow
 rich
