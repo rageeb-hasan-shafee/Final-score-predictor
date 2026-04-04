@@ -106,7 +106,7 @@ def run_cli():
     X_input = pd.DataFrame([feature_dict])[cols]
 
     # 5. Predict
-    model_path = MODEL_DIR / "cricket_score_model_v4.json"
+    model_path = MODEL_DIR / "cricket_score_model.json"
     if model_path.exists():
         model = xgb.XGBRegressor()
         model.load_model(str(model_path))

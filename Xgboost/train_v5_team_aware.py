@@ -7,12 +7,15 @@ from sklearn.metrics import mean_absolute_error
 import matplotlib.pyplot as plt
 
 # --- CONFIGURATION ---
+SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DATASET_DIR = PROJECT_ROOT / "dataset"
-OUTPUT_DIR = Path(__file__).resolve().parent
-MODEL_PATH = OUTPUT_DIR / "cricket_team_model_v5.json"
+OUTPUT_DIR = PROJECT_ROOT / "output"
+MODEL_PATH = SCRIPT_DIR / "cricket_team_model_v5.json"
 MAE_OVERS_PLOT_PATH = OUTPUT_DIR / "mae_v5_phases.png"
 MAE_MATCHES_PLOT_PATH = OUTPUT_DIR / "mae_v5_distribution.png"
+
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # 1. LOAD DATA
 try:

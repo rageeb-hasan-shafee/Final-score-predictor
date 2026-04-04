@@ -1,0 +1,14 @@
+role: batter
+team: Pakistan
+players:
+Fakhar Zaman
+Saim Ayub
+Mohammad Haris
+Agha Salman
+Hassan Nawaz
+Shadab Khan
+Khushdil Shah
+Faheem Ashraf
+Hasan Ali
+Haris Rauf
+Abrar Ahmed
