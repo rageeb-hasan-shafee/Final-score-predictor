@@ -109,9 +109,7 @@ What this does:
 4. Saves model to:
    - `Xgboost/cricket_team_model_v5.json`
 5. Saves plots to:
-   - `output/mae_v5_phases.png`
-   - `output/mae_v5_distribution.png`
-   - `output/mae_v5_overs_played.png`
+   - `output/mae_overs_played.png`
    - `output/match_count_mae_range/*.png`
 
 ---
@@ -217,8 +215,7 @@ Expected output includes lines like:
 TRAINING SUMMARY
 Final Model Test MAE : 10.29 runs
 SUCCESS: Model saved as cricket_team_model_v5.json
-SUCCESS: Phased plot saved as mae_v5_phases.png
-SUCCESS: Distribution plot saved as mae_v5_distribution.png
+SUCCESS: Overs-played plot saved as mae_overs_played.png
 ```
 
 ### Step B: Start prediction
@@ -252,17 +249,9 @@ You will get a prediction panel and can choose:
 
 Generated plot files are saved in `output/`.
 
-### MAE by Match Phase
-
-![MAE by phase](output/mae_v5_phases.png)
-
-### MAE Distribution
-
-![MAE distribution](output/mae_v5_distribution.png)
-
 ### MAE vs Overs Played
 
-![MAE vs overs played](output/mae_v5_overs_played.png)
+![MAE vs overs played](output/mae_overs_played.png)
 
 ---
 
