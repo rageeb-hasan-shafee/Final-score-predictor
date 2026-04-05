@@ -1,0 +1,14 @@
+role: batter
+team: New Zealand
+players:
+MJ Guptill
+DJ Mitchell
+KS Williamson
+GD Phillips
+JDS Neesham
+TL Seifert
+MJ Santner
+AF Milne
+TG Southee
+IS Sodhi
+TA Boult

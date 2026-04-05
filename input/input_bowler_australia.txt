@@ -1,0 +1,9 @@
+role: bowler
+team: Australia
+players:
+MA Starc
+JR Hazlewood
+GJ Maxwell
+PJ Cummins
+A Zampa
+MR Marsh

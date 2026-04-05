@@ -1,0 +1,10 @@
+role: bowler
+team: New Zealand
+players:
+TG Southee
+TA Boult
+AF Milne
+IS Sodhi
+MJ Santner
+JDS Neesham
+GD Phillips

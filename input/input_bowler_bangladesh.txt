@@ -1,0 +1,9 @@
+role: bowler
+team: Bangladesh
+players:
+Mahedi Hasan
+Shoriful Islam
+Hasan Mahmud
+Tanzim Hasan Sakib
+Rishad Hossain
+Shamim Hossain

@@ -1,0 +1,14 @@
+role: batter
+team: England
+players:
+JC Buttler
+JM Bairstow
+DJ Malan
+MM Ali
+LS Livingstone
+EJG Morgan
+SW Billings
+CR Woakes
+AU Rashid
+MA Wood
+CJ Jordan
