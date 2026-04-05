@@ -1,0 +1,8 @@
+role: batter
+team: Argentina
+players:
+A Ferguson
+A Galan
+A Husain
+A Kirschbaum
+A Mustafa

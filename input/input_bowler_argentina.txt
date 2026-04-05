@@ -1,0 +1,8 @@
+role: bowler
+team: Argentina
+players:
+A Emch
+A Galan
+A Husain
+A Kirschbaum
+A Prince
