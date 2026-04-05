@@ -302,7 +302,15 @@ def main():
     )
     st.table(summary_df)
 
-    st.success(f"PREDICTED FINAL TOTAL: {pred}")
+    st.markdown(
+        f"""
+        <div style="text-align:center; margin-top:1rem;">
+            <div style="font-size:1.1rem; font-weight:600; color:#14b8a6;">PREDICTED FINAL TOTAL</div>
+            <div style="font-size:4rem; font-weight:800; line-height:1.1; color:#14b8a6;">{pred}</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
 
 if __name__ == "__main__":

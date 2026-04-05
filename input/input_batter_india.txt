@@ -1,0 +1,14 @@
+role: batter
+team: India
+players:
+A Das
+AA Patil
+AB Kaur
+AR Patel
+AM Rahane
+AB Dinda
+G Sultana
+DS Kulkarni
+H Deol
+HH Pandya
+G Kamalini
